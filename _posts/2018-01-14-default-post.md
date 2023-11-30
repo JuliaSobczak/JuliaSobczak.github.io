@@ -1,9 +1,9 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-title: ET-Jekyll theme
-description: A visual breakdown of how to use the ET jekyll theme
-permalink: et-jekyll-theme/
+title: What if...
+description: First blog post
+permalink: what-if/
 date: 2023-04-02
 ---
 
