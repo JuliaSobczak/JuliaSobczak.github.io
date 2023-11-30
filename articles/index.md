@@ -1,8 +1,8 @@
 ---
 layout: articles
 title: Articles
-description: Blog posts and pictures, written by Casey and posted by Julia.
+description: Posts and pictures from the trip, written by Casey and edited by Julia.
 ---
 
-<p>Blog posts and pictures, written by Casey and posted by Julia.</p>
+<p>Posts and pictures from the trip, written by Casey and edited by Julia.</p>
 
