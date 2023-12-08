@@ -34,7 +34,7 @@ The next day we woke up and went to Costco as soon as they opened, the shopping 
 
 ![costco-run](/images/costco-run-rz.jpg)
 
-*Standing in line at Costco - this was before we got liquor*
+*This was before we got liquor*
 
 After completely filling the back of the truck with our grocery run we went back to St. Marys, GA and unloaded it into the boat. Sounds easy enough right? Well everything has to go from the back of the truck, to the swim deck on the back of the boat, up stairs from there to the back deck, then back down a small set of stairs inside to the living room, and from there distributed into storage. By the time we finished putting away the refrigerated and frozen items, the doors would hardly stay closed. Next, we had to get creative using hundreds of nooks and crannies in the state rooms (bedrooms), living room, and kitchen to store our - hopefully - four months' supply of food; trust me, it's packed in tight.
 
