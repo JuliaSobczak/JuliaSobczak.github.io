@@ -12,13 +12,13 @@ On Tuesday November 28th at 9:00 a.m. in 44 degrees, the boat was lowered into t
 
 *Altitude Adjustment hanging in the sling*
 
-Miraculously there were no leaks, both of the motors started, and we managed to navigate the tight waterways leaving the ship yard with ease. Once we hit the Saint Marys River, the channel widened and our stress levels dropped slightly. Our next mission was finding a place to fill up our fresh water tanks. My dad called multiple marinas to ask about stopping to top off, and possibly staying the night, but was met with either "no vacancy" or an answering machine. As we made our way toward the intracoastal waterway (ICW), through large freight docks and towering cranes, we passed a marina my parents had used in previous years.
+Miraculously there were no leaks, both of the motors started, and we managed to navigate the tight waterways leaving the ship yard with ease. Once we hit the Saint Marys River, the channel widened and our stress levels dropped slightly. Our next mission was finding a place to fill up our fresh water tanks. My dad called multiple marinas to ask about stopping to top off and possibly staying the night, but was met with either "no vacancy" or an answering machine. As we made our way toward the intracoastal waterway (ICW), through large freight docks and towering cranes, we passed a marina my parents had used in previous years.
 
 ![cool-crane](/images/cool-crane.jpg)
 
 *Feeling small beside the huge ships*
 
-It didn't seem open as we passed and no one had answered the phone, but we could see a water hose on the dock as we passed. At the last second we called an audible, did the quickest 180 we could, and made a half-assed attempt at tying up. My dad hopped off the boat while I popped open the water tanks, he handed me the hose and we pirated ourselves some fresh water. As I filled the port (left) water tank, the Coast Guard drove by us. Standing in the cold wind, hunched over in a hoodie, and tied up at a closed dock all I could think was "don't be suspicious, don't be suspicious."  They passed us and waved, obviously not too concerned with what we were up to. The next six hours were, at best, uneventful; we meandered our way south in the ICW with barely a boat passing us. The main highlight, other than the occasional dolphin, were the multitude of birds that we observed; from pelicans to pipers, birds are no stranger to these marshes.
+It didn't seem open as we passed and no one had answered the phone, but we could see a water hose on the dock as we passed. At the last second we called an audible, did the quickest 180 we could, and made a half-assed attempt at tying up. My dad hopped off the boat while I popped open the water tanks, he handed me the hose and we pirated ourselves some fresh water. As I filled the port water tank, the Coast Guard drove by us. Standing in the cold wind, hunched over in a hoodie, and tied up at a closed dock all I could think was "don't be suspicious, don't be suspicious."  They passed us and waved, obviously not too concerned with what we were up to. The next six hours were, at best, uneventful; we meandered our way south in the ICW with barely a boat passing us. The main highlight, other than the occasional dolphin, were the multitude of birds that we observed; from pelicans to pipers, birds are no stranger to these marshes.
 
 ![marsh-sunset](/images/marsh-sunset.jpg)
 
@@ -33,7 +33,7 @@ The channel is narrow but, with no traffic, it was a breeze to navigate. We cros
 
 ---
 
-### *Nov 29, 2023*
+<p class="subtitle">Nov 29, 2023</p>
 
 At no point in time when preparing for this trip did I consider packing long socks, a long sleeve shirt, or a beanie, but this morning I wanted all of them. In hindsight, Denver was 19 degrees and it was probably closer to 45 in Florida so we shouldn't complain too much. Once the sun crept into the pilot house, all four of us were up there trying to photosynthesize.
 
@@ -92,11 +92,12 @@ Steve and Anja added jalapeño and datil pepper plants and a few other herbs to 
 
 
 <p class="subtitle">Dec 2, 2023</p>
+
 Today we plan to make our way down to Cocoa, Florida. The “cold” we endured our first couple of days has now made way for 80 degrees. Julia and I love the cold and snow in Colorado, but I'm starting to see the appeal of Florida winters. Wearing a t-shirt and shorts in December just isn't too bad. The rootbeer-colored water we were treading through in Daytona is getting clearer by the day.
 
 ![water-compare](/images/water-compare.jpg)
 
-*(Left) root beer in Daytona, (Right) clean water in Cocoa
+*(Left) root beer in Daytona, (Right) clean water in Cocoa*
 
 The scenery also changed pretty dramatically today. The ICW that was a narrow ditch lined by houses and docks became a vast pool miles across. The main channel we had been traveling in didn't change, but dry land was much farther away than before. Some people might have been nervous, but the feeling on the boat is pure excitement as each day we inch closer to good fishing, snorkeling, diving, and beautiful sunny days. Eventually, we made our way down to Cocoa and anchored for the night. Then, we went and explored the street fair that was going on before stopping at a German pub for some beers. 
 
@@ -108,7 +109,7 @@ The lederhosen was out in full force! They had a live one-man band who was defin
 
 ![german-guy](/images/german-guy.jpg)
 
-*Herb playing his heart out*
+*Herb playing his heart out!*
 
 We finished our biers, applauded the performance, and headed to the boat. Once again we ate well: elk steaks from Pagosa Springs, CO and stone crab claws from Hermosa Beach, FL - the ultimate surf and turf. Our dessert for the night was watching SpaceX launch a rocket. When they tell you it's taking off at 11pm, you better be watching at 11pm. We all got up just moments before ignition to watch. At exactly 11 o'clock there was absolutely no doubt that a rocket was launching. The entire horizon lit up as if the sun was rising and seconds later a rocket lifted into the air. Initially it was so bright, it hurt my eyes to watch. The rocket climbed into the night sky illuminating the thin clouds into a beautiful portrait.
 
