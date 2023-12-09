@@ -1,7 +1,7 @@
 ## Image Tracker
 *Tracking which images were used where*
 
-Home page: ?
+Home page: Dork squad - need a drone photo of the boat in Bahama water
 
 First post (What if)
 * crashing_waves.jpg: blue crashing waves on an iron shore
@@ -14,3 +14,18 @@ Second post (Clean and Provision)
 * wifi-butt.jpg: casey's butt coming out of the boat
 * yard-boat-casey.jpg: casey on the back of the boat in the yard
 * rainbow-yard.jpg: rainbow over the boat yard
+
+Third post (The Journey Begins)
+* boat-sling.jpg: AA in the sling at sunset
+* cool-crane.jpg: large shipping crane on a barge
+* marsh sunset.jpg: pretty marsh at sunset
+* wassup-cormorant.jpg: cormorant sunning itself on a post
+* drawbridge.jpg: Bridge of Lions opening up in St. Augustine
+* christmas-boat.jpg: sailboat light up with christmas lights
+* dolphin-splash.jpg: dolphin splashing through green water near the boat
+* julia-driving.jpg: julia driving the boat
+* foggy-sunrise.jpg: sunrise in the foggy morning
+* water-compare.jpg: side-by-side comparison of root beer Daytona water and clear Cocoa water
+* jc-biers.jpg: Julia & Casey drinking beer at the german beer garden
+* german-guy.jpg: Herb playing the keyboard
+* rocket-launch.jpg: night-time rocket launch
