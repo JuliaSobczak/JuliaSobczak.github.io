@@ -105,7 +105,7 @@ The scenery also changed pretty dramatically today. The ICW that was a narrow di
 
 *Cheers from the Village Bier Garten*
 
-The lederhosen was out in full force! They had a live one-man band who was definitely getting his exercise. He took the stage and after a few mentions of free shots and chugging beers he had everyone's attention. He played piano and cowbell, sang everything in German, and had a alphorn which none of us had ever seen before.
+The lederhosen was out in full force! They had a live one-man band who was definitely getting his exercise. He took the stage and after a few mentions of free shots and chugging beers he had everyone's attention. He played piano and cowbell, sang everything in German, and had an alphorn which none of us had ever seen before.
 
 ![german-guy](/images/german-guy.jpg)
 
