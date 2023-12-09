@@ -14,7 +14,7 @@ We arrived about a week before putting the *Altitude Adjustment* into the water 
 
 Then my dad and I removed and reinstalled three massive 6-volt batteries that weighed 120 lbs each which was a heck of an effort. We also installed StarLink wifi for the first time. It will be awesome to stay connected while out in the ocean, but believe me when I say it was a struggle. We decided to fish the wire through the walls of the boat from the roof down to the pilot house. When looking at the boat it really isn't much distance from A to B, but it took two people, power tools, more cussing than I would like to admit, blood, some claustrophobic squeezes, and two days, but we finally have wifi.
 
-![wifi-butt](/images/wifi-butt.jpg){: width="250" }
+![wifi-butt](/images/wifi-butt.jpg)
 
 *Fishing the StarLink cable through the walls*
 
