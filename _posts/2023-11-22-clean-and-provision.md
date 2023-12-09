@@ -30,6 +30,12 @@ The interior had nearly the same level of mold growth as the exterior due to the
 
 *I think we're gonna need a bigger boat* 
 
+
+---
+
+
+<p class="subtitle">Nov 25, 2023</p>
+
 The next day we woke up and went to Costco as soon as they opened, the shopping list was extensive! Most groceries in the Bahamas are more expensive than they are in the United States, so we ended up spending about $1000 at Costco in hopes of saving us money down the line. We also bought some of our liquor there, however they didn't have everything we needed. 
 
 ![costco-run](/images/costco-run-rz.jpg)
@@ -44,7 +50,9 @@ Finally, everything was put away, boxes broken down, and trash thrown away, but 
 ---
 
 
-The next morning, we woke up to rain and the news claimed it would last all day; unfortunately for us they were right. We still had a car full of groceries and alcohol from Sam's to unload after stopping there on our way home yesterday. Initially, there was a light drizzle hitting the windshield, but as we drove further north the rain became stronger.
+<p class="subtitle">Nov 26, 2023</p>
+
+This morning, we woke up to rain and the news claimed it would last all day; unfortunately for us they were right. We still had a car full of groceries and alcohol from Sam's to unload after stopping there on our way home yesterday. Initially, there was a light drizzle hitting the windshield, but as we drove further north the rain became stronger.
 
 Once we made it to the boat yard, we donned our rain jackets and went to work. The four of us formed a bucket brigade from the truck to the swim deck to the covered back deck of the boat. Amazingly we managed to shove even more groceries into the fridge and freezers, add two more cases of beer to the stash, using our new ottoman from Target to store anything that was left out.
 
@@ -53,6 +61,8 @@ After we were done it was back into the car for one of the last drive to Jackson
 
 ---
 
+
+<p class="subtitle">Nov 27, 2023</p>
 
 Our final day before launching we divided and conquered. My parents went back to the boat as it was being picked up in the sling at the yard. There was a small amount of cleaning to tackle and some chargers to swap from one battery to another. Julia and I ran some early morning errands grabbing some plant stuff, and we took advantage of our final day on dry land with a nice walk on the beach in the afternoon. 
 
