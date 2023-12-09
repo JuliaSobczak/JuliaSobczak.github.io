@@ -13,6 +13,8 @@ Second post (Clean and Provision)
 * provisions-spreadsheet.png: screenshot of stuff we need spreadsheet
 * wifi-butt.jpg: casey's butt coming out of the boat
 * yard-boat-casey.jpg: casey on the back of the boat in the yard
+* beer-tower.jpg: tower of beer next to casey
+* costco-run-rz.jpg: overflowing costco cart
 * rainbow-yard.jpg: rainbow over the boat yard
 
 Third post (The Journey Begins)
