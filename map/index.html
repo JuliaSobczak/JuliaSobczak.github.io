@@ -21,10 +21,10 @@
       }
 
       .marker {
-        background-image: url('/images/black_x.png');
+        background-image: url('black_x.png');
         background-size: cover;
-        width: 50px;
-        height: 50px;
+        width: 25px;
+        height: 25px;
         border-radius: 50%;
         cursor: pointer;
       }
@@ -35,7 +35,7 @@
 
       .mapboxgl-popup-content {
         text-align: center;
-        font-family: 'Open Sans', sans-serif;
+        font-family: Georgia, 'Times New Roman', Times, serif;
       }
 
     </style>
@@ -56,22 +56,33 @@ const geojson = {
       type: 'Feature',
       geometry: {
         type: 'Point',
-        coordinates: [(-80.173839, 25.686926)]
+        coordinates: [-81.52491348156467, 30.743274077327136]
       },
       properties: {
-        title: 'Hurricane Harbor',
-        description: 'test'
+        title: 'St. Marys Boat Yard',
+        description: 'https://juliasobczak.github.io/articles/clean-and-provision/'
       }
     },
     {
       type: 'Feature',
       geometry: {
         type: 'Point',
-        coordinates: [-122.414, 37.776]
+        coordinates: [-80.173839, 25.686926]
       },
       properties: {
-        title: 'Mapbox',
-        description: 'San Francisco, California'
+        title: 'Coming soon...',
+        description: 'https://juliasobczak.github.io/'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [-80.71930639005863, 28.35311490347138]
+      },
+      properties: {
+        title: 'Cocoa Beach',
+        description: 'https://juliasobczak.github.io/articles/the-journey-begins/'
       }
     }
   ]
@@ -81,8 +92,8 @@ const geojson = {
 const map = new mapboxgl.Map({
   container: 'map',
   style: 'mapbox://styles/juliasobczak/clm9b0lh4012n01rfczok9iiv',
-  center: [-79.258, 25.587],
-  zoom: 6
+  center: [-78.76582187059532, 28.13256852499127],
+  zoom: 5
 });
 
 // Add custom marker
@@ -97,10 +108,10 @@ for (const feature of geojson.features) {
   .setPopup(
     new mapboxgl.Popup({ offset: 25 }) // add popups
       .setHTML(
-        `<h3>${feature.properties.title}</h3><p>${feature.properties.description}</p>`
+        '<h3>' + feature.properties.title + "</h3>" + "<a href='" + feature.properties.description + "'>Captain's Log</a>"
       )
   )
-  .addTo(map);
+    .addTo(map);
 }
 
 </script>
