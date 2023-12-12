@@ -21,7 +21,7 @@
       }
 
       .marker {
-        background-image: url('/images/black_x.png');
+        background-image: url('red_x.png');
         background-size: cover;
         width: 25px;
         height: 25px;
@@ -56,22 +56,24 @@ const geojson = {
       type: 'Feature',
       geometry: {
         type: 'Point',
-        coordinates: [-81.52491348156467, 30.743274077327136]
+        coordinates: [-81.50659149467604, 30.039599014510106]
       },
       properties: {
-        title: 'St. Marys Boat Yard',
-        description: 'https://juliasobczak.github.io/articles/clean-and-provision/'
+        title: '1) Jacksonville',
+        url: 'https://juliasobczak.github.io/articles/clean-and-provision/',
+        description: 'Clean and Provision'
       }
     },
     {
       type: 'Feature',
       geometry: {
         type: 'Point',
-        coordinates: [-80.173839, 25.686926]
+        coordinates: [-81.52506176568963, 30.743306121561986]
       },
       properties: {
-        title: 'Coming soon...',
-        description: 'https://juliasobczak.github.io/'
+        title: '2) St. Marys Boat Yard',
+        url: 'https://juliasobczak.github.io/articles/the-journey-begins/',
+        description: 'The Journey Begins'
       }
     },
     {
@@ -81,8 +83,9 @@ const geojson = {
         coordinates: [-80.71930639005863, 28.35311490347138]
       },
       properties: {
-        title: 'Cocoa Beach',
-        description: 'https://juliasobczak.github.io/articles/the-journey-begins/'
+        title: '3) Coming soon...',
+        url: 'https://juliasobczak.github.io/',
+        description: 'Return to Home Page'
       }
     }
   ]
@@ -108,7 +111,7 @@ for (const feature of geojson.features) {
   .setPopup(
     new mapboxgl.Popup({ offset: 25 }) // add popups
       .setHTML(
-        '<h3>' + feature.properties.title + "</h3>" + "<a href='" + feature.properties.description + "'>Captain's Log</a>"
+        '<h3>' + feature.properties.title + "</h3>" + "<a href='" + feature.properties.url + "'>" + feature.properties.description + "</a>"
       )
   )
     .addTo(map);
