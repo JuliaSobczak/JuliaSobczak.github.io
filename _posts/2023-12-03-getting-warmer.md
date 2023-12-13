@@ -14,7 +14,9 @@ The weather is beautiful today and everyone seems to be taking full advantage of
 
 As we travel, I find it funny that we keep passing and then later getting passed by the same boats. My parents said in previous years they have seen boats on the ICW, and then again in Bimini, and later in the Exumas. Apparently we aren't the only ones destined for the Bahamas.
 
-Our destination today is Vero Beach and our chart plotter says it’s about a six hour trip, so we're in for a long ride. Recently, I have become part of the food chain down here; I am covered in bites in all kinds of unspeakable places. I'm really hoping to become less of a buffet once we're out of Florida, however it's not going to get any less tropical. Benadryl is at the top of our recent shopping list as I have been eating it like candy. Everyone else is thanking me for “taking one for the team.” I guess as long as I keep feeding them, they don't bother Jules or my parents, but trust me, it's not by choice. Once we stopped at Vero, I tried to fish - briefly. I've been itching to get my line in the water since we put the boat in, however I'm completely out of my element in the ICW, bass fishing in Colorado is very different from this. I didn't end up catching anything, but at least I threw a couple of casts. 
+Our destination today is Vero Beach and our chartplotter says it’s about a six hour trip, so we're in for a long ride. Recently, I have become part of the food chain down here; I am covered in bites in all kinds of unspeakable places. I'm really hoping to become less of a buffet once we're out of Florida, however it's not going to get any less tropical. Benadryl is at the top of our recent shopping list as I have been eating it like candy. Everyone else is thanking me for “taking one for the team.” I guess as long as I keep feeding them, they don't bother Jules or my parents, but trust me, it's not by choice. 
+
+Once we stopped at Vero, I tried to fish - briefly. I've been itching to get my line in the water since we put the boat in, however I'm completely out of my element in the ICW, bass fishing in Colorado is very different from this. I didn't end up catching anything, but at least I threw a couple of casts. 
 
 
 ---
@@ -22,7 +24,7 @@ Our destination today is Vero Beach and our chart plotter says it’s about a si
 
 <p class="subtitle">Dec 4, 2023</p>
 
-The fog is thick this morning and so far it has only gotten thicker. It feels like the *Go Away Ghost Ship* Scooby-Doo [episode](https://www.youtube.com/watch?v=DhlwjBHxsJw&t=4s); I could cut a slice out and take a bite. We have chartplotters so navigating isn't a problem, but if someone comes out of the mist in front of us, we'll need a quick reaction time. Hopefully, like us, they don't move very fast.
+The fog is thick this morning and so far it has only gotten thicker. It feels like the *Go Away Ghost Ship* Scooby-Doo episode [(click here)](https://www.youtube.com/watch?v=DhlwjBHxsJw&t=4s); I could cut a slice out and take a bite. We have chartplotters so navigating isn't a problem, but if someone comes out of the mist in front of us, we'll need a quick reaction time. Hopefully, like us, they don't move very fast.
 
 ![foggy](/images/foggy.jpg)
 
@@ -30,13 +32,19 @@ The fog is thick this morning and so far it has only gotten thicker. It feels li
 
 After about an hour of travel, the sun managed to burn off the low-lying fog and make way for a beautiful morning. Jules got more driving practice and is definitely getting the hang of it fast. We passed by a marina today with a boat lift that severely dwarfed the lift that put our fifty-two footer in the water in Georgia. It was hard to tell its perspective from a distance, but after a quick Google search, we learned it is the largest mobile ship lift in the world. It can move yachts up to 256 feet long and 57 feet wide. That's wider than the Altitude Adjustment is long!! 
 
-While Jules, my mom, and I gawked at the best of modern marine engineering, my dad was below deck in the engine room. The bathroom Julia and I use has been subpar since we got on board, and my dad has been troubleshooting it almost every day. With all of my fingers and toes crossed, I can now say it is fixed.
+While Jules, my mom, and I gawked at the best of modern marine engineering, my dad was below deck in the engine room. The bathroom Julia and I use has been subpar since we got on board, and my dad has been troubleshooting it almost every day. With all of my fingers and toes crossed, I say it is now fixed.
 
-My parents decided that Peck Lake would be our anchorage for the next couple of nights, but you can hardly call it a lake. It is essentially equivalent to an aquatic truck stop, just a small anchorage barely off the ICW channel.We arrived here a little after noon today only to find the area packed in fairly tight. We decided to squeeze in near the last boat in the row and started laying out the anchor and chain. We backed up from the drop point to set the anchor and abruptly stopped. The depth finders that, seconds earlier, said twelve feet now said three and the back of the boat was stuck in the silty bottom. We tried, briefly, to pull the boat forward using the anchor chain, however the boat weighs sixty-seven tonnes and I weigh 180lbs…it didn't flinch. Luckily, my parents have a service that will come get your boat unstuck, it's called SeaTow. My dad gave them a call and they showed up pronto. The kid driving the boat couldn't have been more than sixteen, but this definitely wasn't his first day. He threw a bundle of ropes to me on the bow and pulled his small boat into position in front of ours. Once he had the line tight, it didn't take much convincing to ease us out of the mud. He towed us out into deeper water and then was nice enough to stick around until we got safely anchored nearby. 
+My parents decided that Peck Lake would be our anchorage for the next couple of nights, but you can hardly call it a lake. It is essentially equivalent to an aquatic truck stop, just a small anchorage barely off the ICW channel. 
+
+We arrived here a little after noon today only to find the area packed in fairly tight. We decided to squeeze in near the last boat in the row and started laying out the anchor and chain. We backed up from the drop point to set the anchor and abruptly stopped. The depth finders that, seconds earlier, said twelve feet now said three and the back of the boat was stuck in the silty bottom. We tried, briefly, to pull the boat forward using the anchor chain, however the boat weighs sixty-seven tons and I weigh 180lbs…it didn't flinch. Luckily, my parents have a service that will come get your boat unstuck, it's called SeaTow. My dad gave them a call and they showed up pronto.
+
+The kid driving the boat couldn't have been more than sixteen, but this definitely wasn't his first day. He threw a bundle of ropes to me on the bow and pulled his small boat into position in front of ours. 
 
 ![throwing-rope](/images/throwing-rope.jpg)
 
-*Trying not to get hit in the face*
+*Trying to avoid getting smacked in the face*
+
+Once he had the line tight, it didn't take much convincing to ease us out of the mud. He towed us out into deeper water and then was nice enough to stick around until we got safely anchored nearby. 
 
 ![sea-tow](/images/sea-tow.jpg)
 
@@ -54,7 +62,7 @@ Today was the first time any of us have seen the ocean since we started our trip
 
 <p class="subtitle">Dec 5, 2023</p>
 
-Today is the first day we aren't traveling. Our urge to continue south got interrupted by some upcoming bad weather. Initially, we were trying to get to Miami as soon as we could to cross over to Bimini, however we do require some calm wind and waves. Right now, it's looking like we won't be able to make the crossing until at least this coming Monday.Peck Lake is a nice spot to be for a night or two just for the beach access. The one we are on is the largest portion of undeveloped beach in Florida. I don't think I need to explain why that is awesome.
+Today is the first day we aren't traveling. Our urge to continue south got interrupted by some upcoming bad weather. Initially, we were trying to get to Miami as soon as we could to cross over to Bimini, however we do require some calm wind and waves. Right now, it's looking like we won't be able to make the crossing until at least this coming Monday. Peck Lake is a nice spot to be for a night or two just for the beach access. The one we are on is the largest portion of undeveloped beach in Florida. I don't think I need to explain why that is awesome.
 
 The nice part about not traveling today was that Jules and I were able to make some real breakfast. She and I put together some killer breakfast burritos which was a great change from the cereal and toast we have been eating thus far. It's just difficult to be down in the galley while traveling - definitely doesn't help with sea sickness. She and I both struggled a little bit with the small kitchen. Cooking burritos on a pancake griddle was definitely a challenge, but the end result was just as delicious.
 
@@ -116,6 +124,6 @@ One boat we passed, named the Honey Fitz, was awesome. It is a wooden boat that 
 
 ![honey-fitz](/images/honey-fitz.jpg)
 
-*About to have its 100 year birthday*
+*Nearing its hundred year anniversary*
 
 Our anchorage for the night looks very different than the previous one, minus the wind that picked back up and the clouds that rolled in. Last night, we were surrounded by mangroves and the only lights were on the other boats anchored near us. Tonight, it’s high-rise condos and apartments with bustling city noise; I'm sure you can guess which one we prefer.
