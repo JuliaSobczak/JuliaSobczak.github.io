@@ -22,7 +22,7 @@ Our destination today is Vero Beach and our chart plotter says it’s about a si
 
 <p class="subtitle">Dec 4, 2023</p>
 
-The fog is thick this morning and so far it has only gotten thicker. It feels like the Go Away Ghost Ship Scooby-Doo [episode](https://www.youtube.com/watch?v=DhlwjBHxsJw&t=4s); I could cut a slice out and take a bite. We have chartplotters so navigating isn't a problem, but if someone comes out of the mist in front of us, we'll need a quick reaction time. Hopefully, like us, they don't move very fast.
+The fog is thick this morning and so far it has only gotten thicker. It feels like the *Go Away Ghost Ship* Scooby-Doo [episode](https://www.youtube.com/watch?v=DhlwjBHxsJw&t=4s); I could cut a slice out and take a bite. We have chartplotters so navigating isn't a problem, but if someone comes out of the mist in front of us, we'll need a quick reaction time. Hopefully, like us, they don't move very fast.
 
 ![foggy](/images/foggy.jpg)
 
