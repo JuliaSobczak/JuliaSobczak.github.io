@@ -26,7 +26,7 @@ Every time I think the houses or boats can't get any bigger, they surprise me. W
 
 ![cruise-ship](/images/cruise-ship.jpg)
 
-*It's hard to capture the si*
+*That a four story building beside the ship*
 
 Today we stopped at the Pickle Rick fuel barge and took on fuel, turns out he had the cheapest diesel we could find at $3.99 a gallon. They have a pretty sweet set up out there! Using them to fuel seemed much easier than trying to squeeze into and tie up at a marina. Their barge anchors into the ground with huge poles so they're definitely not going anywhere when you tie up. Apparently, they have fueled yachts as large as 150 feet which take all 10,000 gallons of fuel that they hold…I bet it is a sight to see.
 
@@ -80,7 +80,7 @@ We passed through the city with towering buildings in every direction. The huge 
 
 ![white-house](/images/white-house.jpg)
 
-*I wonder if there's an underground bunker*
+*This solf for $24.5 million in 2022, and is for sale again now*
 
 Shortly after passing it, the ICW became a massive shipping channel so large that five cruise ships were parked at the dock…five! These steel beasts seem impossibly large, I can't imagine what it would be like to try and drive a floating city. The first one we passed had a crew that was attempting to load one of the massive lifeboats back onto the ship. It was about the same size as our boat.
 
@@ -98,7 +98,7 @@ Eventually, Fort Lauderdale gave way to Biscayne Bay. It was a breath of fresh a
 
 ![bridge-gatehouse](/images/bridge-gatehouse.jpg)
 
-*Bridge tender offices in Fort Lauderdale* 
+*Bridge tender control room in Fort Lauderdale* 
 
 We also passed an ocean inlet that has a brutal reputation, it's named Haulover. The combination of strong ocean wind and opposing rushing tides can create some incredibly treacherous waters. Local knowledge is a must when navigating it as the bathymetry changes daily. Haulover Inlet claims boats from inexperienced captains every year, but it is also safely navigated every day by those who know the waters well. (There's a YouTube channel devoted to this subject called Boats vs Haulover: <a href="https://www.youtube.com/c/BoatsvsHaulover">click here</a> to check it out) 
 
@@ -106,7 +106,7 @@ We plan to use the Cape Florida Channel to reach the ocean which I have been tol
 
 ![miami-bridge](/images/miami-bridge.jpg)
 
-*Miami makes Denver feel tiny*
+*The Miami skyline dwarfs Denver's*
 
 We mistimed our arrival at one of the drawbridges and ended up having to hold for half an hour. Not only did this burn unnecessary fuel, it also forced traffic to build up behind us. Eventually the bridge operator sounded the horn to open. My dad eased the boat under the gaping bridge and once again we entered a huge shipping channel. On our right, glass towers shot vertically into the clouds while on our left, mammoth ships awaited passengers and cargo. 
 
