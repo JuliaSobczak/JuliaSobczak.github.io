@@ -40,9 +40,9 @@ As we continued south, the waterway became increasingly busy. Almost getting stu
 
 ![crowded-waterway](/images/crowded-waterway.jpg)
 
-*Squeezed in like sardines in the ICW*
+*Squeezed in like sardines on the ICW*
 
-Shortly after that incident I was reprimanded by a fisherman who passionately believed we were speeding. He also seemed to think that I, standing on the very stern of the boat, had full control of the throttle and steering. I simply threw up my hands in a “what do you want me to do” fashion and he repeated his concern for our speed. I yelled back at him that I obviously wasn't driving, and the rest of his charming words failed to reach me as we putted out of range.
+Shortly after that incident I was reprimanded by a fisherman who passionately believed we were speeding (we only run about seven knots/eight mph). He also seemed to think that I, standing on the very stern of the boat, had full control of the throttle and steering. I simply threw up my hands in a “what do you want me to do” fashion and he repeated his concern for our speed. I yelled back at him that I obviously wasn't driving, and the rest of his charming words failed to reach me as we putted out of range.
 
 Our third encounter was a captain who was paying no attention to his surroundings whatsoever. He was in a small boat and somehow remained completely unaware that two much larger boats had begun overtaking him on either side. I can promise you, this is a sandwich that rewards the bread and punishes the filling. Multiple voices shouted at him to “MOVE”! Of course, in that instance he immediately slowed down and put himself and his boat in an even more precarious position. Luckily my dad and the captain of the other large boat reacted in time to keep him from becoming a bug on anyone's windshield.
 
@@ -80,7 +80,7 @@ We passed through the city with towering buildings in every direction. The huge 
 
 ![white-house](/images/white-house.jpg)
 
-*This solf for $24.5 million in 2022, and is for sale again now*
+*This sold for $24.5 million in 2022, and is for sale again now*
 
 Shortly after passing it, the ICW became a massive shipping channel so large that five cruise ships were parked at the dock…five! These steel beasts seem impossibly large, I can't imagine what it would be like to try and drive a floating city. The first one we passed had a crew that was attempting to load one of the massive lifeboats back onto the ship. It was about the same size as our boat.
 
