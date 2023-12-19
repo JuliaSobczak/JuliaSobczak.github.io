@@ -59,9 +59,9 @@ const geojson = {
         coordinates: [-81.50659149467604, 30.039599014510106]
       },
       properties: {
-        title: '1) Jacksonville',
+        title: 'Clean and Provision',
         url: 'https://juliasobczak.github.io/articles/clean-and-provision/',
-        description: 'Clean and Provision'
+        description: 'Nov 22, 2023'
       }
     },
     {
@@ -71,9 +71,9 @@ const geojson = {
         coordinates: [-81.52506176568963, 30.743306121561986]
       },
       properties: {
-        title: '2) St. Marys Boat Yard',
+        title: 'The Journey Begins',
         url: 'https://juliasobczak.github.io/articles/the-journey-begins/',
-        description: 'The Journey Begins'
+        description: 'Nov 28, 2023'
       }
     },
     {
@@ -83,11 +83,24 @@ const geojson = {
         coordinates: [-80.14619727360575, 27.119075824319317]
       },
       properties: {
-        title: '3) Peck Lake',
+        title: 'Getting Warmer',
         url: 'https://juliasobczak.github.io/articles/getting-warmer/',
-        description: 'Getting Warmer'
+        description: 'Dec 3, 2023'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [-80.0548295395709, 26.83767545461785]
+      },
+      properties: {
+        title: 'Cruising Coastal Cities',
+        url: 'https://juliasobczak.github.io/articles/cruising-coastal-cities/',
+        description: 'Dec 8, 2023'
       }
     }
+      
   ]
 };
 
@@ -111,7 +124,7 @@ for (const feature of geojson.features) {
   .setPopup(
     new mapboxgl.Popup({ offset: 25 }) // add popups
       .setHTML(
-        '<h3>' + feature.properties.title + "</h3>" + "<a href='" + feature.properties.url + "'>" + feature.properties.description + "</a>"
+        "<h3> <a href='" + feature.properties.url + "'>" + feature.properties.title + "</a></h3>" + "<em>" + feature.properties.description + "</em>"
       )
   )
     .addTo(map);
