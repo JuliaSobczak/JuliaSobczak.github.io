@@ -1,9 +1,9 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-title: Fort Lauderdale to Biscayne
+title: Cruising Coastal Cities
 description: Fifth blog post
-permalink: articles/fort-lauderdale-to-biscayne/
+permalink: articles/cruising-coastal-cities/
 date: 2023-12-08
 ---
 Upon waking up this morning blue sky was visible through our stateroom windows and small glints of sunlight danced through the hatch above our heads. Jules and I laid in bed debating on what to do today with our nice weather. Eventually we grew restless enough to emerge from below deck, only to find that we had been bamboozled. The sun had been showing through a small hole in the gray sky and disappeared as soon as we showed our faces. We also got a rude awakening from the wind as we stepped onto the unprotected bow.
@@ -26,7 +26,7 @@ Every time I think the houses or boats can't get any bigger, they surprise me. W
 
 ![cruise-ship](/images/cruise-ship.jpg)
 
-*It's hard to capture the size of these cruise ships compared to our 52-footer*
+*It's hard to capture the si*
 
 Today we stopped at the Pickle Rick fuel barge and took on fuel, turns out he had the cheapest diesel we could find at $3.99 a gallon. They have a pretty sweet set up out there! Using them to fuel seemed much easier than trying to squeeze into and tie up at a marina. Their barge anchors into the ground with huge poles so they're definitely not going anywhere when you tie up. Apparently, they have fueled yachts as large as 150 feet which take all 10,000 gallons of fuel that they hold…I bet it is a sight to see.
 
