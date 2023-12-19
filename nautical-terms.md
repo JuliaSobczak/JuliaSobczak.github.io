@@ -8,6 +8,7 @@ permalink: /nautical-terms
 | -------- | ------- |
 |Altitude Adjustment |Our 52' cockpit motor yacht|
 |Anchorage|Somewhere favorable to drop anchor |
+|Bathymetry|Topography of the ocean floor|
 |Beam |The width of the boat at its widest point|
 |Bow/Fore Deck|Front of the boat |
 |Cleat|A metal fitting used to tie boats to docks |
