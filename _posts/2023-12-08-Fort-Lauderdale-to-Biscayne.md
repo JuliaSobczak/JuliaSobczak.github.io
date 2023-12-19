@@ -10,7 +10,7 @@ Upon waking up this morning blue sky was visible through our stateroom windows a
 
 ![casey on the bow](/images/casey-on-the-bow.jpg)
 
-*Thw wind was trying to steal my hat*
+*Windy mornings require backwards hats*
 
 The plan for the day is nothing special: we need to go to the grocery store and pick up a couple of Amazon packages my parents ordered. However, nothing is as simple as it sounds when on a boat. First, we had to lower our skiff into the water from the roof using the remote-controlled crane. We loaded our grocery bags, a cooler, and ourselves into the skiff and made our way to a small beach. We had a short climb up to the highway above us and, all of a sudden, we were in the city of Palm Beach Gardens. Luckily, Publix and the UPS store are fairly close together, and not far from where we parked the skiff, but avoiding traffic felt like speaking a foreign language.
 
@@ -26,7 +26,7 @@ Every time I think the houses or boats can't get any bigger, they surprise me. W
 
 ![cruise-ship](/images/cruise-ship.jpg)
 
-*Feeling insignifigant*
+*It's hard to capture the size of these cruise ships compared to our 52-footer*
 
 Today we stopped at the Pickle Rick fuel barge and took on fuel, turns out he had the cheapest diesel we could find at $3.99 a gallon. They have a pretty sweet set up out there! Using them to fuel seemed much easier than trying to squeeze into and tie up at a marina. Their barge anchors into the ground with huge poles so they're definitely not going anywhere when you tie up. Apparently, they have fueled yachts as large as 150 feet which take all 10,000 gallons of fuel that they hold…I bet it is a sight to see.
 
@@ -40,7 +40,7 @@ As we continued south, the waterway became increasingly busy. Almost getting stu
 
 ![crowded-waterway](/images/crowded-waterway.jpg)
 
-*Squeezing in like sardines*
+*Squeezed in like sardines in the ICW*
 
 Shortly after that incident I was reprimanded by a fisherman who passionately believed we were speeding. He also seemed to think that I, standing on the very stern of the boat, had full control of the throttle and steering. I simply threw up my hands in a “what do you want me to do” fashion and he repeated his concern for our speed. I yelled back at him that I obviously wasn't driving, and the rest of his charming words failed to reach me as we putted out of range.
 
@@ -106,7 +106,7 @@ We plan to use the Cape Florida Channel to reach the ocean which I have been tol
 
 ![miami-bridge](/images/miami-bridge.jpg)
 
-*Miami makes Denever feel tiny*
+*Miami makes Denver feel tiny*
 
 We mistimed our arrival at one of the drawbridges and ended up having to hold for half an hour. Not only did this burn unnecessary fuel, it also forced traffic to build up behind us. Eventually the bridge operator sounded the horn to open. My dad eased the boat under the gaping bridge and once again we entered a huge shipping channel. On our right, glass towers shot vertically into the clouds while on our left, mammoth ships awaited passengers and cargo. 
 
