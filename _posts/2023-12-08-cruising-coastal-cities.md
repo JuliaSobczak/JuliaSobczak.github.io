@@ -46,7 +46,7 @@ Shortly after that incident I was reprimanded by a fisherman who passionately be
 
 Our third encounter was a captain who was paying no attention to his surroundings whatsoever. He was in a small boat and somehow remained completely unaware that two much larger boats had begun overtaking him on either side. I can promise you, this is a sandwich that rewards the bread and punishes the filling. Multiple voices shouted at him to “MOVE”! Of course, in that instance he immediately slowed down and put himself and his boat in an even more precarious position. Luckily my dad and the captain of the other large boat reacted in time to keep him from becoming a bug on anyone's windshield.
 
-I'm now of the mindset that, like driving a car, there should be a license to drive a boat.The crowded waterway had tensions raised for everyone involved, but I think we were all still enjoying the sunny day. It amazes me that so many people can be angry on a boat when life could be so much worse.
+I'm now of the mindset that, like driving a car, there should be a license to drive a boat. The crowded waterway had tensions raised for everyone involved, but I think we were all still enjoying the sunny day. It amazes me that so many people can be angry on a boat when life could be so much worse.
 
 ![bow](/images/bow.jpg)
 
@@ -80,7 +80,7 @@ We passed through the city with towering buildings in every direction. The huge 
 
 ![white-house](/images/white-house.jpg)
 
-*This sold for $24.5 million in 2022, and is for sale again now*
+*This sold for $24.5 million in 2022*
 
 Shortly after passing it, the ICW became a massive shipping channel so large that five cruise ships were parked at the dock…five! These steel beasts seem impossibly large, I can't imagine what it would be like to try and drive a floating city. The first one we passed had a crew that was attempting to load one of the massive lifeboats back onto the ship. It was about the same size as our boat.
 
@@ -166,7 +166,7 @@ There we can tie off our skiff without upsetting any home owners, but the grocer
 
 ![groceries](/images/groceries.jpg)
 
-*I swear, it was uphill both ways*
+*I swear it was uphill both ways*
 
 Initially our route took us along the south side of Biscayne Key and the water was like glass. All of the wind from the north was being blocked by the island and it was smooth sailing. However, in order to get to the *Altitude Adjustment* we had to leave the sheltered side and go around a massive sandbar before turning back into Hurricane Harbor. Immediately after we lost the cover of the island the waves intensified; it wasn't enough to deter the trip, but definitely started getting us wet.
 
