@@ -21,7 +21,7 @@
       }
 
       .marker {
-        background-image: url('/images/red_x.png');
+        background-image: url('red_x.png');
         background-size: cover;
         width: 25px;
         height: 25px;
@@ -35,12 +35,116 @@
 
       .mapboxgl-popup-content {
         text-align: center;
-        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+      .sidebar {
+        height: 100%;
+        width: 0;
+        position: fixed;
+        z-index: 1;
+        border-right: solid white 1.5px;
+        top: 0;
+        left: 0;
+        background-color: #181817;
+        overflow-x: hidden;
+        padding-top: 60px;
+
       }
+
+      .sidebar a {
+        text-decoration: none;
+        font-size: 14px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: bold;
+        color: #83c8ce;
+        display: block;
+        padding-left: 25px;
+      }
+
+      .sidebar a:hover {
+        color: gray;
+      }
+
+      .sidebar text {
+        padding: 8px 8px 8px 15px;
+        text-decoration: none;
+        font-size: 14px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: white;
+        display: block;
+      }
+
+      .sidebar .closebtn {
+        position: absolute;
+        top: 10px;
+        right: 25px;
+        font-size: 36px;
+        margin-left: 60px;
+        color: white;
+      }
+
+      .openbtn {
+        font-size: 20px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        cursor: pointer;
+        background-color: #181817;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        position: absolute;
+        top: 10px;
+        left: 30px;
+        z-index: 1;
+        border-radius: 3px;
+      }
+    
 
     </style>
 </head>
+
 <body>
+
+<div id="mySidebar" class="sidebar">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+  
+  <text>
+  The black ship shows where <em>Altitude Adjustment</em> is located.<br> 
+  <br>
+  Tap the <strong><font color=#df2e33>X</font></strong> icons to read the corresponding blog post.<br>
+  <br>
+  Follow the red line to see our exact path based on the chartplotter.<br>
+ 
+  <br>
+  Keep checking back for updates as we cruise to the Bahamas!
+  <br>
+
+  <div style="padding: 20px;">
+    <img width=150px src="compass-path-600.png">
+    </div>
+  
+  <br>
+
+  <a href="https://juliasobczak.github.io/">Back to Captain's Log</a>
+  
+  </text>
+  
+</div>
+
+<div id="main">
+  <button class="openbtn" onclick="openNav()">Information</button>  
+</div>
+
+<script>
+  function openNav() {
+    document.getElementById("mySidebar").style.width = "230px";
+    document.getElementById("main").style.marginLeft = "230px";
+  }
+  
+  function closeNav() {
+    document.getElementById("mySidebar").style.width = "0";
+    document.getElementById("main").style.marginLeft= "0";
+  }
+</script>
 
 <div id='map'></div>
 
@@ -52,18 +156,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoianVsaWFzb2JjemFrIiwiYSI6ImNrY2RtOXpkZDAwenUyc
 const geojson = {
   type: 'FeatureCollection',
   features: [
-    {
-      type: 'Feature',
-      geometry: {
-        type: 'Point',
-        coordinates: [-81.50659149467604, 30.039599014510106]
-      },
-      properties: {
-        title: 'Clean and Provision',
-        url: 'https://juliasobczak.github.io/articles/clean-and-provision/',
-        description: 'Nov 22, 2023'
-      }
-    },
+    
     {
       type: 'Feature',
       geometry: {
@@ -71,9 +164,12 @@ const geojson = {
         coordinates: [-81.52506176568963, 30.743306121561986]
       },
       properties: {
-        title: 'The Journey Begins',
-        url: 'https://juliasobczak.github.io/articles/the-journey-begins/',
-        description: 'Nov 28, 2023'
+        title: 'Clean and Provision',
+        url: 'https://juliasobczak.github.io/articles/clean-and-provision/',
+        description: 'Nov 22, 2023',
+        title2: 'The Journey Begins',
+        url2: 'https://juliasobczak.github.io/articles/the-journey-begins/',
+        description2: 'Nov 28, 2023'
       }
     },
     {
@@ -85,7 +181,10 @@ const geojson = {
       properties: {
         title: 'Getting Warmer',
         url: 'https://juliasobczak.github.io/articles/getting-warmer/',
-        description: 'Dec 3, 2023'
+        description: 'Dec 3, 2023',
+        title2:"",
+        url2:"",
+        description2: ""
       }
     },
     {
@@ -97,7 +196,10 @@ const geojson = {
       properties: {
         title: 'Cruising Coastal Cities',
         url: 'https://juliasobczak.github.io/articles/cruising-coastal-cities/',
-        description: 'Dec 8, 2023'
+        description: 'Dec 8, 2023',
+        title2:"",
+        url2:"",
+        description2: ""
       }
     }
       
@@ -124,7 +226,9 @@ for (const feature of geojson.features) {
   .setPopup(
     new mapboxgl.Popup({ offset: 25 }) // add popups
       .setHTML(
-        "<h3> <a href='" + feature.properties.url + "'>" + feature.properties.title + "</a></h3>" + "<em>" + feature.properties.description + "</em>"
+        "<h3> <a href='" + feature.properties.url + "'>" + feature.properties.title + "</a></h3>" + 
+        "<em>" + feature.properties.description + "</em>" + 
+        "<h3> <a href='" + feature.properties.url2 + "'>" + feature.properties.title2 + "</a></h3>" + "<em>" + feature.properties.description2 + "</em>"
       )
   )
     .addTo(map);
