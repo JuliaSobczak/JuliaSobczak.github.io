@@ -6,13 +6,11 @@ description: Sixth blog post
 permalink: articles/weathering-the-storm/
 date: 2023-12-13
 ---
-*We are currently editing this post*
-
 Gale force winds and gray skies is about all we have to look forward to right now. I would have been quite happy living life without knowing the stipulations that surround the term “gale force”. Alas we are not provided that luxury; gale force refers to any winds that will consistently blow or frequently gust to speeds of thirty four to forty seven knots. That's thirty-nine to fifty-four miles per hour, and currently there is an advisory for the next three days. Checkout the [Beaufort Wind Scale](https://www.weather.gov/mfl/beaufort).
 
 Apparently we aren't meant to go anywhere. I think we may have skipped the howling wind phase and gone straight to screaming. It has definitely impeded my sleep for the last couple of nights and sounds like it will continue to do so. The noise is part of it, but the real killer is my anxiety that our anchor will break loose and drift. I'm just having trouble fully trusting our equipment, the boat is a whole lot bigger than our anchor.
 
-![gray-droplets](/images/gray-droplets.jpg)
+![gray-skies](/images/gray-skies.jpg)
 
 *Our future looks bleak*
 
@@ -178,8 +176,8 @@ Iguanas are prolific here, all shapes and sizes of the reptiles decorated the ro
 
 Sadly, the Cape Florida Lighthouse was closed for renovations when we arrived at the gate. It towers ninety-five feet in the air and is nearing its two-hundredth birthday. It has withstood countless hurricanes, an attack that included some form of gunpowder bomb, and nearly two centuries of erosion. 
 
-(lighthouse comparison pics)
+![lighthouse-compare](/images/lighthouse-compare.jpg)
 
-*Cape Florida Light 1923 (Left) 2023 (Right)
+*Cape Florida Light 1923 (Left) 2023 (Right)*
 
 It's no longer in operation today due to modern navigation technology, but they still offer public tours. After our walk, we headed back out to the boat. The waves in our new anchorage will no doubt make sleep difficult so, reluctantly, we headed back to Hurricane Harbor for another night. At least we are well protected there.
