@@ -152,7 +152,7 @@ After spending a full week on anchor in Hurricane Harbor we jumped at our first 
 
 From a distance, it looks like there are large ships floating offshore but, on closer inspection, it is a collection of houses located about a mile from the coast. The original structures were built sometime in the late 1920s and early 1930s as a loophole for prohibition and gambling. Apparently, it was legal if you were one mile offshore. Multiple large clubs were constructed throughout the years and very quickly they became the place to be when visiting Miami.
 
-![stiltsville-cormorants](/images/stiltsville-cormorants.jpg)
+![stiltsville-birds](/images/stiltsville-birds.jpg)
 
 *Shore birds are the new full-time residents*
 
