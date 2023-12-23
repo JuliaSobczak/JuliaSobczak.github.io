@@ -24,7 +24,7 @@ Once we stopped at Vero, I tried to fish - briefly. I've been itching to get my 
 
 <p class="subtitle">Dec 4, 2023</p>
 
-The fog is thick this morning and so far it has only gotten thicker. It feels like the *Go Away Ghost Ship* Scooby-Doo episode ([click here](https://www.youtube.com/watch?v=DhlwjBHxsJw&t=4s)); I could cut a slice out and take a bite. We have chartplotters so navigating isn't a problem, but if someone comes out of the mist in front of us, we'll need a quick reaction time. Hopefully, like us, they don't move very fast.
+The fog is thick this morning and so far it has only gotten thicker. It feels like the [*Go Away Ghost Ship*](https://www.youtube.com/watch?v=DhlwjBHxsJw&t=4s) Scooby-Doo episode; I could cut a slice out and take a bite. We have chartplotters so navigating isn't a problem, but if someone comes out of the mist in front of us, we'll need a quick reaction time. Hopefully, like us, they don't move very fast.
 
 ![foggy](/images/foggy.jpg)
 
