@@ -346,10 +346,3 @@ nav {
     }
 
 }
-
-/* Dark Mode */
-@media (prefers-color-scheme: dark) {
-    body{background:#191919;filter:invert(1);}
-    .highlight{border-color: grey !important;}
-    img,iframe,.highlight{filter:invert(1);}
-}
