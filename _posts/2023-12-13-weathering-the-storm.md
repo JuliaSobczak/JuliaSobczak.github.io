@@ -178,6 +178,6 @@ Sadly, the Cape Florida Lighthouse was closed for renovations when we arrived at
 
 ![lighthouse-compare](/images/lighthouse-compare.jpg)
 
-*Cape Florida Light 1923 (Left) 2023 (Right)*
+*Cape Florida Lighthouse 2023 (Left) 1923 (Right)*
 
 It's no longer in operation today due to modern navigation technology, but they still offer public tours. After our walk, we headed back out to the boat. The waves in our new anchorage will no doubt make sleep difficult so, reluctantly, we headed back to Hurricane Harbor for another night. At least we are well protected there.
