@@ -77,9 +77,7 @@ p,table,blockquote,pre,img,hr,.mini-note,ul li,ol li {
     box-sizing: border-box;
     max-width: 75%;
 }
-.MathJax_SVG_Display {
-    max-width: 55% !important;
-}
+
 li ul li, li ol li {
     max-width: 100%;
 }
@@ -89,10 +87,10 @@ p {
 }
 
 a,a:visited {
-    color: #111;
+    color: #249EB6;
 
     &:hover {
-        color: rgb(220, 40, 40);
+        color: #31D0EF;
     }
 }
 
@@ -308,10 +306,6 @@ nav {
 
     p,table,blockquote,pre,img,hr,.mini-note,ul li,ol li {
         max-width: 100%;
-    }
-
-    .MathJax_SVG_Display {
-        max-width: 100% !important;
     }
 
     nav {
