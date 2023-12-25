@@ -14,9 +14,9 @@ Apparently we aren't meant to go anywhere. I think we may have skipped the howli
 
 *Our future looks bleak*
 
-Jules and I eventually got a little stir-crazy and went out to the bow for some fresh air. Our conversation probably looked hilarious because we were basically screaming to hear each other over the gusts. Surprisingly, we weren't the only ones braving the elements. Multiple shore birds were visibly hunting, I guess rain or shine they're all still hungry. My favorite was the [Snowy Egret](https://www.audubon.org/field-guide/bird/snowy-egret).
+Jules and I eventually got a little stir-crazy and went out to the bow for some fresh air. Our conversation probably looked hilarious because we were basically screaming to hear each other over the gusts. Surprisingly, we weren't the only ones braving the elements. Multiple shore birds were visibly hunting, I guess rain or shine they're all still hungry. 
 
-The stark white feathers stuck out like a sore thumb against the dark gray skies. They have an immense wingspan that can reach almost four feet wide, but the whole bird weighs under a pound. They also stand on very long and slender black legs that resemble stilts. He stalked around the shallow water near the shore hunting before flying off, squawking loudly as he went. 
+My favorite was the [Snowy Egret](https://www.audubon.org/field-guide/bird/snowy-egret).The stark white feathers stuck out like a sore thumb against the dark gray skies. They have an immense wingspan that can reach almost four feet wide, but the whole bird weighs under a pound. They also stand on very long and slender black legs that resemble stilts. He stalked around the shallow water near the shore hunting before flying off, squawking loudly as he went. 
 
 My dad used the day to further take apart the microwave, unfortunately I think the two of them are at a stalemate. However he was able to find a very similar part online and, after minimal teeth-pulling with customer support, it is on the way. Finding an address to ship it to was another hurdle. Maybe soon Amazon can bring it to our coordinates by drone, but for now we are stuck having to find a physical address. Luckily, our neighbor in the anchorage knew a place we could have it sent, and it should be here before we cross.
 
@@ -34,13 +34,13 @@ The days are beginning to blur together. When Jules and I quit our jobs and disp
 
 We are beginning to consider taking an Uber to Miami just to get off the boat. Currently, this is the longest my parents have ever waited to cross over to Bimini. Stir-crazy is a bit of an understatement right now, we're already onto our second puzzle. Going outside is barely even an option with the wind and rain.
 
-Standing on the front of the boat we can literally watch the heavy gusts as they tear across the top of the water. They appear as dark lines or patches skimming across the water, when it hits you the full force of the gust comes with it. They are called bullets, and just like real ones, some are bigger and badder than others. My parents' friend Randy taught me that in Australia.
+Standing on the front of the boat we can literally watch the heavy gusts as they tear across the top of the water. They appear as dark lines or patches skimming across the water, when it hits you the full force of the gust comes with it. They are called bullets, and just like real ones, some are bigger and badder than others. My parents' friend Randy taught us that when we sailed with him in Australia. 
 
 I did see our Snowy Egret friend again today, I'm sure to him it was just another Friday. Miami has become a mysterious city cloaked in fog, barely visible on the horizon. The palm trees in people yards look ridiculous. Beside the extravagant Christmas lights, the wind has their leaves blown into some crazy looking hairdos.  
 
 ![crazy-palm-trees](/images/crazy-palm-trees.jpg)
 
-*They might be stuck like that*
+*I think they might be stuck like that*
 
 Our plants also seem quite sad, no sun for us is a mood killer, but for them it's just a killer. Fingers, toes, arms, legs, and eyes crossed that we'll see the light and calmer winds some day soon! 
 
