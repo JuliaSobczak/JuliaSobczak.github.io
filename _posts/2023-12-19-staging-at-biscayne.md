@@ -112,7 +112,7 @@ Seagrass beds also play a vital role in reducing carbon dioxide emissions. The n
 
 Check out the park here: [Key Biscayne National Park](https://home.nps.gov/bisc/learn/index.htm)
 
-(bw-birds)
+![bw-birds](/images/bw-birds.jpg)
 
 *Birds are the permanent residents inside the park*
 
