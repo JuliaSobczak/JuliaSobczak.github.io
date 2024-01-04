@@ -12,19 +12,19 @@ Recently, Julia convinced me to start doing yoga. I was hesitant at first, but i
 
 ![casey-yoga](/images/casey-yoga.jpg)
 
-*Am I doing it right?*
+*My parents stateroom has slightly more room than mine*
 
 The weather was beautiful today though. Again, we paddle boarded with the manatees in Hurricane Harbor. The calf sunned itself between its parents while two other adults casually floated nearby. We made sure to give them plenty of space. There were dozens of pipe fish darting around just under the surface, and on our way back a small eagle ray came flying out of the water, twice, right in front of us! Similar to humpback whales, the reason for their jumping remains a mystery; speculation ranges from escaping predators to enjoying themselves. I think he may have just been saying hello.
 
 ![flying-eagle-ray](/images/flying-eagle-ray.jpg)
 
-*An eagle ray jumps out of the water; photo by the Sarasota Dolphin Research Project, [FL Keys News](https://www.flkeysnews.com/news/local/article145430644.html)*
+*An eagle ray leaping out of the water; photo by the Sarasota Dolphin Research Project, [FL Keys News](https://www.flkeysnews.com/news/local/article145430644.html)*
 
 Jules, my mom, and I finished our second puzzle today. It is the first wooden puzzle any of us have ever done; the first one we did was a joke in comparison. Not only was the second one twice as many pieces, but the colors were so similar that they printed letters on the back to help confirm where they fit. At first, it kind of felt like cheating to use the letters, but it became rapidly clear that their help was necessary. 
 
 ![puzzle-pic](/images/puzzle-pic.jpg)
 
-*Note the blurry background, this puzzle kept us (questionably) sane while waiting out the gale*
+*Note the blurry background, we were swinging violently in the gale*
 
 ---
 
@@ -48,7 +48,7 @@ The average home price on Key Biscayne in 2021 was $1.25 million, that's over fi
 
 ![biscayne-highrises](/images/biscayne-highrises.jpg)
 
-*A small fraction of the highrise condos on Key Biscayne*          
+*A fraction of the highrises on Key Biscayne*          
 
 Next, we proceeded to carry our haul two and a half miles back through the state park which included: a case of ginger beer, lots of cheese, milk, juice, and a Christmas dinner prime rib. I think it's safe to say we all got our exercise for the day. We swapped heavy bags of food from one hand to the other and frequently traded throughout the group to lessen the load. At least the path is a nice nature walk, there are so many more types of trees in Florida than in Colorado. 
 
@@ -112,11 +112,19 @@ Seagrass beds also play a vital role in reducing carbon dioxide emissions. The n
 
 Check out the park here: [Key Biscayne National Park](https://home.nps.gov/bisc/learn/index.htm)
 
+(bw-birds)
+
+*Birds are the permanent residents inside the park*
+
 ---
 
 <p class="subtitle">Dec 23, 2023</p>
 
 I regret to inform you that the bugs have found us once again. Elliot Key is in Biscayne National Park and is part of the longest continuous mangrove forest left in Florida. The mangroves aid in beach building and maintenance, they form a natural breakwater for Florida and provide the insects with an ideal environment to thrive. After arriving on the beach yesterday, it was only seconds before we were swarmed. Needless to say we vacated the beach immediately, but the damage was already done. The no-see-ums don't bother my dad, Jules is lucky enough that her bites don't swell or itch, but my mom and I aren't as fortunate. 
+
+![roots-rising](/images/roots-rising.jpg)
+
+*Exploring Elliot Key Beach, Biscayne National Park*
 
 Only the female no-see-ums (or biting-midges) bite humans, or any animals for that matter. The male is fully content consuming flower nectar. The female has very specialized mouthparts that easily pierce animal skin and she consumes the blood to get protein for egg laying. There are over five thousand species of biting-midges and they occur everywhere except the Arctic and Antarctic.
 
@@ -132,8 +140,7 @@ We did finally get some sun today, even if it was accompanied by the wind. The c
 
 *Graceful isn’t in our vocabulary*
 
-The afternoon then treated us with some surprise showers. We could see the storm as it cloaked Miami on the horizon. The black clouds completely enveloped the city before setting course for us. Initially the rain teased us, spitting for a minute here or there and stopping. We could see multiple veils of rain in the distance wandering along above the ocean. 
-Suddenly I noticed that the surface of the water near Elliot Key had changed color. It was almost white against the dark green of the trees behind it, and created a stark line between it and the light blue water. The boiling white surface raced toward the boat and enveloped us. 
+The afternoon then treated us with some surprise showers. We could see the storm as it cloaked Miami on the horizon. The black clouds completely enveloped the city before setting course for us. Initially the rain teased us, spitting for a minute here or there and stopping. We could see multiple veils of rain in the distance wandering along above the ocean. Suddenly, I noticed that the surface of the water near Elliot Key had changed color. It was almost white against the dark green of the trees behind it, and created a stark line between it and the light blue water. The boiling white surface raced toward the boat and enveloped us. 
 
 ![rain-on-the-water](/images/rain-on-the-water.jpg)
 
