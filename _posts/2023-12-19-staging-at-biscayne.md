@@ -6,8 +6,6 @@ description: Seventh blog post
 permalink: articles/staging-at-biscayne/
 date: 2023-12-19
 ---
-*We are currently editing this blog post* 
-
 Recently, Julia convinced me to start doing yoga. I was hesitant at first, but it has really been helping my neck and shoulders. I guess you can't knock it until you try it right? My new complication is finding somewhere on the boat to do it: the living room doesn't have space for me to fully extend my arms above my head, the bow has a weird curvature and receives all of the wind, and my stateroom only has room for the bed.
 
 ![casey-yoga](/images/casey-yoga.jpg)
