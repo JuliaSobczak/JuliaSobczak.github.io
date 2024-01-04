@@ -103,6 +103,7 @@ This park also contains massive seagrass beds; similar to mangroves, they play a
 The Hawksbill, Green, and Loggerhead turtles are common sightings in the park, and if you're really lucky, and I mean REALLY LUCKY, Leatherback turtles can be seen as well. They are the largest turtle in the world and recently their population has bounced back tremendously, as many as forty thousand breeding pairs exist today. They can be six feet long and weigh over 2000 lbs. 
 
 ![pilothouse-lookout](/images/pilothouse-lookout.jpg)
+
 *Looking for sea turtles*
 
 On the other end of the spectrum three species of seahorse call the national park home. The largest of the three, the Lined Seahorse, reaches 19 cm tall; while the Dwarf Seahorse boasts a 2.5 cm maximum height. They cling to the seagrass beds for stability and safety as they are actually terrible swimmers. 
@@ -135,6 +136,7 @@ The afternoon then treated us with some surprise showers. We could see the storm
 Suddenly I noticed that the surface of the water near Elliot Key had changed color. It was almost white against the dark green of the trees behind it, and created a stark line between it and the light blue water. The boiling white surface raced toward the boat and enveloped us. 
 
 ![rain-on-the-water](/images/rain-on-the-water.jpg)
+
 *Brace for impact!*
 
 Immediately there was an audible difference in the storm’s intensity and the small sailboat anchored near us disappeared into the mist. The wind followed suit, but not one of us batted an eye. After we endured what was essentially half of a hurricane it takes more than a little gust to phase us. 
