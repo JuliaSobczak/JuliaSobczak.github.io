@@ -30,6 +30,7 @@ permalink: /nautical-terms
 |Scope|The angle of the anchor chain between the anchor and the bow of the boat|
 |Skiff|A small boat used to ferry people and supplies to and from a larger boat |
 |Snubber|A device used to lower the scope of the chain and take tension off of the windlass|
+|Stage|To prepare to cross, anchoring close to the crossing point in preparation of travel|
 |Starboard|Right|
 |Stateroom|Bedroom|
 |Stern/Aft Deck|Back of the boat|
