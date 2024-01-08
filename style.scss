@@ -143,6 +143,12 @@ img[src*="#thirds"] {
     padding: .5px;
     
 }
+img[src*="#half"] {
+    height: auto;
+    width: 50%;
+    padding: .5px;
+    
+}
 
 /**************************************
     $DEFAULT ELEMENTS
