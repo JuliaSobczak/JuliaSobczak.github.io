@@ -6,7 +6,7 @@ description: Eighth blog post
 permalink: articles/crossing-to-bimini/
 date: 2023-12-24
 ---
-Last night was noisy. The bow of the boat bounced through the oncoming waves all night, our stateroom sounded like we were in a washing machine. Coupled with the chafing ropes on our snubber, it made sleep strenuous.
+Last night was noisy. The bow of the boat bounced through the oncoming waves incessantly, our stateroom sounded like we were in a washing machine. Coupled with the chafing ropes on our snubber, it made sleep strenuous.
 
 The ear plugs we have are a lifesaver but they keep falling out in the middle of the night. It's pretty awkward trying to fish an earplug out from between the sheets while the boat’s rocking around, it's pitch dark, and I'm trying not to wake the bear sleeping beside me. 
 
