@@ -36,14 +36,6 @@ Finally, the piece to our microwave has arrived! The postal service is located j
 
 I feel as though Key Biscayne is a very unique place to live, work, or own a business. The distribution of wealth here astonishes me. There is a very clear line between the wealthy homeowners and the multitude of construction workers, restaurant employees, and grocery store clerks. The street is filled with lavish cars, there are tons of pricey restaurants, and don’t get me started on the crazy houses and boats again.
 
-On the other end of the spectrum, there is an abundance of people working hard to provide for themselves and their families. I know the same is true anywhere, but this place seems to amplify the feeling beyond anything I have experienced before. The closest comparison I have in mind would be the Vail Resorts in Colorado.
-
-In towns such as Breckenridge, Vail, and Keystone the locals have been driven out due to incredibly high inflation rates created by the wealthy conglomerate. Originally, the locals lived in ski towns simply because they loved the lifestyle and community. They were able to start thriving local businesses which added to the charm of the slopes. The towns swelled in popularity until the price of skiing outweighed the experience. Eventually skier numbers declined and that's when Vail Resorts pounced. 
-
-They started building a monopoly of struggling ski resorts and created the first multi-resort “Epic pass” which allowed skiers to visit different mountains for a greatly reduced price. These types of passes became so popular that it pushed Vail Resorts to add more hotels and retail outlets for the massive influx of skiers. They cater to their highest paying customers as any business would but it began squeezing the struggling locals. Eventually, rent and home prices got so high that the original residents were pushed out to nearby mountain towns. Now they are forced to commute in order to preserve the lifestyle that drew them there in the first place. 
-
-The average home price on Key Biscayne in 2021 was $1.25 million, that's over five times the national average. With such limited housing options, it seems odd that there are so many lower-income workers here. I wonder, is there an exodus of locals occurring on Key Biscayne? Is there an equivalent parasite to Vail Resorts that is digging in to stay? Or has Key Biscayne always been in control of the wealthy? Headline coming soon: “Casey uncovers the truth surrounding the residents of Key Biscayne, Florida”. 
-
 ![biscayne-highrises](/images/biscayne-highrises.jpg)
 
 *A fraction of the highrises on Key Biscayne*          
