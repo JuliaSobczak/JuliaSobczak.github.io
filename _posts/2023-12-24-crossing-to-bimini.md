@@ -152,7 +152,7 @@ The rain continued to be sporadic into the afternoon. At one point it stopped an
 
 In 1997, Hurricane Mitch berated a freighter named Gallant Lady against the iron shore. Her remains have been fighting a losing battle against the saltwater ever since. The rusty skeleton does create a nice contrast against the crystal blue water though. My mom said there is definitely less Gallant Lady than last year. 
 
-![gallant-lady-feb2023](/images/gallant-lady-feb2023.jpg) ![gallant-lady-dec2023](/images/gallant-lady-dec2023.jpg)
+![gallant-lady-feb2023](/images/gallant-lady-feb2023.jpg#half) ![gallant-lady-dec2023](/images/gallant-lady-dec2023.jpg#half)
 
 *The Gallant Lady in February (left) versus December (right) 2023* 
 
