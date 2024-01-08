@@ -126,7 +126,7 @@ My parents have spent so much time in Bimini, it has become their home away from
 
 ![casey-mom-beach](/images/casey-mom-beach.jpg)
 
-*Returning to a familiar beach on South Bimini*
+*Returning to a familiar beach on North Bimini*
 
 One of our first priorities is getting some laundry done. There is a washer and dryer on the boat but the capacity isn't much so towels and blankets have been sorely neglected. We enlisted the help of Pat to drive us over to the laundromat. Pat is a Bimini local and is just about to turn eighty. He’s a little rough around the edges, but over time my parents have grown on him. He usually rents golf carts at the marina but currently all of them are in bad shape. The only one that runs is his personal cart, and it's barely limping along as it is. My dad and I hopped on and he drove us to drop off our laundry. 
 
