@@ -10,6 +10,8 @@ This morning I decided it was time for a real breakfast. I've been fairly conten
  
 ![casey-knees](/images/casey-knees.jpg)
 
+**
+
 After breakfast, we took a walk to the grocery store. On Bimini there are two main roads: Kings Highway and Queens Highway. Calling either a two-lane road would be a stretch. We decided to take Queens, it has less traffic and follows the ocean. The waves crashing on the beach were, again, ridiculous. Needless to say, there wasn't anyone in the water. 
 
 On our way to the store, we passed the Dolphin House. Built by Ashley Saunders completely from recycled material he collected on the island, it stands three stories tall and has a lighthouse on the roof. The entire outside is an amazing mosaic of tile, shells, and glass. Ashley gives tours to anyone interested. There is a uniqueness like no other that envelopes the whole building. 
@@ -24,23 +26,31 @@ In case you can’t tell, we think pretty highly of him. We planned on seeing hi
 
 ![dolphin-house-int](/images/dolphin-house-int.jpg)
 
+*A small glimpse inside*
+
 We eventually made our way to the grocery store. The supply ship arrives on Thursday so Friday morning is the time to go shopping. When we arrived, the store was so filled with boxes and people that only my mom went inside. The grocery stores here are vastly different from the U.S. Not only are they closer in size to a convenience store, but the items fluctuate constantly so you never know what they'll have.
 
 The vegetables are typically good quality and fairly priced, but any meats brought over are frozen because they arrive by ship and are generally marked up. I recommend checking the expiration date on anything you pick up. Any cosmetics or toiletries are generally pricey as well. Hence, our spending spree at Costco and Sam's Club. 
 
 ![bimini-dental](/images/bimini-dental.jpg)
 
+*Just across the street from the grocery store*
+
 Once we got back to the boat, Jules and I decided it was time to paddle board. Almost immediately after we got in the water a small shark swam right underneath us. I promise we were more interested in him than he was in us.
 
-Jules and I paddled across the marina channel into the sand flats. The water under us was so shallow at times that we caught the fin under our boards in the sand. It was a killer perspective to have! Standing on the boards we were able to float right over the top of some southern stingrays. A juvenile lemon shark honed its hunting skills on the small fish harbored in the mangrove roots. 
+Jules and I paddled across the marina channel into the sand flats. The water under us was so shallow at times that we caught the fin under our boards in the sand. It was a killer perspective to have! Standing on the boards we were able to float right over the top of some southern stingrays. A juvenile lemon shark honed its hunting skills on the small fish harbored in the mangrove roots. Birds of all kinds call the mangroves home as well. The twisted, gnarled maze is an unrivaled sanctuary. 
 
 ![casey-paddleboard-mangroves](/images/casey-paddleboard-mangroves.jpg)
 
-Birds of all kinds call the mangroves home as well. The twisted, gnarled maze creates an unrivaled sanctuary. Mangroves are some of the hardest working trees on the planet. They function as an amazing nursery for a multitude of marine species, create protection from erosion during storm surges, and, by using their explorative roots, aggregate soils to build islands. 
+*
+
+Mangroves are some of the hardest working trees on the planet. They function as an amazing nursery for a multitude of marine species, create protection from erosion during storm surges, and, by using their explorative roots, aggregate soils to build islands. 
 
 When we got back to the boat, we took our time getting out and made a circle in the marina. We stood up just in time to see two more sharks meandering through. They dwarfed the juvenile we saw on the flats. My estimate is about five feet long each, but everything looks bigger underwater. 
 
 ![bimini-shark](/images/bimini-shark.jpg)
+
+*Permanent residents of the marina*
 
 With all of the animals flourishing in the marina, I thought better care would be taken to prevent contaminating the environment. Apparently I am wrong. Our neighbors at the marina are from Miami and ended up staying in Bimini a night or so due to bad weather. They seemed like nice enough people, but to our surprise when they departed their trash was left just laying on the dock.
 
@@ -48,7 +58,7 @@ There are signs everywhere pointing to the trash receptacles, they're only about
 
 ![bimini-mangroves](/images/bimini-mangroves.jpg)
 
-*We must work together to preserve these kind of habitats*
+*We must work together to preserve these habitats*
 
 It baffles me how careless people can be. Maybe they're just oblivious, so focused on themselves that nothing else matters. Don't worry, I went ahead and cleaned up after them. When they left the waves were pretty large, I hope they enjoyed their rough ride back to Miami.
 
@@ -60,9 +70,13 @@ This morning the seas layed down and the wind calmed, time to keep moving. Befor
 
 ![plants](/images/plants.jpg)
 
+*Loving their new homes*
+
 When leaving the dock we put on an absolute clinic. We unhooked from water and power, untied our lines, and maneuvered away from the dock. The four of us operated like a well-oiled machine. My dad drove us out of the harbor and Bimini shrank into the distance. 
 
 ![leaving-bimini](/images/leaving-bimini.jpg)
+
+*
 
 We have yet to catch any fish worth eating so the hopes are high today. We rigged up some enticing lures and as soon as we hit deeper water the hunt was on. The sweet spot is right along the shelf, or as they say in Finding Nemo, “the drop off”. Near Bimini, the drop off isn't far offshore which makes fishing much more convenient than many other places. In parts of Florida the shelf is over fifty miles offshore, here it is less than one. 
 
