@@ -10,7 +10,7 @@ This morning I decided it was time for a real breakfast. I've been fairly conten
  
 ![casey-knees](/images/casey-knees.jpg)
 
-**
+*I think this boat was built for dwarves*
 
 After breakfast, we took a walk to the grocery store. On Bimini there are two main roads: Kings Highway and Queens Highway. Calling either a two-lane road would be a stretch. We decided to take Queens, it has less traffic and follows the ocean. The waves crashing on the beach were, again, ridiculous. Needless to say, there wasn't anyone in the water. 
 
@@ -42,53 +42,49 @@ Jules and I paddled across the marina channel into the sand flats. The water und
 
 ![casey-paddleboard-mangroves](/images/casey-paddleboard-mangroves.jpg)
 
-*
+*Paddleboarding in the mangroves near Bimini*
 
 Mangroves are some of the hardest working trees on the planet. They function as an amazing nursery for a multitude of marine species, create protection from erosion during storm surges, and, by using their explorative roots, aggregate soils to build islands. 
 
 When we got back to the boat, we took our time getting out and made a circle in the marina. We stood up just in time to see two more sharks meandering through. They dwarfed the juvenile we saw on the flats. My estimate is about five feet long each, but everything looks bigger underwater. 
 
-![bimini-shark](/images/bimini-shark.jpg)
-
-*Permanent residents of the marina*
-
 With all of the animals flourishing in the marina, I thought better care would be taken to prevent contaminating the environment. Apparently I am wrong. Our neighbors at the marina are from Miami and ended up staying in Bimini a night or so due to bad weather. They seemed like nice enough people, but to our surprise when they departed their trash was left just laying on the dock.
-
-There are signs everywhere pointing to the trash receptacles, they're only about twenty feet from where they parked. Needless to say, we were upset. All it would take is one gust of wind and their entire trash bag would have been in the water.
 
 ![bimini-mangroves](/images/bimini-mangroves.jpg)
 
 *We must work together to preserve these habitats*
 
-It baffles me how careless people can be. Maybe they're just oblivious, so focused on themselves that nothing else matters. Don't worry, I went ahead and cleaned up after them. When they left the waves were pretty large, I hope they enjoyed their rough ride back to Miami.
+There are signs everywhere pointing to the trash receptacles, they're only about twenty feet from where they parked. Needless to say, we were upset. All it would take is one gust of wind and their entire trash bag would have been in the water. It baffles me how careless people can be, buy don't worry, I went ahead and cleaned up after them. It just wasWhen they left the waves were pretty large, I hope they enjoyed their rough ride back to Miami.
 
 ---
 
 <p class="subtitle">Dec 30, 2023</p>
 
-This morning the seas layed down and the wind calmed, time to keep moving. Before we departed, Julia used the dock to replant some of our veggies since some of them seemed unhappy.
+This morning the seas layed down and the wind calmed, time to keep moving. Before we departed, Julia used the dock to replant some of our veggies since some of them seemed unhappy. The basil and pepper seem fine but the salty air has been harsh on our lettuce and cilantro. 
 
 ![plants](/images/plants.jpg)
 
-*Loving their new homes*
+*Loving their new homes, ignore the cilantro*
 
 When leaving the dock we put on an absolute clinic. We unhooked from water and power, untied our lines, and maneuvered away from the dock. The four of us operated like a well-oiled machine. My dad drove us out of the harbor and Bimini shrank into the distance. 
 
 ![leaving-bimini](/images/leaving-bimini.jpg)
 
-*
+*Heading for new territory*
 
-We have yet to catch any fish worth eating so the hopes are high today. We rigged up some enticing lures and as soon as we hit deeper water the hunt was on. The sweet spot is right along the shelf, or as they say in Finding Nemo, “the drop off”. Near Bimini, the drop off isn't far offshore which makes fishing much more convenient than many other places. In parts of Florida the shelf is over fifty miles offshore, here it is less than one. 
-
-We find the sweet spot using our depth gages and look for the moment that one hundred feet jumps to around three hundred. The breadcrumbs left on our chartplotter make it easy to find and then we just zigzag over the shelf. The sport fish we are after are mahi mahi, wahoo, or any kind of tuna, but beggars can't be choosers. 
+We have yet to catch any fish worth eating so the hopes are high today. We rigged up some enticing lures and as soon as we hit deeper water the hunt was on. The sweet spot is right along the shelf, or as they say in Finding Nemo, “the drop off”. Near Bimini, the drop off isn't far offshore which makes fishing much more convenient than many other places. In parts of Florida the shelf is over fifty miles offshore, here it is less than one. We find the sweet spot using our depth gages and look for the moment that one hundred feet jumps to around three hundred. 
 
 ![fishing-breadcrumbs](/images/fishing-breadcrumbs.jpg)
 
-The method we use is called trolling, it's a simple concept: drag lures behind the boat and the momentum generates action from the bait. There are so many opinions on the correct way to troll and they vary widely around many factors: what type of fish are you after, what lure are you pulling, where are you fishing, is it fresh or saltwater? The list goes on.
+*Retracing our steps is easy using our breadcrumbs (bold dashed lines)*
+
+The sport fish we are after are mahi mahi, wahoo, or any kind of tuna, but beggars can't be choosers. The method we use is called trolling, it's a simple concept: drag lures behind the boat and the momentum generates action from the bait. There are so many opinions on the correct way to troll and they vary widely around many factors: what type of fish are you after, what lure are you pulling, where are you fishing, is it fresh or saltwater? The list goes on.
 
 We fish at the same speed we travel which is about seven knots. Some fisherman claim we go way too slow, yet my parents have been quite successful at this speed in the past. Like I said, it's all just opinions. 
 
 ![lures](/images/lures.jpg)
+
+*A variety of baits that we use when trolling*
 
 I feel like the most important factor to have on your side is luck. Yes you can have the best equipment, location, and knowledge, but if the fish aren't there it doesn't matter one bit. I've seen inexperienced anglers catch extraordinary fish before, luck was about all they had. 
 
@@ -104,11 +100,15 @@ We went ahead and parked right in their backyard. This time I trained on how to 
 
 ![windlass](/images/windlass.jpg)
 
+*The windlass (winch) that drops and retrieves our anchor*
+
 They continued to let out the chain until we hit the one-hundred foot mark and then locked it down. The momentum of the boat continued backwards and pulled the chain tight. It hooked correctly, the boat stopped and the wind swung us around. In my experience we are typically successful on the first try. 
 
 We had one instance in Hurricane Harbor where we failed to hook and it was pretty obvious. The chain started to vibrate strangely and the boat continued moving long after it should have stopped. We hauled in the anchor, repositioned, and dropped it again. If the ground is dense it won’t allow the anchor to dig in, or the chain can wrap around the anchor initially and foul it. Luckily it was an easy fix. 
 
 ![north-cat-sunset](/images/north-cat-sunset.jpg)
+
+*Some killer afterglow from the sunset*
 
 ---
 
@@ -118,6 +118,8 @@ The hunger for fresh fish is reaching a boiling point on this boat. After waking
 
 ![three-rods](/images/three-rods.jpg)
 
+*Only moments before mayhem*
+
 The smaller of our three rods suddenly bent over with the drag screaming to announce that a fish was on. We yelled in unison to let my dad know to slow down and I started bringing in the fish. The rod in question was on the right corner of the cockpit and immediately the fish swam hard to the left. It managed to get wrapped around one of the other lines that was out and I cringed at the potential rats’ nest. 
 
 My mom was reeling in one of the other rods to get it out of the way and suddenly she had a fish on too. At that moment I was both excited and scared. It's a hassle managing one rod with a fish, much less two. The fish crossed over each other behind the boat and we inched closer to disaster. I was scared that we could lose both of the fish, but I never quit reeling. 
@@ -126,15 +128,21 @@ As it neared the back of the boat we saw the bright yellow and green of a mahi m
 
 ![mahi-fight](/images/mahi-fight.jpg)
 
+*Landing fish is a group effort*
+
 Now we had two mahi-mahi going crazy on the deck, it looked like Freddy Krueger's basement. Between the fish bleeding from their mouths and the holes from the gaff they repainted most of the cockpit. Miraculously, we managed to land both fish and keep the lures even with a broken line. 
 
 ![double-mahi](/images/double-mahi.jpg)
 
+*Fresh fish is on the menu*
+
 We continued to fish in hopes of adding to our haul but eventually hunger got the better of us and we headed back to North Cat Cay to clean fish and make lunch. My dad butchered, I cleaned the filets, Jules lit the grill, and my mom cut veggies and made tartar sauce. The timing came together beautifully and we had ourselves some killer mahi sandwiches. 
 
-Catching fish early left us an open afternoon, time to go snorkeling. We rounded up the masks, snorkels, and fins along with chairs, beers, and wetsuits. With all of the gear plus the four of us the skiff was overflowing. We made our way to Gun Cay and staked a claim on a part of the beach. 
+Catching fish early left us an open afternoon, time to go snorkeling. We rounded up the masks, snorkels, and fins along with chairs, beers, and wetsuits. With all of the gear and the four of us, the skiff was overflowing. We made our way to Gun Cay and staked a claim on a part of the beach. 
 
 ![sand-dollar](/images/sand-dollar.jpg)
+
+*A tiny sand dollar test I found while snorkeling* 
 
 After exploring for a short time, Jules and I donned our gear and hit the water. It had been far too long, we were so happy to see our fish friends again. The water was cooler than anticipated but what can you expect when snorkeling in January? 
 
@@ -142,7 +150,9 @@ Jules and I swam along the shoreline over the seagrass beds waving our hellos. T
 
 ![wetsuit-funnies](/images/wetsuit-funnies.jpg)
 
-On our way back a southern stingray swam right beside us. The motion they make when swimming is so fluid, it was a treat to witness. Once we got back to the beach it was time to photosynthesize and get some body heat back. I was coated in goosebumps from head to toe. Once adequately dry we headed back to the boat for a fresh fish dinner. 
+*I was coated in goosebumps from head to toe.*
+
+On our way back a southern stingray swam right beside us. The motion they make when swimming is so fluid, it was a treat to witness. Once we got back to the beach it was time to photosynthesize and get some body heat back. Once adequately dry we headed back to the boat for a fresh fish dinner. 
 
 ---
 
@@ -154,15 +164,21 @@ The entire first day of our new year we traveled. We woke up early, before the s
 
 ![new-year-sunrise](/images/new-year-sunrise.jpg)
 
+*Our first sunrise of the new year*
+
 Our plan is to go about fifty miles across the Great Bahama Bank and anchor near the Northwest Channel. We will spend the night there and then make the crossing to Nassau tomorrow. Spending the night out on the bank means there is no cover from any weather. Luckily, we should have a very calm night ahead of us. 
 
-The Great Bahama Bank feels like a massive aquatic desert, stretching about three hundred miles from north to south and about fifty miles east to west. It is composed of coral limestone that is nearly three miles thick. The water is clear and shallow but there are no fish in sight. Occasional plants litter the bottom and we have seen a few man o’ wars casually floating by, but that's it. After some debating and consideration we picked a spot to spend the night. It looks exactly like every other spot because there aren't any landmarks. 
+The Great Bahama Bank stretches about three hundred miles from north to south and about fifty miles east to west. It is composed of coral limestone that is nearly three miles thick. The water is clear and shallow but there are no fish in sight. Occasional plants litter the bottom and we have seen a few man o’ wars casually floating by, but that's it. After some debating and consideration we picked a spot to spend the night. It looks exactly like every other spot because there aren't any landmarks. 
 
 ![big-blue](/images/big-blue.jpg)
+
+*This feels like a massive aquatic desert*
 
 We couldn't have asked for better weather to travel, the whole day was calm and hot. After we parked, Jules was in the water fast. She donned her mask, snorkel, and fins and took the plunge, I followed shortly after. There is a weird feeling I get from being in the ocean with no land in sight. Thank God the boat was there. I just felt uneasy, like something was watching me, or stalking me. It's hard to get completely comfortable. Having other people around diminishes the feeling, but I don't know if it's ever truly gone. Safety in numbers right? 
 
 ![snorkel-bank](/images/snorkel-bank.jpg)
+
+*Jules floating in the infinite swimming pool*
 
 The main perk to spending the night out on the bank is the stars. There isn't any city light polluting the view and the sky is amazing. We shut off the lights on the boat and inky darkness set in. You definitely don't get a view like this from Denver.
 
@@ -176,17 +192,21 @@ We made our way through the Northwest Channel out into deeper water. So far, our
 
 ![fishing-rod-sunrise](/images/fishing-rod-sunrise.jpg)
 
+*Ready to snag a monster!*
+
 This time the shelf was even more dramatic than in Bimini. Our depth finder jumped from around one-hundred feet to over eight-hundred in the blink of an eye. I wonder what this place would look like without water. I am imagining a breathtaking valley lined with incredibly sheer cliffs, the immense mountains towering miles into the air from the canyon floor. 
 
 ![toto-chart](/images/toto-chart.jpg)
 
+*Bathymetry lines ranging from 1444 feet (left) to 13 feet (right)
+
 Again we pulled our lures along the edge of the shelf and almost immediately we had a fish on. I hopped on the reel and brought it in close. It was another barracuda. I grabbed the pliers, got the hook out, and we sent him back to the depths. Now it's time to catch a real fish, we sent the lures back out and the waiting game continued. 
 
-After dragging them for a while with no action we checked the baits. Unfortunately for us, two of our lines had intersected. Calling it a mess would be an understatement, the lines were so twisted together it was a nightmare. We lost valuable fishing time untangling the rats' nest and ended up empty handed.
+After dragging them for a while with no action we checked the baits. Unfortunately for us, two of our lines had intersected. Calling it a mess would be an understatement, the lines were so twisted together it was a nightmare. We lost valuable fishing time untangling the rats' nest.
 
 ![rats-nest](/images/rats-nest.jpg)
 
-*I guess you win some, lose some*
+*It's tough to catch fish without the lines in the water*
 
 We turned our course east and headed for Nassau, almost immediately our depth gauge maxed out and started flashing. Our charts show depths of over sixty-five hundred feet in the Tongue of the Ocean, it really makes me feel insignificant. If the security of the boat suddenly disappeared the terror would be immeasurable.
 
@@ -194,17 +214,23 @@ I guess that says something about our species' innate sense of adventure and cur
 
 ![captain-hat-jules](/images/captain-hat-jules.jpg)
 
+*She takes her job very seriously*
+
 I starred in an episode of our new hit series Extreme Cooks today. I made breakfast for four while tossing around in the ocean with no land in sight. The eggs on the griddle looked like hockey pucks sliding around an ice rink. Believe it or not I didn't spill a drop. The huevos rancheros made an appearance again and they were killer. 
 
 Nassau appeared on the horizon just in time. The waves in the Tongue of the Ocean had grown tremendously since our departure. The conditions weren't as extreme as our first crossing, but we were thrilled to park before they reached that level. We hooked another small barracuda just before entering Clifton Bay, but nothing worth eating. 
 
 ![nassau-in-distance](/images/nassau-in-distance.jpg)
 
+*Nassua coming into view on the horizon*
+
 We anchored alongside some sailboats and ended up once again adjacent to the waves. Large rolling swells approached from the west and the wind held us north to south. The rocking is severe enough that the handrails are a must even on anchor. Jules has been battling her sea sickness all day and just because the engines are off doesn't mean we’ve stopped moving. 
 
 Unfortunately there aren't any other options for us to stay the night, she's pulling through like a trooper though. Keeping her on a hefty dose of Dramamine doesn't hurt either. Supposedly the wind will shift direction around midnight and the rocking should subside, but we still have trust issues after the Florida crossing.
 
 ![purple-sunset](/images/purple-sunset.jpg)
+
+*At least we got a beautiful sunset*
 
 ---
 
@@ -214,21 +240,27 @@ I am beginning to hear our windlass in my nightmares. The loud winch rang throug
 
 ![nassau-stacks](/images/nassau-stacks.jpg)
 
+*Leaving the factories behind*
+
 By this afternoon we plan to be at the northern tip of the Exumas. The cluster of nearly four hundred islands is a cruiser's paradise. Good anchorages coupled with clear blue water and deep ocean access for fishing make it a popular destination. But first we have to get there. Everyone says it's not about the destination, it's about the journey. In this case, I respectfully disagree. 
 
 Traveling on the boat is leisurely but boring. Our first day and the majority of today we will be on the Great Bahama Bank so there's no fishing to do. The autopilot steers the boat, our chartplotter handles the navigation, and by the time we arrive at our destination we're all ready for bed. 
 
 The only difference today is that we need to watch for coral heads. These are tall, hard surfaces covered in coral that can reach up very near the surface of the water. Corals compete for space and sunlight against each other. They grow very slowly, but over time, create amazing structures. Structures that have the potential to tear the fiberglass of the Altitude Adjustment to shreds. Still it only takes one person to be a look out, and the coral is few and far between out here. 
 
-After a couple of hours, Nassau disappeared behind us. Our course is set for Allen's Cay, there is an anchorage between it and Leaf Cay that my parents have used before. The small islands run in parallel to one another and have a nice channel between them that offers great protection from weather. 
+After a couple of hours, Nassau disappeared behind us. Our course is set for Allen's Cay, there is an anchorage between it and Leaf Cay that my parents have used before. The small islands run in parallel to one another and have a nice channel between them that offers great protection from weather. Around the five-hour mark, land came into view, scattered islands barely visible on the horizon.
 
 ![allens-cay](/images/allens-cay.jpg)
 
-Around the five-hour mark, land came into view, scattered islands barely visible on the horizon. We all took turns peering through the binoculars. It would appear that we aren’t the only ones who plan to anchor at Allen’s Cay and we may not fit. My dad pulled the boat into neutral and we started working on a plan B. The cluster of islands offers multiple anchorages; some easier to reach than others. 
+*Our first glimpse of the Exumas*
 
-Coral heads stand guard in the shallow water surrounding the islands so using the charts is a must. There are narrow channels of deep water that can grant us access, eventually, we decided on our route and began snaking through. I went out on the nose of the boat to watch for any coral or rock that may not be visible from the pilot house, the water was so clear it was unbelievable. 
+ We all took turns peering through the binoculars. It would appear that we aren’t the only ones who plan to anchor at Allen’s Cay and we may not fit. My dad pulled the boat into neutral and we started working on a plan B. The cluster of islands offers multiple anchorages; some easier to reach than others. 
+
+Coral heads stand guard in the shallow water surrounding the islands so using the charts is a must. There are narrow channels of deep water that can grant us access, eventually, we decided on our route and began snaking through. I went out on the nose of the boat to watch for any coral or rock that may not be visible from the pilot house.  
 
 ![spotting-coral](/images/spotting-coral.jpg)
+
+*The water is so clear it's unbelievable*
 
 We inched our way along nervously, the chartplotter showed some areas as shallow as six feet and we require at least five. The anchorage we planned to use initially was full. We rounded the corner to see boats of all kinds packed in tight, even *Brown Eyed Girl* was squeezed in there. Captain Chris left Bimini before us and made it to the Exumas a few days ahead of our schedule.
 
@@ -238,4 +270,6 @@ We inched our way along nervously, the chartplotter showed some areas as shallow
 
 Our target then became the northern end of Highborne Cay, luckily, it's only about half a mile south. My dad urged the boat slowly through the water and after a puckered up few minutes we arrived. Jurassic Park theme music played in my head as I stepped onto the bow. This is where the sights start getting juicy. Highborne Cay is a massive privately owned island and remains largely undeveloped. The dense foliage and dramatic views give it a wildly untame feeling.
 
-![highbourne-cay-drone](/images/highbourne-cay-drone.JPG)  
+![highbourne-cay-drone](/images/highbourne-cay-drone.JPG) 
+
+*It's just starting to get juicy*
