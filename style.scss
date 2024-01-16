@@ -325,6 +325,11 @@ nav {
         max-width: 100%;
     }
 
+    img[src*="#vert"] {
+    height: auto;
+    width: 100%;
+    }
+
     nav {
 
         .menu-icon {
