@@ -8,7 +8,7 @@ date: 2023-12-29
 ---
 This morning I decided it was time for a real breakfast. I've been fairly content with the bagels and cereal, but we have green chili in the fridge from a couple of nights ago and corn tortillas so it's time for huevos rancheros! Once again I utilized the pancake griddle, I'm starting to realize the potential it has. Instead of three pans I only used one. I rocked out eggs, hash browns, and bacon, then proceeded to smother it in green and red chili with melted cheese on top. Breakfast was served. 
  
-![casey-knees](/images/casey-knees.jpg)
+![casey-knees](/images/casey-knees.jpg#vert)
 
 *I think this boat was built for dwarves*
 
@@ -16,7 +16,7 @@ After breakfast, we took a walk to the grocery store. On Bimini there are two ma
 
 On our way to the store, we passed the Dolphin House. Built by Ashley Saunders completely from recycled material he collected on the island, it stands three stories tall and has a lighthouse on the roof. The entire outside is an amazing mosaic of tile, shells, and glass. Ashley gives tours to anyone interested. There is a uniqueness like no other that envelopes the whole building. 
 
-![dolphin-house-ext](/images/dolphin-house-ext.jpeg)
+![dolphin-house-ext](/images/dolphin-house-ext.jpeg#vert)
 
 *The beautiful exterior of the Dolphin House; photo by owner, [Dolphin House Museum](https://dolphin-house-museum.business.site/)*
 
@@ -32,7 +32,7 @@ We eventually made our way to the grocery store. The supply ship arrives on Thur
 
 The vegetables are typically good quality and fairly priced, but any meats brought over are frozen because they arrive by ship and are generally marked up. I recommend checking the expiration date on anything you pick up. Any cosmetics or toiletries are generally pricey as well. Hence, our spending spree at Costco and Sam's Club. 
 
-![bimini-dental](/images/bimini-dental.jpg)
+![bimini-dental](/images/bimini-dental.jpg#vert)
 
 *Just across the street from the grocery store*
 
@@ -62,7 +62,7 @@ There are signs everywhere pointing to the trash receptacles, they're only about
 
 This morning the seas layed down and the wind calmed, time to keep moving. Before we departed, Julia used the dock to replant some of our veggies since some of them seemed unhappy. The basil and pepper plants seem fine but the salty air has been harsh on our lettuce and cilantro. 
 
-![plants](/images/plants.jpg)
+![plants](/images/plants.jpg#vert)
 
 *Jules will use anthing for a pot*
 
@@ -74,7 +74,7 @@ When leaving the dock we put on an absolute clinic. We unhooked from water and p
 
 We have yet to catch any fish worth eating so the hopes are high today. We rigged up some enticing lures and as soon as we hit deeper water the hunt was on. The sweet spot is right along the shelf, or as they say in Finding Nemo, “the drop off”. Near Bimini, the drop off isn't far offshore which makes fishing much more convenient than many other places. In parts of Florida the shelf is over fifty miles offshore, here it is less than one. We find the sweet spot using our depth gages and look for the moment that one hundred feet jumps to around three hundred. 
 
-![fishing-breadcrumbs](/images/fishing-breadcrumbs.jpg)
+![fishing-breadcrumbs](/images/fishing-breadcrumbs.jpg#vert)
 
 *Retracing our steps is easy using our breadcrumbs (bold dashed lines)*
 
@@ -82,7 +82,7 @@ The sport fish we are after are mahi mahi, wahoo, or any kind of tuna, but begga
 
 We fish at the same speed we travel which is about seven knots. Some fisherman claim we go way too slow, yet my parents have been quite successful at this speed in the past. Like I said, it's all just opinions. 
 
-![lures](/images/lures.jpg)
+![lures](/images/lures.jpg#vert)
 
 *A variety of baits that we use when trolling*
 
@@ -98,7 +98,7 @@ Fish isn't on the menu tonight but hopefully will be soon. Our anchorage is on t
 
 We went ahead and parked right in their backyard. This time I trained on how to drive while setting anchor. I have done it once or twice in previous visits but a refresher was definitely necessary. Communication is the key component. From the pilot house it is hard to tell exactly where the anchor will fall, so I drove into the general area and my mom called out that we were in a good spot. She and Julia dropped the anchor using the windlass as I threw us into reverse to back away from the anchor. 
 
-![windlass](/images/windlass.jpg)
+![windlass](/images/windlass.jpg#vert)
 
 *The windlass (winch) that drops and retrieves our anchor*
 
@@ -126,13 +126,13 @@ My mom was reeling in one of the other rods to get it out of the way and suddenl
 
 As it neared the back of the boat we saw the bright yellow and green of a mahi mahi break the surface. I brought the fish in close and my dad gaffed it. The gaff is a long pole with a large sharp hook that's used to impale the fish and hoist it aboard. He then moved over to get my mom's fish while I attempted to subdue mine. In the commotion, my line rubbed something sharp and broke. Luckily we already had the fish in the boat. She brought hers in close - BOOM my dad hit his mark again and the fish was brought in. 
 
-![mahi-fight](/images/mahi-fight.jpg)
+![mahi-fight](/images/mahi-fight.jpg#vert)
 
 *Landing fish is a group effort*
 
 Now we had two mahi-mahi going crazy on the deck, it looked like Freddy Krueger's basement. Between the fish bleeding from their mouths and the holes from the gaff they repainted most of the cockpit. Miraculously, we managed to land both fish and keep the lures even with a broken line. 
 
-![double-mahi](/images/double-mahi.jpg)
+![double-mahi](/images/double-mahi.jpg#vert)
 
 *Fresh mahi-mahi is on the menu*
 
@@ -140,7 +140,7 @@ We continued to fish in hopes of adding to our haul but eventually hunger got th
 
 Catching fish early left us an open afternoon, time to go snorkeling. We rounded up the masks, snorkels, and fins along with chairs, beers, and wetsuits. With all of the gear and the four of us, the skiff was overflowing. We made our way to Gun Cay and staked a claim on a part of the beach. 
 
-![sand-dollar](/images/sand-dollar.jpg)
+![sand-dollar](/images/sand-dollar.jpg#vert)
 
 *A sand dollar "test" I found while snorkeling* 
 
@@ -170,13 +170,13 @@ Our plan is to go about fifty miles across the Great Bahama Bank and anchor near
 
 The Great Bahama Bank stretches about three hundred miles from north to south and about fifty miles east to west. It is composed of coral limestone that is nearly three miles thick. The water is clear and shallow but there are no fish in sight. Occasional plants litter the bottom and we have seen a few man o’ wars casually floating by, but that's it. After some debating and consideration we picked a spot to spend the night. It looks exactly like every other spot because there aren't any landmarks. 
 
-![big-blue](/images/big-blue.jpg)
+![big-blue](/images/big-blue.jpg#vert)
 
 *This feels like a massive aquatic desert*
 
 We couldn't have asked for better weather to travel, the whole day was calm and hot. After we parked, Jules was in the water fast. She donned her mask, snorkel, and fins and took the plunge, I followed shortly after. There is a weird feeling I get from being in the ocean with no land in sight. Thank God the boat was there. I just felt uneasy, like something was watching me, or stalking me. It's hard to get completely comfortable. Having other people around diminishes the feeling, but I don't know if it's ever truly gone. Safety in numbers right? 
 
-![snorkel-bank](/images/snorkel-bank.jpg)
+![snorkel-bank](/images/snorkel-bank.jpg#vert)
 
 *Jules floating in the infinite swimming pool*
 
@@ -204,7 +204,7 @@ Again we pulled our lures along the edge of the shelf and almost immediately we 
 
 After dragging them for a while with no action we checked the baits. Unfortunately for us, two of our lines had intersected. Calling it a mess would be an understatement, the lines were so twisted together it was a nightmare. We lost valuable fishing time untangling the rats' nest.
 
-![rats-nest](/images/rats-nest.jpg)
+![rats-nest](/images/rats-nest.jpg#vert)
 
 *Hard to catch fish without the lines in the water*
 
@@ -212,7 +212,7 @@ We turned our course east and headed for Nassau, almost immediately our depth ga
 
 I guess that says something about our species' innate sense of adventure and curiosity. We are willing to risk being completely at the mercy of the most brutal beast on the planet, the ocean. Right alongside my fear is an excitement that is hard to put into words, but there is nowhere else I'd rather be. 
 
-![captain-hat-jules](/images/captain-hat-jules.jpg)
+![captain-hat-jules](/images/captain-hat-jules.jpg#vert)
 
 *She takes her job very seriously*
 
