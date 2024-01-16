@@ -52,7 +52,7 @@ With all of the animals flourishing in the marina, I thought better care would b
 
 ![bimini-mangroves](/images/bimini-mangroves.jpg)
 
-*We must work together to preserve these habitats*
+*We must work together to preserve this*
 
 There are signs everywhere pointing to the trash receptacles, they're only about twenty feet from where they parked. Needless to say, we were upset. All it would take is one gust of wind and their entire trash bag would have been in the water. It baffles me how careless people can be, buy don't worry, I went ahead and cleaned up after them. It just wasWhen they left the waves were pretty large, I hope they enjoyed their rough ride back to Miami.
 
@@ -60,11 +60,11 @@ There are signs everywhere pointing to the trash receptacles, they're only about
 
 <p class="subtitle">Dec 30, 2023</p>
 
-This morning the seas layed down and the wind calmed, time to keep moving. Before we departed, Julia used the dock to replant some of our veggies since some of them seemed unhappy. The basil and pepper seem fine but the salty air has been harsh on our lettuce and cilantro. 
+This morning the seas layed down and the wind calmed, time to keep moving. Before we departed, Julia used the dock to replant some of our veggies since some of them seemed unhappy. The basil and pepper plants seem fine but the salty air has been harsh on our lettuce and cilantro. 
 
 ![plants](/images/plants.jpg)
 
-*Loving their new homes, ignore the cilantro*
+*Jules will use anthing for a pot*
 
 When leaving the dock we put on an absolute clinic. We unhooked from water and power, untied our lines, and maneuvered away from the dock. The four of us operated like a well-oiled machine. My dad drove us out of the harbor and Bimini shrank into the distance. 
 
@@ -134,7 +134,7 @@ Now we had two mahi-mahi going crazy on the deck, it looked like Freddy Krueger'
 
 ![double-mahi](/images/double-mahi.jpg)
 
-*Fresh fish is on the menu*
+*Fresh mahi-mahi is on the menu*
 
 We continued to fish in hopes of adding to our haul but eventually hunger got the better of us and we headed back to North Cat Cay to clean fish and make lunch. My dad butchered, I cleaned the filets, Jules lit the grill, and my mom cut veggies and made tartar sauce. The timing came together beautifully and we had ourselves some killer mahi sandwiches. 
 
@@ -142,7 +142,7 @@ Catching fish early left us an open afternoon, time to go snorkeling. We rounded
 
 ![sand-dollar](/images/sand-dollar.jpg)
 
-*A tiny sand dollar test I found while snorkeling* 
+*A sand dollar "test" I found while snorkeling* 
 
 After exploring for a short time, Jules and I donned our gear and hit the water. It had been far too long, we were so happy to see our fish friends again. The water was cooler than anticipated but what can you expect when snorkeling in January? 
 
@@ -198,7 +198,7 @@ This time the shelf was even more dramatic than in Bimini. Our depth finder jump
 
 ![toto-chart](/images/toto-chart.jpg)
 
-*Bathymetry lines ranging from 1444 feet (left) to 13 feet (right)
+*Bathymetry lines ranging from 1444 feet (left) to 13 feet (right)*
 
 Again we pulled our lures along the edge of the shelf and almost immediately we had a fish on. I hopped on the reel and brought it in close. It was another barracuda. I grabbed the pliers, got the hook out, and we sent him back to the depths. Now it's time to catch a real fish, we sent the lures back out and the waiting game continued. 
 
@@ -206,7 +206,7 @@ After dragging them for a while with no action we checked the baits. Unfortunate
 
 ![rats-nest](/images/rats-nest.jpg)
 
-*It's tough to catch fish without the lines in the water*
+*Hard to catch fish without the lines in the water*
 
 We turned our course east and headed for Nassau, almost immediately our depth gauge maxed out and started flashing. Our charts show depths of over sixty-five hundred feet in the Tongue of the Ocean, it really makes me feel insignificant. If the security of the boat suddenly disappeared the terror would be immeasurable.
 
