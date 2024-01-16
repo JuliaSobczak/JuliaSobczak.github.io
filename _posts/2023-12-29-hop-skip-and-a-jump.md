@@ -150,7 +150,7 @@ Jules and I swam along the shoreline over the seagrass beds waving our hellos. T
 
 ![wetsuit-funnies](/images/wetsuit-funnies.jpg)
 
-*I was coated in goosebumps from head to toe.*
+*I was coated in goosebumps from head to toe*
 
 On our way back a southern stingray swam right beside us. The motion they make when swimming is so fluid, it was a treat to witness. Once we got back to the beach it was time to photosynthesize and get some body heat back. Once adequately dry we headed back to the boat for a fresh fish dinner. 
 
@@ -198,7 +198,7 @@ This time the shelf was even more dramatic than in Bimini. Our depth finder jump
 
 ![toto-chart](/images/toto-chart.jpg)
 
-*Bathymetry lines ranging from 1444 feet (left) to 13 feet (right)*
+*Bathymetry lines ranging from over 1400 feet (left) to only 13 feet (right)*
 
 Again we pulled our lures along the edge of the shelf and almost immediately we had a fish on. I hopped on the reel and brought it in close. It was another barracuda. I grabbed the pliers, got the hook out, and we sent him back to the depths. Now it's time to catch a real fish, we sent the lures back out and the waiting game continued. 
 
