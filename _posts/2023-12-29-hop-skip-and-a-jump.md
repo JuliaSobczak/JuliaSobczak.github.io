@@ -64,7 +64,7 @@ This morning the seas layed down and the wind calmed, time to keep moving. Befor
 
 ![plants](/images/plants.jpg#vert)
 
-*Jules will use anthing for a pot*
+*Jules will use anything for a pot*
 
 When leaving the dock we put on an absolute clinic. We unhooked from water and power, untied our lines, and maneuvered away from the dock. The four of us operated like a well-oiled machine. My dad drove us out of the harbor and Bimini shrank into the distance. 
 
