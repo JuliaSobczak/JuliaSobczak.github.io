@@ -72,19 +72,19 @@ When the ice melted and sea levels rose, around twelve thousand years ago, the c
 
 *If you fall on this stuff it will mess you up!*
 
-Once Jules and I made it around the far side of the mangroves we decided to walk back through the water. We waded in across the seagrass bed; the bottom was incredibly mucky. Every step we took sunk us deeper into the silt, the grass tickling our legs as we trudged through. We decided to cut the walk short and headed towards higher ground near the mangroves. In fifty years, that whole area will probably be dry. If no one removes the mangroves they will continue to aggregate soils with their roots and add to the beach of the island. Like I mentioned before, they are some hard working trees.
+Once Jules and I made it around the far side of the mangroves we decided to walk back through the water. We waded in across the seagrass bed, the bottom was incredibly mucky. Every step we took sunk us deeper into the silt, the grass tickling our legs as we trudged through. We decided to cut the walk short and headed towards higher ground near the mangroves. In fifty years, that whole area will probably be dry. If no one removes the mangroves they will continue to aggregate soils with their roots and add to the beach of the island. Like I mentioned before, they are some hard working trees.
 
 ![baby-mangrove-pic](/images/baby-mangrove-pic.jpg)
 
 *Newly established mangrove propagules* 
 
-After a few hours of exploring it was time to leave, Jules and I meandered back along the beach toward the skiff. My mom was in the water ahead of us near the lone mangrove tree and pointed out a mangrove tree crab. He clutched the branches just below the water line, no doubt hunting for his dinner. These crabs feed primarily on mangrove leaves but prefer small fish and invertebrates. We named him Constance the crab, I hope he's prosperous for years to come.
+After a few hours of exploring it was time to leave, Jules and I meandered back along the beach toward the skiff. My mom was in the water ahead of us and pointed out a mangrove tree crab. He clutched the branches just below the water line, no doubt hunting for his dinner. These crabs feed primarily on mangrove leaves but prefer small fish and invertebrates. We named him Constance the crab, I hope he's prosperous for years to come.
 
 ![mangrove-crab-pic](/images/mangrove-crab-pic.jpg)
 
 *He is right at home bobbing about on the roots*
 
-We packed ourselves and our stuff back into the skiff and headed back to the boat for dinner. Later that night we broke out the charts and planned our next move, Shroud Cay here we come! It marks the very northern tip of the Exumas Land and Sea Park which was the first ever marine protected area and no-take zone.
+We packed ourselves and our stuff into the skiff and headed back to the boat for dinner. Later that night we broke out the charts and planned our next move, Shroud Cay here we come! It marks the very northern tip of the Exumas Land and Sea Park which was the first ever marine protected area and no-take zone.
 
 ![two-of-us-pic](/images/two-of-us-pic.jpg)
 
@@ -96,7 +96,7 @@ We packed ourselves and our stuff back into the skiff and headed back to the boa
 
 <p class="subtitle">Jan 5, 2024</p>
 
-Around six a.m. this morning the boat started bouncing hard. The wind and waves changed direction and large swells started rolling into our anchorage. Sometimes a gentle rock from the waves is nice when trying to sleep, but this was far from gentle. The bow of the boat rode high up on the waves and crashed hard into the trough between them. It was both loud and uncomfortable. Immediately after we woke up, we were on the move. The ocean may be violent but we can travel along the Great Bahama Bank and the shallow water will be much calmer.
+Around 6 a.m. this morning the boat started bouncing hard. The wind and waves changed direction and large swells started rolling into our anchorage. Sometimes a gentle rock from the waves is nice when trying to sleep, but this was far from gentle. The bow of the boat rode high up on the waves and crashed hard into the trough between them. It was both loud and uncomfortable. Immediately after we woke up, we were on the move. The ocean may be violent but we can travel along the Great Bahama Bank and the shallow water will be much calmer.
 
 Unfortunately, our route to leave the anchorage left us vulnerable to the waves. We made a turn to exit and got pelted in the side again. The waves tilted the boat fifteen degrees in both directions. Our chairs slid across the deck and I think we all had flashbacks to the crossing from Florida. Luckily, the rocking was short-lived.
 
@@ -154,7 +154,7 @@ Getting the skiff off of the roof was somewhat precarious as the waves rocked us
 
 The beach was beautiful. It ran along the side of an estuary inlet with crystal clear water.  The sand was fine and soft, countless minuscule shells cascaded in the waves, and mangroves harbored all manner of juvenile marine life. 
 
-Jules and I found an awesome baby shrimp hiding in some submerged plants hunting for its breakfast. I scared a sand crab out of his home by accident, it scuttled over to me and buried itself against my foot. At the end of the beach mangroves stretched out of sight across the island's interior, I’ve never seen so many at once. 
+Jules and I found an awesome baby shrimp hiding in some submerged plants hunting for its breakfast. I scared a sand crab out of his home by accident, it scuttled over to me and buried itself against my foot. At the end of the beach, mangroves stretched out of sight across the island's interior, I’ve never seen so many at once. 
 
 ![snail-tree-pic](/images/snail-tree-pic.jpg)
 
@@ -202,7 +202,7 @@ We departed the beach just in time, two skiffs full of people took our spot as w
 
 ![elbow-cay-glow](/images/elbow-cay-glow.jpg)
 
-*The glow just keeps getting better*
+*A gorgeous afterglow to end a killer day*
 
 
 ---
@@ -212,13 +212,13 @@ We departed the beach just in time, two skiffs full of people took our spot as w
 
 When we woke up there wasn't a cloud in the sky. The wind was predicted to switch directions from north to south throughout the day so we hauled the anchor and moved to a more protected spot, snuggling up closer to the shoreline at Shroud Cay. The island will act as a natural breakwater for the incoming waves.
 
-Once we parked it got hot fast! I felt like I was doing yoga in a sauna. It’s time for the beach. We inflated our floaties and stacked them on top of the paddleboards. Then we strapped the boards to the back of the skiff and towed the whole monstrosity over to another river inlet further south. 
+Once we parked it got hot fast! I felt like I was doing yoga in a sauna. Time for the beach. We inflated our floaties and stacked them on top of the paddleboards. Then we strapped the boards to the back of the skiff and towed the whole monstrosity over to another river inlet further south. 
 
 ![tower-o-toys](/images/tower-o-toys.jpg)
 
 *Building the leaning tower of toys*
 
-When we arrived, the beach was empty. I'm not sure how we keep getting lucky like this but I'm not complaining. Only yesterday this beach was full of people when we passed by. We wasted no time getting in the water. I untied our tower of floatys and began the difficult task of lounging, my parents jumped on the paddleboards and took off down the inlet.
+When we arrived, the beach was empty. I'm not sure how we keep getting lucky like this but I'm not complaining. Only yesterday this beach was full of people when we passed by. We wasted no time getting in the water. I untied our tower of floaties and began the difficult task of lounging, my parents jumped on the paddleboards and took off down the inlet.
 
 ![casey-lounging](/images/casey-lounging.jpg)
 
@@ -260,7 +260,7 @@ After dark, my dad went outside and saw a dark spot moving in the water. He grab
 
 <p class="subtitle">Jan 8, 2024</p>
 
-Being on the boat has changed my sleep schedule tremendously. Usually we are all in bed by 8:30 pm; I probably sound like an eighty-year old man. Next I'm going to start calling dinner, supper and eating at early-bird specials. There just isn't much entertainment after dark down here. Thanks to StarLink, we have wifi so movies are an option, but we're all too tired by the end of the day to watch one. The sun really takes it out of you, it's like an inverse solar charger. 
+Being on the boat has changed my sleep schedule tremendously. Usually we are all in bed by 8:30 p.m.; I probably sound like an eighty-year old man. Next I'm going to start calling dinner, supper and eating at early-bird specials. There just isn't much entertainment after dark down here. Thanks to StarLink, we have wifi so movies are an option, but we're all too tired by the end of the day to watch one. The sun really takes it out of you, it's like an inverse solar charger. 
 
 Unfortunately, the sun barely showed itself today. Jules and I woke up super early and were fortunate enough to catch a glimpse before it disappeared behind the clouds. The sky remained a dark gray monotone color all day. 
 
@@ -284,6 +284,6 @@ They run around ten to twenty thousand a week depending on which boat and the ti
 
 Of course my dad found himself another project. Our skiff crane was beginning to rust along the hydraulic arm. Fearing it may need replacing if not taken care of soon, he went to work. First running an extension cord to the roof, followed by a sander, white paint, and some elbow grease. He sanded the rust away to stop the corrosion and then painted the arm to prevent it from starting again. All of this was once again done on the roof in strong winds. By the time he was done, paint speckles covered his sunglasses but the hydraulic arm looked great. 
 
-One exciting thing did happen today, although not to us. Once all of the chores were complete, we decided to play some cards. In the middle of our game of hearts we noticed a skiff floating past the boat, unoccupied. Someone was about to be very sad! My dad ran to the pilothouse and honked the horn trying to get some attention on it.
+One exciting thing did happen today, although not to us. Once all of the chores were complete, we decided to play some cards. In the middle of our game of hearts we noticed a skiff floating past the boat, unoccupied. Someone was about to be very upset, thats the eqivalent of losing your car out here. My dad ran to the pilothouse and honked the horn trying to get some attention on it.
 
-Luckily another boat already had their skiff in the water and was able to go and rescue the drifter and return it. Our skiff was on the roof otherwise we would have chased after it ourselves. But imagine if that happened at night, those people would have never seen their skiff again. I don't even want to think about how difficult it is to get a new one down here in the Exumas. The crazy part is that the people who nearly lost their fifteen thousand-dollar skiff just tied it back off and went inside instead of picking it up and securing it. They're just begging for a repeat if you ask me. 
+Luckily another boat already had their skiff in the water and was able to go and rescue the drifter and return it. Our skiff was on the roof otherwise we would have chased after it ourselves. But imagine if that happened at night, those people would have never seen their skiff again. I don't even want to think about how difficult it is to get a new one down here in the Exumas. The crazy part is that the people who nearly lost their fifteen thousand dollar skiff just tied it back off and went inside instead of picking it up and securing it. They're just begging for a repeat if you ask me. 
