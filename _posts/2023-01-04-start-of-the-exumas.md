@@ -30,7 +30,7 @@ The four of us remained brave and continued our snorkel, gawking at the reef as 
 
 ![branch-coral](/images/branch-coral.JPG)
 
-*need
+*A beautiful example of a white branching coral*
 
 The cold slowly set in and, one by one, we made our way back to the skiff to get dried off. Too bad the rain got our towels wet. We stripped our wetsuits off and urged the sun to come back out. My mom pulled in the anchor for the skiff and we took off to our next destination.
 
@@ -176,7 +176,7 @@ The picture-perfect scene felt like it was straight out of a movie. My parents l
 
 ![mom-dad-kiss](/images/mom-dad-kiss.jpg)
 
-*need
+*The DEA had a pretty killer spot*
 
 We climbed back down to the beach and my parents and Jules relaxed in the sand, but I wasn't done exploring. A sandbar wraps across the river's mouth and connects the two sides of the island. I decided to try and walk along it to the opposite side. It was a trek. Initially it was knee deep, but gradually the water rose to my waist, and then to my belly button. I thought I may have to swim the remaining distance but I pressed on.
 
@@ -226,7 +226,7 @@ Meanwhile Julia broke out the metal detector. We bought a cheap one for the trip
 
 ![booty-can](/images/booty-can.jpg)
 
-*If you squint really hard you might see a can*
+*Believe it or not this is a can*
 
 When my parents returned, I relinquished my throne and Jules and I happily took the paddleboards. Shortly after we left, a finger split off from the main body of the river and we decided to explore it. Immediately there were fish scrambling to hide from us. Juvenile mangrove snappers were getting bullied by sergeant majors half their size. Sergeant majors are black, yellow, and white striped fish with a Napoleon complex, I've even had them peck at my mask when I dive. 
 
