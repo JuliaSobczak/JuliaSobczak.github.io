@@ -1,9 +1,9 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-title: Start of the Exumas
-description: Eleventh blog post
-permalink: articles/start-of-the-exumas
+title: Introducing The Exumas
+description: Tenth blog post
+permalink: articles/introducing-the-exumas
 date: 2024-01-04
 ---
 This morning we woke up relaxed - we have finally made it to the Exumas! Jules and I took our time getting out of bed, casually drank our coffee and basked in the morning sun. We utilized the calm morning to fly our drone and get some cool shots. I followed that up with some yoga and jumped straight in the sparkling water when I was done. Slowly but surely it is getting warmer.
