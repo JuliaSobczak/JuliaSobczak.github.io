@@ -44,7 +44,7 @@ They didn't look like any iguanas we had seen before. Instead of green or orange
 
 I was able to coax a smaller one into trying it. He cautiously approached and then lunged to grab the small piece, of course he got my finger too. I'm glad he was a small one. A much larger one took an interest in Jules. She offered the cucumber and, after some careful consideration by the iguana, he turned his nose up at it. She then found a grape and offered it instead, he happily snagged it from her hand and munched on it. I guess with the abundance of food they can afford to be picky.
 
-![feeding-pic](/images/feeding-pic.jpg)
+![feeding-pic](/images/feeding-pic.jpg#vert)
 
 *Feeding a tiny dinosaur*
 
@@ -74,7 +74,7 @@ When the ice melted and sea levels rose, around twelve thousand years ago, the c
 
 Once Jules and I made it around the far side of the mangroves we decided to walk back through the water. We waded in across the seagrass bed, the bottom was incredibly mucky. Every step we took sunk us deeper into the silt, the grass tickling our legs as we trudged through. We decided to cut the walk short and headed towards higher ground near the mangroves. In fifty years, that whole area will probably be dry. If no one removes the mangroves they will continue to aggregate soils with their roots and add to the beach of the island. Like I mentioned before, they are some hard working trees.
 
-![baby-mangrove-pic](/images/baby-mangrove-pic.jpg)
+![baby-mangrove-pic](/images/baby-mangrove-pic.jpg#vert)
 
 *Newly established mangrove propagules* 
 
@@ -114,13 +114,13 @@ The sun played hide-and-seek well into the afternoon, causing some frustration s
 
 We paddled over to a cluster of tiny islands near the boat and brought the boards ashore. They were ringed entirely by the iron shore so we brought our shoes. One of the first things we noticed is that the plants on these islands are hardcore, some of their roots grow directly through the rocks!
 
-![hardcore-roots-pic](/images/hardcore-roots-pic.jpg)
+![hardcore-roots-pic](/images/hardcore-roots-pic.jpg#vert)
 
 *Nature finds a way*
 
 The competition for suitable growing conditions is fierce. Palm trees are few and far between, instead most of the islands are covered in extremely dense foliage consisting of skinny trees and brush. Palms are still present, just not in the manicured California sense.
 
-![palm-tree-brother](/images/palm-tree-brother.jpg)
+![palm-tree-brother](/images/palm-tree-brother.jpg#vert)
 
 *My brother from another mother*
 
@@ -156,7 +156,7 @@ The beach was beautiful. It ran along the side of an estuary inlet with crystal 
 
 Jules and I found an awesome baby shrimp hiding in some submerged plants hunting for its breakfast. I scared a sand crab out of his home by accident, it scuttled over to me and buried itself against my foot. At the end of the beach, mangroves stretched out of sight across the island's interior, I’ve never seen so many at once. 
 
-![snail-tree-pic](/images/snail-tree-pic.jpg)
+![snail-tree-pic](/images/snail-tree-pic.jpg#vert)
 
 *These small snails litter the islands*
 
@@ -176,7 +176,7 @@ Eventually, we made it through the island to the ocean side. The river cut direc
 
 The picture-perfect scene felt like it was straight out of a movie. My parents led Jules and I around to a trail and we all made our way up the small hill. Apparently in the 1980’s the DEA used the spot to spy on Pablo Escobar's activities at Norman's Cay to the north. We used it to take pictures.  
 
-![mom-dad-kiss](/images/mom-dad-kiss.jpg)
+![mom-dad-kiss](/images/mom-dad-kiss.jpg#vert)
 
 *The DEA had a pretty killer spot*
 
@@ -226,7 +226,7 @@ When we arrived, the beach was empty. I'm not sure how we keep getting lucky lik
 
 Meanwhile Julia broke out the metal detector. We bought a cheap one for the trip and honestly kept forgetting to use it. I'm not entirely convinced that it'll find anything but might as well give it a shot. She cruised the beach with it and found all manner of false positives. Eventually, Jules dialed in her method and managed to uncover a long lost can. I think we would rather have a pirate doubloon but at least we know that it works. 
 
-![booty-can](/images/booty-can.jpg)
+![booty-can](/images/booty-can.jpg#vert)
 
 *Believe it or not this is a can*
 
@@ -248,7 +248,7 @@ We eventually turned around and headed back to the beach, the wind and current f
 
 As the day crept towards sunset, we piled the toys back onto the boards and made our way to the boat. Julia later went to hang her wet clothes on the railing outside and was greeted by a nurse shark. It was laying on the bottom right under the boat. Some sharks will congregate under boats to target small fish that are attracted to food scraps.
 
-![shark-under-boat](/images/shark-under-boat.jpg)
+![shark-under-boat](/images/shark-under-boat.jpg#vert)
 
 *Here for the fish, not for us*
 
@@ -270,7 +270,7 @@ Unfortunately, the sun barely showed itself today. Jules and I woke up super ear
 
 The winds are supposed to blow in from the east and be consistently over twenty knots for the next two days; that’s the strongest we've seen since Hurricane Harbor. Sounds like we may be confined to the boat once again. 
 
-![windfinder-1-9](/images/windfinder-1-9.jpg)
+![windfinder-1-9](/images/windfinder-1-9.jpg#vert)
 
 *Time to break out another puzzle*
 
