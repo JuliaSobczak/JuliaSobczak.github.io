@@ -24,7 +24,7 @@ Julia spotted a nurse shark tucked into the reef, it was about as long as I am t
 
 ![casey-with-shark](/images/casey-with-shark.JPG)
 
-*I dove down to get a closer look and say hello*
+*Can you spot the shark?*
 
 The four of us remained brave and continued our snorkel, gawking at the reef as we went. It has been way too long since I was here. We perused slowly back and forth. Gray angelfish stood guard with sergeant majors, yellow barred grunts schooled along the edges of the reef, and I found multiple sea cucumbers cruising along the sand bed. Jules later described it as a fish city and I couldn't agree more. The sun never did show itself while we were there. The gray sky actually rained on us for a short time while we swam, luckily we couldn't get any more wet.
 
@@ -50,7 +50,7 @@ I was able to coax a smaller one into trying it. He cautiously approached and th
 
 Our next stop was the large beach on the northern part of Highborne Cay. We stopped at the boat to restock beer and get a snack before cruising over to the sand. The second I jumped out of the skiff a staff member came to investigate. He informed us that beach access here is only available if you're parked in the marina and checked in on the island first. So I hopped back in and we turned around.
 
-Heading back toward the boat we noticed an empty beach nearby. My dad anchored the skiff in the sand and we clambered out. It was immaculate. There wasn't a soul on the beach but us. Not only that but there was no trash visible either, and the rocky shore surrounding us sheltered the small cove from any waves. A single well-established mangrove lingered on our side of the beach and a forest of mangroves covered the distant corner. The water around the lone one was so clear, we all investigated the spider web of branches.
+Heading back toward the boat we noticed an empty beach nearby. My dad anchored the skiff in the sand and we clambered out. It was immaculate. There wasn't a soul on the beach but us. Not only that but there was no trash visible either, and the rocky shore surrounding us sheltered the small cove from any waves. A few mangroves lingered on our side of the beach while a forest covered the distant corner. The water was clear enough that we could investigate the spider web of branches.
 
 ![mangrove-clear-water-pic](/images/mangrove-clear-water-pic.jpg)
 
@@ -64,7 +64,9 @@ My mom made her way down the beach to the larger grouping of trees, Jules and I 
 
 Jules and I walked through the water and up onto the iron shore. Generally the rocks are gnarly and jagged, definitely not somewhere to go barefoot. Where we ended up the razor-sharp edges only existed where the waves crashed, and the sheltered side was soft and smooth under our feet.
 
-Iron shore is formed of limestone from ancient coral reefs. During the Pleistocene epoch, nearly three million years ago, the oceans are thought to have been deeper due to a lack of ice at the poles. This gave coral more room to grow vertically in the water column. Later in the Pleistocene, about one-hundred thousand years ago, the earth experienced our most recent glaciation period and as water froze the seas gradually became more shallow. This left the tall coral heads exposed and they began to die off. Their hard exoskeletons deposited on top of one another and formed the limestone surfaces we have today. When the ice melted, around twelve thousand years ago, and sea levels rose, the crashing waves began eroding the softer lime from around the harder deposits. This creates pockets in the rocks with edges that are brutally sharp. It's equally as rough on boats that venture too close, offering no forgiveness as it tears apart the vessel. However the parts that have received less torment from the waves remain smooth.
+Iron shore is formed of limestone from ancient coral reefs. During the Pleistocene epoch, nearly three million years ago, the oceans were deeper due to a lack of ice at the poles. This gave coral more room to grow vertically in the water column. Later in the Pleistocene, about one-hundred thousand years ago, the earth experienced our most recent glaciation period and the seas gradually became more shallow as water froze. This left the tall coral heads exposed and they began to die off. Their hard exoskeletons deposited on top of one another and formed the limestone surfaces we have today.
+
+When the ice melted and sea levels rose, around twelve thousand years ago, the crashing waves began eroding the softer lime from around the harder deposits. This creates pockets in the rocks with edges that are brutally sharp. It's equally as rough on boats that venture too close, offering no forgiveness as it tears apart the vessel. 
 
 ![iron-shore-pic](/images/iron-shore-pic.jpg)
 
@@ -108,7 +110,7 @@ The sun played hide-and-seek well into the afternoon, causing some frustration s
 
 ![AA-away](/images/AA-away.jpg)
 
-*The *Altitude Adjustment* in the distance*
+*The Altitude Adjustment in the distance*
 
 We paddled over to a cluster of tiny islands near the boat and brought the boards ashore. They were ringed entirely by the iron shore so we brought our shoes. One of the first things we noticed is that the plants on these islands are hardcore, some of their roots grow directly through the rocks!
 
