@@ -287,9 +287,3 @@ Of course my dad found himself another project. Our skiff crane was beginning to
 One exciting thing did happen today, although not to us. Once all of the chores were complete, we decided to play some cards. In the middle of our game of hearts we noticed a skiff floating past the boat, unoccupied. Someone was about to be very upset, thats the eqivalent of losing your car out here. My dad ran to the pilothouse and honked the horn trying to get some attention on it.
 
 Luckily another boat already had their skiff in the water and was able to go and rescue the drifter and return it. Our skiff was on the roof otherwise we would have chased after it ourselves. But imagine if that happened at night, those people would have never seen their skiff again. I don't even want to think about how difficult it is to get a new one down here in the Exumas. The crazy part is that the people who nearly lost their fifteen thousand dollar skiff just tied it back off and went inside instead of picking it up and securing it. They're just begging for a repeat if you ask me. 
-
-testing audio below
-
-{% include embed-audio.html src="/images/land-and-sea-audio.wav" %}
-
-testing
