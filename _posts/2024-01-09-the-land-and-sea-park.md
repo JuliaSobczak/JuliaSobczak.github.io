@@ -82,7 +82,7 @@ Supposedly, Hawksbill Cay has a smugglers cave hidden along the shoreline so we 
 
 Traversing the trail in flip-flops was probably not the best idea. We scrambled over the sharp and pitted iron shore and I thought for sure my shoes were going to break, but they held strong. At the peak, we finally found the ruins deeply embedded in the jungle. It was straight out of Indiana Jones, if there was an idol to retrieve we would have. 
 
-![russel-jules](/images/russel-jules.jpg)
+![russel-jules](/images/russel-jules.jpg#vert)
 
 *Only the bottom half of houses remain*
 
@@ -96,7 +96,7 @@ We explored the remnants of multiple decaying houses and found a short, sturdy w
 
 I plowed through the low-lying brush, half trying to see the ruins and half running from the swarm of micro syringes eager to draw our blood. We stumbled upon another huge view, this time overlooking the Great Bahama Bank. After stopping briefly to admire it we turned back.
 
-![furnace-ruins](/images/furnace-ruins.jpg)
+![furnace-ruins](/images/furnace-ruins.jpg#vert)
 
 *We think this was their furnace*
 
@@ -138,7 +138,7 @@ My dad approached the mooring ball, I snagged the rope with the boat hook, ran a
 
 The short trail leading to the building was laid with pavers and had some interesting facts about the native flora. Necklace Pods produce bright yellow flowers and attract pollinators year round and Poisonwood, which is related to Poison Oak, causes severe skin irritation if touched.
 
-![poisonwood](/images/poisonwood.jpg)
+![poisonwood](/images/poisonwood.jpg#vert)
 
 *I dodged a bullet here*
 
@@ -166,7 +166,7 @@ I repeatedly dove down alongside them to get a better view. They seemed nearly a
 
 The current intensified as the water lessened and we drifted quickly over a beautiful coral garden. Jules spotted a lobster buried inside a coral head, its long antennae gave away its hiding spot. There were brain corals the size of basketballs scattered through the area alongside bunches of staghorn coral and sponges. 
 
-![yellow-sponge](/images/yellow-sponge.JPG)
+![yellow-sponge](/images/yellow-sponge.JPG#vert)
 
 *The colors were vibrant even in the cloudy water*
 
@@ -188,7 +188,7 @@ She said she could feel the feet sticking to her fingers. We were both intrigued
 
 Well I didn't get much sleep. I rolled around in bed like a rotisserie chicken all night. The humidity makes the sheets and blankets sticky and I ended up pulling them completely off the bed. I just can't seem to get comfortable and I'm not sure why. Earlier in the trip I was getting somewhat consistent sleep, but lately I've been struggling. 
 
-Luckily it's impossible to stay grumpy when you're in the Bahamas. I got up, drank my coffee, and rallied, ready to get back in the water. This morning, Jules was craving biscuits and gravy. We recently experimented with making a (Johnny Cake)[https://www.nassauparadiseisland.com/blog/recipe-bahamian-johnny-cake] and it turned out to be a killer biscuit substitute. She combined and kneaded her ingredients to make the dough and my dad threw together his signature sausage gravy. It may not have been the healthiest meal but it certainly prepared us for the day. 
+Luckily it's impossible to stay grumpy when you're in the Bahamas. I got up, drank my coffee, and rallied, ready to get back in the water. This morning, Jules was craving biscuits and gravy. We recently experimented with making a [Johnny Cake](https://www.nassauparadiseisland.com/blog/recipe-bahamian-johnny-cake) and it turned out to be a killer biscuit substitute. She combined and kneaded her ingredients to make the dough and my dad threw together his signature sausage gravy. It may not have been the healthiest meal but it certainly prepared us for the day. 
 
 We couldn't resist getting back in the water with the spotted eagle rays. The morning current was whipping when we got in the water. I felt like I blinked and drifted the length of a football field. The eagle rays came to greet us but it was nearly impossible to hang out, turning around and swimming against the current was a losing battle. Conveniently, it pushed us directly back to the boat and we repeated the drift snorkel one more time. 
 
@@ -276,7 +276,7 @@ We stopped directly below the peak of Boo Boo Hill and I got in the water to che
 
 *I was just happy to be back in the water*
 
-The water on the ocean side of the island granted us far more clarity than the coral garden near the park office. There was still a lack of coral heads but the bathymetry was far more interesting. I dove down and set the anchor into the sand and we were off. The large, hard structures we saw from above were actually (stromatolites)[https://bahamas-marine-ecocentre.org/stromatolites/]. 
+The water on the ocean side of the island granted us far more clarity than the coral garden near the park office. There was still a lack of coral heads but the bathymetry was far more interesting. I dove down and set the anchor into the sand and we were off. The large, hard structures we saw from above were actually [stromatolites](https://bahamas-marine-ecocentre.org/stromatolites/). 
 
 These are composite mounds built from lime-secreting cyanobacteria and are the oldest known fossils on earth. Some date back as far as three and a half billion years. Bahamian stromatolites are the only known specimens still growing in open ocean conditions; the hard structures provide shelter for numerous marine organisms to thrive.
 
@@ -292,7 +292,7 @@ My dad unfortunately found a gnarly, barnacle-encrusted, rusty spear from a spea
 
 We have been relying on a hand-sketched map of the cays for our snorkel spots. It claims that the entire eastern side of the island is littered with reef. While that may be true, it’s not what we expected. Unlike coral reefs, stromatolite reefs are flat, and gray. Luckily there were plenty of fish to keep us company.  
 
-![hand-drawn-map](/images/hand-drawn-map.jpg)
+![hand-drawn-map](/images/hand-drawn-map.jpg#vert)
 
 *Accuracy not guaranteed*
 
@@ -308,13 +308,13 @@ He and I jumped back in the skiff and I drove him out in hopes of seeing them. S
 
 My mom skipped our morning trek to Boo Boo Hill and was ready to walk on something solid. She and my dad paddle boarded to the beach and went for a stroll. I enjoyed my time relaxing in the sun and Jules decided to exercise. Apparently, our two snorkel trips and morning hike weren’t enough for her. 
 
-![jules-floating](/images/jules-floating.jpg)
+![jules-floating](/images/jules-floating.jpg#vert)
 
 *Cooling off after her workout*
 
 In the evening, the low tide exposed a sandbar behind the boat and she and I paddle boarded over with our cocktails. The wet sand was so soft beneath our feet. Jules found two tiny starfish half-buried in the sand and returned them to the water. Hopefully they survived!
 
-![starfish](/images/starfish.jpg)
+![starfish](/images/starfish.jpg#vert)
 
 *We named him Patrick*
 
