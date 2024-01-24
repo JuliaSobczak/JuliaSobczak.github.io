@@ -32,7 +32,7 @@ I am unsure as to why, but sleeping on this boat seems to be getting more diffic
 
 ![shroud-cay-sunrise](/images/shroud-cay-sunrise.jpg)
 
-*The color just kept getting better*
+*The colors just kept getting better and better*
 
 Around five this morning, the seas began rolling in from the west. Of course that is the one direction we are exposed to and the boat started rocking. It quickly motivated us, and many of our neighbors, to vacate the premises. We hauled anchor and headed for Hawksbill Cay. 
 
@@ -42,7 +42,7 @@ Hawksbill Cay was colonized by the Russell Family in 1785 and the ruins of their
 
 ![ruins-sign](/images/ruins-sign.jpg)
 
-*This sign marks the trail*
+*The elusive Russell Ruins trail sign*
 
 After learning about the plantation ruins, we set out in search. We skiffed to the beach and nearly sank when we tried to land. The nose of the skiff hit the sand and a large wave crashed in over the back. Immediately I jumped out and tried to turn us around but the next wave caught us while the skiff was sideways and flooded the bottom. Our life jackets were floating around inside the boat. I managed to turn the nose back out into the surf and we stopped taking on water, but the damage was done. 
 
@@ -50,7 +50,7 @@ Everything we brought to the beach, including our wetsuits, was soaked. The smal
 
 ![beached-skiff](/images/beached-skiff.jpg)
 
-*It’s not going anywhere now*
+*It’s not going to sink anymore*
 
 The small boat only weighs about three hundred pounds, but the shape makes it awkward and we were dragging it backwards so it was a bear to get it up there. After expending all of our energy managing the skiff it was now time to go hike. 
 
@@ -60,7 +60,7 @@ Soon the trail split and we followed it toward what we thought would be the ruin
 
 ![hawksbill-first-view](/images/hawksbill-first-view.jpg)
 
-*The island foliage was extremely dense*
+*Hawksbill island foliage is extremely dense*
 
 Scrambling down the jagged rocks was far more treacherous than the climb but no injuries were had. The trail continued through the thick trees and eventually we emerged on the eastern iron shore. Once again, the view across the bay was incredible but what took my breath away was the trash. 
 
@@ -68,7 +68,7 @@ Plastic ranging from ice chest lids and milk crates to bottle caps and tiny frag
 
 ![hawksbill-trash](/images/hawksbill-trash.jpg)
 
-*Only a small fraction of the total*
+*Only a small fraction of the total heap*
 
 At this point the trail was largely unmarked and we were still unsuccessful in finding any ruins. We explored the area in hopes of continuing on, but the trail was nowhere to be found. At this point the sun was baking us alive and we decided to return to the beach. 
 
@@ -84,13 +84,13 @@ Traversing the trail in flip-flops was probably not the best idea. We scrambled 
 
 ![russel-jules](/images/russel-jules.jpg#vert)
 
-*Only the bottom half of houses remain*
+*Only the bottom half of the houses remain*
 
 The Russell family mainly used shells in the construction of their buildings. They would gather conchs to eat and then, using a crude furnace, superheat the shells to create a mortar type material. Apparently it worked pretty well as many of the walls of buildings are still standing. They dug cisterns lined with lime plaster from the conch shells to collect rainwater for drinking and farming. The deep holes still exist there today, although not full of water. I'm sure they would swallow a person whole if they fell in so be careful poking around up there.
 
 ![cistern](/images/cistern.jpg)
 
-*I wonder what they used to dig*
+*I wonder what they used to dig these pits*
 
 We explored the remnants of multiple decaying houses and found a short, sturdy wall that stretched out of sight into the jungle. Calling the path among the ruins a trail is a stretch, it is largely unkempt and the encroaching plants are taking back over. The mosquitoes were also thick around the ruins, it was definitely not a place to stop and look around. 
 
@@ -98,7 +98,7 @@ I plowed through the low-lying brush, half trying to see the ruins and half runn
 
 ![furnace-ruins](/images/furnace-ruins.jpg#vert)
 
-*We think this was their furnace*
+*We think this was their crude furnace*
 
 My long-sleeved shirt was no match for the mosquitoes, our only hope of not becoming dinner was to keep moving. Still I ended up with bites on my sides, back, and even my butt. Finally we escaped the onslaught and arrived back on the beach. After cooling off in the water it was time for a well-deserved lunch. We headed back to the boat and, after replenishing our energy levels, went to snorkel. 
 
@@ -120,7 +120,7 @@ There is currently no way to reserve a spot online and the park has no phone num
 
 ![ww-mooring-ball](/images/ww-mooring-ball.JPG)
 
-*Hooking up to our mooring ball*
+*Hooking up to our mooring ball at the HQ*
 
 The lady on the radio had a velvety smooth Bahamian accent and vaguely instructed us to come to the northern mooring field; after making some educated guesses we managed to locate the red and green buoys she described which were both desperate for a new coat of paint. We pulled between them and then received further instructions to drive to the park office. 
 
@@ -134,7 +134,7 @@ My dad approached the mooring ball, I snagged the rope with the boat hook, ran a
 
 ![whale-skeleton](/images/whale-skeleton.jpg)
 
-*This whale washed ashore in 1995, the park stated that it died due to consuming plastic waste*
+*This whale washed ashore in 1995, the park stated that it died due to consuming plastic*
 
 The short trail leading to the building was laid with pavers and had some interesting facts about the native flora. Necklace Pods produce bright yellow flowers and attract pollinators year round and Poisonwood, which is related to Poison Oak, causes severe skin irritation if touched.
 
@@ -156,11 +156,11 @@ The current was swift and pushed us back through the cut toward the *Altitude Ad
 
 This time we all got in the water and my dad tied the skiff to himself to drift along with it. Initially there was nothing to see, just white sand and seagrass. The water surrounding us was semi-murky and suddenly, the rays seemed to materialize out of the cloudy blue. Sixteen beautiful eagle rays gave a new meaning to the word graceful as they approached us. 
 
-The sheer size of them was astounding. I have never seen one that large, much less sixteen at once. They easily reached eight feet from fin to fin and had to approach twenty feet in length with their slender, whip-like tails. Eagle rays tend to be shy around humans and keep a healthy distance but these ones didn’t seem too concerned with us.   
+The sheer size of them was astounding. I have never seen one that large, much less sixteen at once. They easily reached eight feet from fin to fin and had to approach fifteen feet in length with their slender, whip-like tails. Eagle rays tend to be shy around humans and keep a healthy distance but these ones didn’t seem too concerned with us.   
 
 ![cluster-o-rays](/images/cluster-o-rays.JPG)
 
-*Adult spotted eagle rays can weigh over five hundred pounds, and I'm sure all of these were contenders*
+*Adult spotted eagle rays can weigh over 500 lbs*
 
 I repeatedly dove down alongside them to get a better view. They seemed nearly as curious of us as we were of them. Strangely one of them was missing its tail. Again and again they faded away at the edge of our vision and reappeared, their elegant swimming looked so effortless. They don’t appear to move very quickly, but keeping up with them was impossible. Slowly the current relocated us into shallower water and the rays were gone. 
 
@@ -176,7 +176,7 @@ On the way back we saw three different turtles, the last of which was munching o
 
 ![clumsy-turtle](/images/clumsy-turtle.JPG)
 
-*I swear we saw him stumble*
+*We saw him trip over his own fins*
 
 This time we drifted past the boat and to the sandbar behind it. The sand was like velvet beneath our feet when we stood up. Jules found a living sand dollar which is actually a species of flat sea urchin. They are in the same class as starfish and sea cucumbers and tend to live in clustered groups in shallow sandy areas and use tiny suction-cup feet to move. 
 
@@ -194,7 +194,7 @@ We couldn't resist getting back in the water with the spotted eagle rays. The mo
 
 ![three-on-the-surface](/images/three-on-the-surface.JPG)
 
-*We did drift dives in Cozumel, but have never done a drift snorkel*
+*We did drift dives in Cozumel together, but have never done a drift snorkel before*
 
 I'm not sure I could ever be tired of swimming with the eagle rays, but a change of scenery would be appreciated. The cays and rocks surrounding the park all seem prime for snorkeling but it's hard to tell without getting in the water. We took the skiff around the southern end of Narrow Water Cay and spotted a tiny beach. 
 
@@ -204,7 +204,7 @@ A small green sea turtle popped his head up in the shallow water and we watched 
 
 ![looking-for-coral](/images/looking-for-coral.jpg)
 
-*On the hunt for a new place to snorkel*
+*On the hunt for a new location to snorkel*
 
 Next we skiffed out to the northeast corner of Warderick Wells and again were unsuccessful in locating a worthy snorkel spot. I guess we'll just settle for the eagle rays again. How tragic. This time the tide was slack and worked in our favor. Without it whipping us along we were able to float and observe them for much longer. Fourteen rays circled through the area as if showing off. 
 
@@ -248,13 +248,13 @@ This trail, unlike our last, was marked fairly well with small signs and occasio
 
 ![casey-wading](/images/casey-wading.jpg)
 
-*Luckily I wore my swimsuit*
+*Luckily I wore my swimsuit and flip flops*
 
 The trail led us up a small hill to Posiden's/Neptune's altar. Cruisers apparently bring offerings to the shrine every year in hopes of pleasing the god of the sea. Jules brought a small piece of dead coral we found earlier in the trip and my dad offered a fallen palm tree stalk. The pile of driftwood engulfs a large area at the peak. Messages of all kinds, ranging from boats and peoples names to pleas to the gods to not get struck by lightning again, are scrawled on pieces of driftwood. 
 
 ![sea-god-offerings](/images/sea-god-offerings.jpg)
 
-*Someone even carried an anchor up there*
+*Someone even carried an anchor up here*
 
 The deep blue of the ocean stretched for miles along the east side of the island without a single boat in sight. Behind us, the island interior sprawled out with watery fingers stretching inward. The point gave us a great vantage over the whole mooring field and the islands beyond.
 
@@ -284,7 +284,7 @@ I dove down to peek under them and discovered dozens of snapper and hogfish hidi
 
 ![nassau-grouper](/images/nassau-grouper.JPG)
 
-*The no-take rules result in some monster animals*
+*The no-take rules result in some monster fish*
 
 Right alongside them was a plethora of juvenile reef fish, tiny sea fans, and small budding corals. We saw dozens of gray and yellow tangs, damselfish, multiple types of parrot fish, and a great barracuda which was waiting under the skiff when we returned. 
 
@@ -302,7 +302,7 @@ After three days of craning my neck around while snorkeling, I was ready for a b
 
 ![dad-snorkeling](/images/dad-snorkeling.JPG)
 
-*Spotted eagle rays are his favorite*
+*Spotted eagle rays are his absolute favorites*
 
 He and I jumped back in the skiff and I drove him out in hopes of seeing them. Sure enough the large dark shapes passed under the boat and I dropped him off directly on their heads. He said there were seven of them this time. The tide was slack at this point and he managed to stay right above them for a good chunk of time before paddling back to the boat. I think he finally had his fill. 
 
