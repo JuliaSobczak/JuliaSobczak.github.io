@@ -106,7 +106,7 @@ The waves continued to assault us as Bimini came into view. We had planned to fi
 
 Julia couldn't wait to get flattened back out, she said the crossing felt like it would never end. Miraculously she recovered as soon as the rocking subsided. We rounded Henry Bank just outside of Alice Town on Bimini and suddenly Julia was standing beside me. I thought she was down for the count but she rallied just in time to help us dock. 
 
-![dad-decompressing](/images/dad-decompressing.jpg)
+![dad-decompressing](/images/dad-decompressing.jpg#vert)
 
 *Decompressing from our stressful crossing*
 
@@ -134,13 +134,13 @@ Once we came back it was time to scrub. After the crossing the boat was crusted 
 
 We took some time to plan our next move as well - Andros here we come. Andros is the largest island in the Bahamas and is also somewhere my parents have not explored so it will be new territory for all of us. To get there, it will take us two days of traveling, one of those nights will be spent on the Great Bahama Bank. It will be our first and, hopefully, only time anchoring without any cover from land. The nice part is that we should only be in about ten feet of water. 
 
-![andros-chart](/images/andros-chart.jpg)
+![andros-chart](/images/andros-chart.jpg#vert)
 
 *Using the charts to plan our next move*
 
 Once our laundry was done, we sent Jules and my dad to pick it up, this time Pat just let them borrow his cart. They also stopped by a bakery while they were out and picked up some Bimini bread. The cinnamon raisin is killer and I'm told the coconut bread is just as good, it was still warm when they brought it back to the boat.
 
-![clean-laundry](/images/clean-laundry.jpg)
+![clean-laundry](/images/clean-laundry.jpg#vert)
 
 *Never has clean laundry looked so good*
 
