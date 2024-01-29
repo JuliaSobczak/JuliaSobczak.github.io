@@ -100,7 +100,7 @@ Eventually, Fort Lauderdale gave way to Biscayne Bay. It was a breath of fresh a
 
 *Bridge tender control room in Fort Lauderdale* 
 
-We also passed an ocean inlet that has a brutal reputation, it's named Haulover. The combination of strong ocean wind and opposing rushing tides can create some incredibly treacherous waters. Local knowledge is a must when navigating it as the bathymetry changes daily. Haulover Inlet claims boats from inexperienced captains every year, but it is also safely navigated every day by those who know the waters well. (There's a YouTube channel devoted to this subject called Boats vs Haulover: <a href="https://www.youtube.com/c/BoatsvsHaulover">click here</a> to check it out) 
+We also passed an ocean inlet that has a brutal reputation, it's named Haulover. The combination of strong ocean wind and opposing rushing tides can create some incredibly treacherous waters. Local knowledge is a must when navigating it as the bathymetry changes daily. Haulover Inlet claims boats from inexperienced captains every year, but it is also safely navigated every day by those who know the waters well. (There's a YouTube channel devoted to this subject called [Boats vs Haulover](https://www.youtube.com/c/BoatsvsHaulover){:target="_blank"}) 
 
 We plan to use the Cape Florida Channel to reach the ocean which I have been told is a breeze in comparison. To get there, we have to go south of Miami. The immense city skyline was discernible from miles away.
 
