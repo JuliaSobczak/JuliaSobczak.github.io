@@ -8,25 +8,25 @@ date: 2023-11-22
 ---
 We arrived about a week before putting the *Altitude Adjustment* into the water in order to clean and provision. The boat has been sitting in a yard in St. Marys, Georgia largely exposed to the elements for about seven months so the exterior had developed quite a crust. The four of us went to work determined to make her seaworthy as quickly as possible. The boat was partially stocked from the year before, so first the existing inventory needed to be taken and organized which, trust me, was no small task.
 
-![spreadsheet](/images/provisions-spreadsheet.png)
+![spreadsheet](/images/provisions-spreadsheet.png#vert)
 
 *A snapshot of Julia's inventory spreadsheet*
 
 Then my dad and I removed and reinstalled three massive 6-volt batteries that weighed 120 lbs each which was a heck of an effort. We also installed StarLink wifi for the first time. It will be awesome to stay connected while out in the ocean, but believe me when I say it was a struggle. We decided to fish the wire through the walls of the boat from the roof down to the pilot house. When looking at the boat it really isn't much distance from A to B, but it took two people, power tools, more cussing than I would like to admit, blood, some claustrophobic squeezes, and two days, but we finally have wifi.
 
-![wifi-butt](/images/wifi-butt.jpg)
+![wifi-butt](/images/wifi-butt.jpg#vert)
 
 *Fishing the StarLink cable through the walls*
 
 Next, we had to scrub essentially every surface on the boat: every cabinet and shelf, the interior and exterior of every window, the floors, walls, and ceilings. For the exterior, we borrowed a pressure washer from my Uncle Michael and put it to work. The green mold had taken over during the moisture-heavy summer and was all too happy to coat any surface it could land on. I ran through two tanks of gas before I decided to call it quits, and there is still more work to do…always more to do.
 
-![yard-boat-casey](/images/yard-boat-casey.jpg)
+![yard-boat-casey](/images/yard-boat-casey.jpg#vert)
 
 *Tired after a day of hard work*
 
 The interior had nearly the same level of mold growth as the exterior due to the humidity in southern Georgia. Unfortunately, all we had for help cleaning the inside was elbow grease so we scrubbed and scrubbed and scrubbed. The boat is finally clean enough to inhabit and now we need to stock it for our voyage. The first step was finding places to store the twenty cases of beer my parents brought from Colorado. 
 
-![beer-tower](/images/beer-tower.jpg)
+![beer-tower](/images/beer-tower.jpg#vert)
 
 *I think we're gonna need a bigger boat* 
 
@@ -38,7 +38,7 @@ The interior had nearly the same level of mold growth as the exterior due to the
 
 The next day we woke up and went to Costco as soon as they opened, the shopping list was extensive! Most groceries in the Bahamas are more expensive than they are in the United States, so we ended up spending about $1000 at Costco in hopes of saving us money down the line. We also bought some of our liquor there, however they didn't have everything we needed. 
 
-![costco-run](/images/costco-run-rz.jpg)
+![costco-run](/images/costco-run-rz.jpg#vert)
 
 *This was before we got liquor*
 
