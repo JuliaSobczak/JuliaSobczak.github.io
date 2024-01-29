@@ -24,7 +24,7 @@ Once we stopped at Vero, I tried to fish - briefly. I've been itching to get my 
 
 <p class="subtitle">Dec 4, 2023</p>
 
-The fog is thick this morning and so far it has only gotten thicker. It feels like the [*Go Away Ghost Ship*](https://www.youtube.com/watch?v=DhlwjBHxsJw&t=4s) Scooby-Doo episode; I could cut a slice out and take a bite. We have chartplotters so navigating isn't a problem, but if someone comes out of the mist in front of us, we'll need a quick reaction time. Hopefully, like us, they don't move very fast.
+The fog is thick this morning and so far it has only gotten thicker. It feels like the [*Go Away Ghost Ship*](https://www.youtube.com/watch?v=DhlwjBHxsJw&t=4s){:target="_blank"} Scooby-Doo episode; I could cut a slice out and take a bite. We have chartplotters so navigating isn't a problem, but if someone comes out of the mist in front of us, we'll need a quick reaction time. Hopefully, like us, they don't move very fast.
 
 ![foggy](/images/foggy.jpg)
 
@@ -80,7 +80,7 @@ Shortly after sitting down, my mom noticed something splash a little ways off th
 
 ![spinner-shark](/images/spinner-shark.jpg)
 
-*A spinner shark off the coast of Texas; photo by Ronald C. Modra, [Newsweek](https://www.newsweek.com/hundreds-spinner-sharks-off-texas-coast-rare-congregation-1678852)*
+*A spinner shark off the coast of Texas; photo by Ronald C. Modra, [Newsweek](https://www.newsweek.com/hundreds-spinner-sharks-off-texas-coast-rare-congregation-1678852){:target="_blank"}*
 
 This action often leads them to spin wildly through the air. No wonder we couldn't tell what they were. Jules and I stayed right where we were in hopes of seeing more, unsurprisingly we were alone in that endeavor. After seeing a few more silver torpedoes flying through the air, it was time to leave. Hopefully we will see more tomorrow! 
 
