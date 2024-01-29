@@ -20,7 +20,7 @@ My favorite was the [Snowy Egret](https://www.audubon.org/field-guide/bird/snowy
 
 My dad used the day to further take apart the microwave, unfortunately I think the two of them are at a stalemate. However he was able to find a very similar part online and, after minimal teeth-pulling with customer support, it is on the way. Finding an address to ship it to was another hurdle. Maybe soon Amazon can bring it to our coordinates by drone, but for now we are stuck having to find a physical address. Luckily, our neighbor in the anchorage knew a place we could have it sent, and it should be here before we cross.
 
-![microwave-piece](/images/microwave-piece.jpg)
+![microwave-piece](/images/microwave-piece.jpg#vert)
 
 *The culprit to all the microwave problems*
 
@@ -56,7 +56,7 @@ Our plants also seem quite sad, no sun for us is a mood killer, but for them it'
 
 We all consider the kitchen a one-butt area, as in, it only fits one butt at a time. I have now used both showers onboard and cannot fully stand up in either. The one in our bathroom is so small that getting stuck is a real possibility. 
 
-![casey-shower](/images/casey-shower.jpg)
+![casey-shower](/images/casey-shower.jpg#vert)
 
 *Whatever you do, don't drop the soap!*
 
@@ -76,7 +76,7 @@ While the wind and rain has been relentless, Hurricane Harbor has us fully prote
 
 At one point, we thought another small motor yacht might join us. He drove in close to the harbor entrance, a narrow channel bordered by the sandbar where we high-centered the skiff. It seemed like they were coming toward us but the wind was fighting them hard the whole way. The boat slowly edged closer and closer to the shoal which, by the way, is very obviously marked.
 
-![shoaling-sign](/images/shoaling-sign.jpg)
+![shoaling-sign](/images/shoaling-sign.jpg#vert)
 
 *Please excuse the handwriting*
 
@@ -100,7 +100,7 @@ We have an anchor alarm that sounds if the boat starts to drag the anchor, thank
 
 Happy birthday Julia!!! This morning we saw blue sky for the first time in five days and entered the final twelve hours of the gale force wind advisory. 
 
-![sunny-droplets](/images/sunny-droplets.jpg)
+![sunny-droplets](/images/sunny-droplets.jpg#vert)
 
 *Our first glimpse of the sun*
 
@@ -118,13 +118,13 @@ The sun managed to burn off the clouds a little before noon, immediately we were
 
 Almost immediately we spotted a large opaque blob under the surface. Very slowly it raised and a tiny nose loudly exhaled, almost as if saying hello. As we paddled around more and more of them appeared and disappeared. We saw at least four or five of them enjoying the sun with us. Julia ended up right over the top of them at one point, she described it as a manatee party. 
 
-![manatee-tail](/images/manatee-tail.jpg)
+![manatee-tail](/images/manatee-tail.jpg#vert)
 
 *Not a bad birthday present if you ask me*
 
 Eventually we turned around to head back, we paddled around the corner and out of the shelter of the cove. Immediately, we realized that we were in for a battle. The wind that had so graciously assisted us before, was now directly in our faces and much stronger. We sat down and swapped into kayak mode. 
 
-![lost-hat](/images/lost-hat.jpg)
+![lost-hat](/images/lost-hat.jpg#vert)
 
 *Don't worry, she went back for the hat*
 
@@ -134,7 +134,7 @@ Some of the day boaters that joined us had some sweet water toys. Aside from the
 
 Jules decided to join them in the water in her pink, gold-flecked innertube. She donned her bucket hat, sunglasses, and margarita; then proceeded to nearly yard-sale it all trying to orient herself in the small floaty. 
 
-![queen-jules](/images/queen-jules.jpg)
+![queen-jules](/images/queen-jules.jpg#vert)
 
 *Queen Jules*
 
@@ -160,7 +160,7 @@ The unique location left the structures vulnerable to hurricanes so none of the 
 
 The further we got offshore, the larger the waves became. By the time we were in enough water to start fishing the rollercoaster ride had begun. We got the poles in the water and almost immediately I heard the drag rip out and my mom scream “FISH ON!” I pulled the boat back to an idle speed and went to assist, but before I left the pilot-house the fish was off. We continued fishing, now on the edge of our seats and ready for action.
 
-![fishing-rod](/images/fishing-rod.jpg)
+![fishing-rod](/images/fishing-rod.jpg#vert)
 
 *Here fishy fishy fishy*
 
@@ -176,7 +176,7 @@ Iguanas are prolific here, all shapes and sizes of the reptiles decorated the ro
 
 Sadly, the Cape Florida Lighthouse was closed for renovations when we arrived at the gate. It towers ninety-five feet in the air and is nearing its two-hundredth birthday. It has withstood countless hurricanes, an attack that included some form of gunpowder bomb, and nearly two centuries of erosion. 
 
-![lighthouse-compare](/images/lighthouse-compare.jpg)
+![lighthouse-compare](/images/lighthouse-compare.jpg#vert)
 
 *Cape Florida Lighthouse 2023 (Left) 1923 (Right)*
 
