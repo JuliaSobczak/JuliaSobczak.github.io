@@ -6,7 +6,7 @@ description: Sixth blog post
 permalink: articles/weathering-the-storm/
 date: 2023-12-13
 ---
-Gale force winds and gray skies is about all we have to look forward to right now. I would have been quite happy living life without knowing the stipulations that surround the term “gale force”. Alas we are not provided that luxury; gale force refers to any winds that will consistently blow or frequently gust to speeds of thirty four to forty seven knots. That's thirty-nine to fifty-four miles per hour, and currently there is an advisory for the next three days. Checkout the [Beaufort Wind Scale](https://www.weather.gov/mfl/beaufort).
+Gale force winds and gray skies is about all we have to look forward to right now. I would have been quite happy living life without knowing the stipulations that surround the term “gale force”. Alas we are not provided that luxury; gale force refers to any winds that will consistently blow or frequently gust to speeds of thirty four to forty seven knots. That's thirty-nine to fifty-four miles per hour, and currently there is an advisory for the next three days. Checkout the [Beaufort Wind Scale](https://www.weather.gov/mfl/beaufort){:target="_blank"}.
 
 Apparently we aren't meant to go anywhere. I think we may have skipped the howling wind phase and gone straight to screaming. It has definitely impeded my sleep for the last couple of nights and sounds like it will continue to do so. The noise is part of it, but the real killer is my anxiety that our anchor will break loose and drift. I'm just having trouble fully trusting our equipment, the boat is a whole lot bigger than our anchor.
 
@@ -16,7 +16,7 @@ Apparently we aren't meant to go anywhere. I think we may have skipped the howli
 
 Jules and I eventually got a little stir-crazy and went out to the bow for some fresh air. Our conversation probably looked hilarious because we were basically screaming to hear each other over the gusts. Surprisingly, we weren't the only ones braving the elements. Multiple shore birds were visibly hunting, I guess rain or shine they're all still hungry. 
 
-My favorite was the [Snowy Egret](https://www.audubon.org/field-guide/bird/snowy-egret).The stark white feathers stuck out like a sore thumb against the dark gray skies. They have an immense wingspan that can reach almost four feet wide, but the whole bird weighs under a pound. They also stand on very long and slender black legs that resemble stilts. He stalked around the shallow water near the shore hunting before flying off, squawking loudly as he went. 
+My favorite was the [Snowy Egret](https://www.audubon.org/field-guide/bird/snowy-egret){:target="_blank"}.The stark white feathers stuck out like a sore thumb against the dark gray skies. They have an immense wingspan that can reach almost four feet wide, but the whole bird weighs under a pound. They also stand on very long and slender black legs that resemble stilts. He stalked around the shallow water near the shore hunting before flying off, squawking loudly as he went. 
 
 My dad used the day to further take apart the microwave, unfortunately I think the two of them are at a stalemate. However he was able to find a very similar part online and, after minimal teeth-pulling with customer support, it is on the way. Finding an address to ship it to was another hurdle. Maybe soon Amazon can bring it to our coordinates by drone, but for now we are stuck having to find a physical address. Luckily, our neighbor in the anchorage knew a place we could have it sent, and it should be here before we cross.
 
@@ -48,7 +48,7 @@ Our plants also seem quite sad, no sun for us is a mood killer, but for them it'
 
 <p class="subtitle">Dec 16, 2023</p>
 
-[“How's the weather Ollie?” “It's raining sideways!!!”](https://www.youtube.com/watch?v=b8nOUpj85FE&t=11s) and believe it or not we are still seeing the occasional boat braving the storm. The gale force warning is still in effect and has been extended through Sunday. This boat feels like it is shrinking every day, and trust me, it wasn't that big when we got on it in the first place. 
+[“How's the weather Ollie?” “It's raining sideways!!!”](https://www.youtube.com/watch?v=b8nOUpj85FE&t=11s){:target="_blank"} and believe it or not we are still seeing the occasional boat braving the storm. The gale force warning is still in effect and has been extended through Sunday. This boat feels like it is shrinking every day, and trust me, it wasn't that big when we got on it in the first place. 
 
 ![boat-interior](/images/boat-interior.jpg)
 
@@ -130,7 +130,7 @@ Eventually we turned around to head back, we paddled around the corner and out o
 
 The second paddle helped tremendously, but the strong wind and waves fought us the whole way back. Jules lost her hat to the wind and had to go back for it. We ended up soaking wet and by the time we came back, quite an audience had gathered in the harbor. After a semi-stressful few minutes we made it back to safety on the boat and cracked some well-deserved beers.
 
-Some of the day boaters that joined us had some sweet water toys. Aside from their fancy Mastercraft ski boat, they had four remote control hydrofoil boards. These things are ridiculous! You stand on them while holding a remote control and a small propeller pushes the board through the water at up to thirty miles an hour, no boat required. They have a fin that reaches down into the water about two feet. When you speed up the board lifts vertically into the air and only the fin is submerged. They look like an absolute riot for a day on the water. The only drawback to them is they cost around 10k a piece for the cheap ones. I'm sure they are fun, but not ten thousand dollars fun. It seems like one of those instances where it's better to have a friend with one than actually own one yourself. See for yourself: [eFoiling tutorial](https://www.youtube.com/shorts/UbpkQ7WcRZI).
+Some of the day boaters that joined us had some sweet water toys. Aside from their fancy Mastercraft ski boat, they had four remote control hydrofoil boards. These things are ridiculous! You stand on them while holding a remote control and a small propeller pushes the board through the water at up to thirty miles an hour, no boat required. They have a fin that reaches down into the water about two feet. When you speed up the board lifts vertically into the air and only the fin is submerged. They look like an absolute riot for a day on the water. The only drawback to them is they cost around 10k a piece for the cheap ones. I'm sure they are fun, but not ten thousand dollars fun. It seems like one of those instances where it's better to have a friend with one than actually own one yourself. See for yourself: [eFoiling tutorial](https://www.youtube.com/shorts/UbpkQ7WcRZI){:target="_blank"}.
 
 Jules decided to join them in the water in her pink, gold-flecked innertube. She donned her bucket hat, sunglasses, and margarita; then proceeded to nearly yard-sale it all trying to orient herself in the small floaty. 
 
