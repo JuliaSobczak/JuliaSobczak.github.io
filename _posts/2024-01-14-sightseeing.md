@@ -92,9 +92,9 @@ We unhooked from the mooring ball and cruised north to get closer to the site be
 
 The second we hit the water the fish surrounded us! A horde of sergeant majors gathered directly under the skiff joined by dozens of snapper and grunts. The water is fairly deep compared to the snorkeling we have been doing but it was crystal clear. The walls below the exposed iron shore were steep and covered in beautiful coral. It was even better than yesterday, Jules and I dove down repeatedly to get a closer look. The early morning sun made the colors pop beautifully.
 
-*insert underwater photo here*
+![underwater-jack](/images/underwater-jack.JPG)
 
-*
+*Sergeant majors bullying a school of bar jacks*
 
 Suddenly a skiff full of people joined us in the water and I had to avoid running into anyone. We all gathered around a green sea turtle that showed up, taking turns diving down to get videos and say hello. Eventually the current started picking up along the sides of the small island so, after battling our way back to the skiff, we called it good.
 
