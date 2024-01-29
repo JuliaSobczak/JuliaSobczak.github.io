@@ -188,7 +188,7 @@ She said she could feel the feet sticking to her fingers. We were both intrigued
 
 Well I didn't get much sleep. I rolled around in bed like a rotisserie chicken all night. The humidity makes the sheets and blankets sticky and I ended up pulling them completely off the bed. I just can't seem to get comfortable and I'm not sure why. Earlier in the trip I was getting somewhat consistent sleep, but lately I've been struggling. 
 
-Luckily it's impossible to stay grumpy when you're in the Bahamas. I got up, drank my coffee, and rallied, ready to get back in the water. This morning, Jules was craving biscuits and gravy. We recently experimented with making a [Johnny Cake](https://www.nassauparadiseisland.com/blog/recipe-bahamian-johnny-cake) and it turned out to be a killer biscuit substitute. She combined and kneaded her ingredients to make the dough and my dad threw together his signature sausage gravy. It may not have been the healthiest meal but it certainly prepared us for the day. 
+Luckily it's impossible to stay grumpy when you're in the Bahamas. I got up, drank my coffee, and rallied, ready to get back in the water. This morning, Jules was craving biscuits and gravy. We recently experimented with making a [Johnny Cake](https://www.nassauparadiseisland.com/blog/recipe-bahamian-johnny-cake){:target="_blank"} and it turned out to be a killer biscuit substitute. She combined and kneaded her ingredients to make the dough and my dad threw together his signature sausage gravy. It may not have been the healthiest meal but it certainly prepared us for the day. 
 
 We couldn't resist getting back in the water with the spotted eagle rays. The morning current was whipping when we got in the water. I felt like I blinked and drifted the length of a football field. The eagle rays came to greet us but it was nearly impossible to hang out, turning around and swimming against the current was a losing battle. Conveniently, it pushed us directly back to the boat and we repeated the drift snorkel one more time. 
 
@@ -276,7 +276,7 @@ We stopped directly below the peak of Boo Boo Hill and I got in the water to che
 
 *I was just happy to be back in the water*
 
-The water on the ocean side of the island granted us far more clarity than the coral garden near the park office. There was still a lack of coral heads but the bathymetry was far more interesting. I dove down and set the anchor into the sand and we were off. The large, hard structures we saw from above were actually [stromatolites](https://bahamas-marine-ecocentre.org/stromatolites/). 
+The water on the ocean side of the island granted us far more clarity than the coral garden near the park office. There was still a lack of coral heads but the bathymetry was far more interesting. I dove down and set the anchor into the sand and we were off. The large, hard structures we saw from above were actually [stromatolites](https://bahamas-marine-ecocentre.org/stromatolites/){:target="_blank"}. 
 
 These are composite mounds built from lime-secreting cyanobacteria and are the oldest known fossils on earth. Some date back as far as three and a half billion years. Bahamian stromatolites are the only known specimens still growing in open ocean conditions; the hard structures provide shelter for numerous marine organisms to thrive.
 
