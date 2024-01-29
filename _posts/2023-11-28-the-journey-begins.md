@@ -8,7 +8,7 @@ date: 2023-11-28
 ---
 On Tuesday November 28th at 9:00 a.m. in 44 degrees, the boat was lowered into the water for the first time in seven months.
 
-![boat-sling](/images/boat-sling.jpg)
+![boat-sling](/images/boat-sling.jpg#vert)
 
 *Altitude Adjustment hanging in the sling*
 
@@ -24,7 +24,7 @@ It didn't seem open as we passed and no one had answered the phone, but we could
 
 *The beautiful and vast marsh*
 
-![wassup-cormorant](/images/wassup-cormorant.jpg)
+![wassup-cormorant](/images/wassup-cormorant.jpg#vert)
 
 *Cormorants are everywhere on the ICW*
 
@@ -45,7 +45,7 @@ Continuing south down the ICW we headed toward St. Augustine where we managed to
 
 The mooring field was immediately after the bridge, and after a little trial and error we managed to find it and get hooked up for the night. As it got darker, our more festive neighbors decided to brighten up the night with Christmas lights.
 
-![christmas-boat](/images/christmas-boat.jpg)
+![christmas-boat](/images/christmas-boat.jpg#vert)
 
 *A tropical way to celebrate the holidays*
 
@@ -65,7 +65,7 @@ Waking up this morning was much less miserable than the previous, however it was
 
 The rest of the day was filled with spying on houses that line parts on the ICW which ranged from modern three-stories with a dock and very nice boats to squatty old-school beach houses with pastel colors and lots of history. Julia got a chance to drive the boat today too. It was a little touch and go at first as she learned to steer with the autopilot, but she never got us into any trouble. After a couple hours of passing boats and going under a bridge or two her confidence level had grown tremendously.
 
-![julia-driving](/images/julia-driving.jpg)
+![julia-driving](/images/julia-driving.jpg#vert)
 
 *Captn. Julia, I like the sound of that*
 
@@ -107,13 +107,13 @@ The scenery also changed pretty dramatically today. The ICW that was a narrow di
 
 The lederhosen was out in full force! They had a live one-man band who was definitely getting his exercise. He took the stage and after a few mentions of free shots and chugging beers he had everyone's attention. He played piano and cowbell, sang everything in German, and had an alphorn which none of us had ever seen before.
 
-![german-guy](/images/german-guy.jpg)
+![german-guy](/images/german-guy.jpg#vert)
 
 *Herb playing his heart out!*
 
 We finished our biers, applauded the performance, and headed to the boat. Once again we ate well: elk steaks from Pagosa Springs, CO and stone crab claws from Hermosa Beach, FL - the ultimate surf and turf. Our dessert for the night was watching SpaceX launch a rocket. When they tell you it's taking off at 11pm, you better be watching at 11pm. We all got up just moments before ignition to watch. At exactly 11 o'clock there was absolutely no doubt that a rocket was launching. The entire horizon lit up as if the sun was rising and seconds later a rocket lifted into the air. Initially it was so bright, it hurt my eyes to watch. The rocket climbed into the night sky illuminating the thin clouds into a beautiful portrait.
 
-![rocket-launch](/images/rocket-launch.jpg)
+![rocket-launch](/images/rocket-launch.jpg#vert)
 
 *(Left) Spacex rocket, (Right) the rising moon*
 
