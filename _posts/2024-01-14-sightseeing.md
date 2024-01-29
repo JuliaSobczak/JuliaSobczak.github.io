@@ -200,7 +200,7 @@ We had one fish hit our lures and as soon as I began reeling, it was off. My dad
 
 Disappointed in our luck we decided to head back in and anchor near the yacht club. We are currently waiting on the supply boat to arrive at Staniel Cay so we can finish provisioning before moving on. After asking around, it seems like our guess is as good as theirs. I think the locals have made their peace with the lack of consistency but it would be nice to know the schedule. From where we anchored we should at least be able to see it arrive.
 
-We ended up anchoring next to Thunderball Grotto. It is a similar swim-through cave as the Rocky Dundas but with a more renowned reputation. In 1965, the James Bond film crew traveled to Staniel Cay to film for the movie Thunderball. Pierce Brosnan heroically thwarts the villain's evil plans in an epic [underwater fight scene](https://www.youtube.com/watch?v=cuMM72G5k48&t=4m5s){:target="_blank"}. There is even a picture of the cast on the wall at the Staniel Cay Yacht Club. 
+We ended up anchoring next to Thunderball Grotto. It is a similar swim-through cave as the Rocky Dundas but with a more renowned reputation. In 1965, the James Bond film crew traveled to Staniel Cay to film for the movie Thunderball. Sean Connery heroically thwarts the villain's evil plans in an epic [underwater fight scene](https://www.youtube.com/watch?v=cuMM72G5k48&t=4m5s){:target="_blank"}. There is even a picture of the cast on the wall at the Staniel Cay Yacht Club. 
 
 ![thunderball-interior](/images/thunderball-interior.JPG#vert)
 
