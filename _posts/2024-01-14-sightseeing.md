@@ -10,13 +10,13 @@ This morning we said goodbye to Warderick Wells and departed our mooring ball. F
 
 ![ww-srgnt-majors](/images/ww-srgnt-majors.jpg)
 
-*Sharing breakfast with the sergeant majors before departing*
+*Sharing breakfast with the sergeant majors*
 
-For the first time since Nassau we got the rods in the water today. Of course we didn't fish inside the Land and Sea Park. We left Warderick Wells and headed into the Exuma Sound, the ocean couldn't have been much calmer. The waves were predicted to be around one foot and this time they may have been even smaller. The park extends a few miles offshore and we traveled just outside of the boundary marked on our charts. We were well outside our normal one to three hundred feet fishing depth but who knows, we might get lucky.
+For the first time since Nassau we got the rods in the water today. Of course we didn't fish inside the Land and Sea Park. We left Warderick Wells and headed into the Exuma Sound, the ocean couldn't have been much calmer. The waves were predicted to be around one foot and this time they may have been even smaller. The park extends a few miles offshore and we traveled just outside of the boundary marked on our charts. We were well outside our normal one to three hundred foot fishing depth but who knows, we might get lucky.
 
 ![calm-ocean](/images/calm-ocean.jpg)
 
-*I'm not convinced there's any fish out here*
+*I'm not convinced there are any fish out here*
 
 The lures went in and we turned the boat south along the park boundary. The morning sun beamed in through the windows and turned the pilothouse into a sauna. Jules took over as captain and my parents watched the rods. The plan is to fish south just beyond the boundary and then turn around and stay at Cambridge Cay.
 
@@ -28,23 +28,27 @@ Disappointed, but not discouraged, we got the lines back out. By this time we ha
 
 ![low-lying-islands](/images/low-lying-islands.jpg)
 
-*Nothing to do but count the islands as they go by*
+*Scattered cays on the horizon*
 
-Finally another rod bent over and I jumped on to reel. I'm not trying to bring in every fish, I promise. I just happen to be in the right place at the right time and it's difficult to swap during the fight. This fish was even smaller than the last, initially we thought it may have been bitten in half by a shark because it wasn't fighting. 
+Finally another rod bent over and I jumped on to reel. I'm not trying to bring in every fish, I promise. I just happen to be in the right place at the right time and it's difficult to swap during the fight. This fish was even smaller than the last, initially we thought it may have been bitten in half by a shark because wasn't any resistance. 
 
-To our surprise it was a whole barracuda, just a really tiny one. After sending him back into the water we continued fishing but unfortunately ended up empty handed. Fresh fish isn't on the menu tonight. We turned around and headed back into the park to Cambridge Cay for the night. Again we managed to score a mooring ball.
+To our surprise it was a whole barracuda, just a really tiny one. After sending him back into the water we continued fishing but ended up empty handed. Unfortunately fresh fish isn't on the menu. We turned around and headed back into the park to Cambridge Cay for the night. Again we managed to score a mooring ball.
 
 The morning sun was roasting us while fishing and I was ready to cool off. I grabbed my bathing suit and jumped off the roof. When I surfaced the current was pulling me away fast and I had to swim hard to get back to the boat.
 
 ![casey-jumping-roof](/images/casey-jumping-roof.jpg#vert)
 
-*Jumping 17 feet into the ocean!*
+*Overcoming my fear of heights*
 
-Once I was out, I became Casey the Bahama Barber and cleaned up my mom and Jules’s neckline. Not to toot my own horn but I think it actually looked pretty decent. They both wanted buzzed undercuts in hopes of staying a little cooler, and I cleaned up their necklines so hair wouldn’t get caught in their mask straps. Next my parents hopped in their lounge floaties and tied off to the back of the boat. Without their rope they would have been out to sea in minutes. We floated for a while behind the boat waiting for the current to ease up. 
+Once I was out, I became Casey the Bahama Barber and cleaned up my mom and Jules’s neckline. Not to toot my own horn but I think it actually looked pretty decent. They both wanted buzzed undercuts in hopes of staying a little cooler, and I cleaned up their necklines so hair wouldn’t get caught in their mask straps.
+
+Next my parents hopped in their lounge floaties and tied off to the back of the boat. Without their rope they would have been out to sea in minutes. We floated for a while behind the boat waiting for the current to ease up. 
 
 The snorkel we planned for today was to a set of islands known as Rocky Dundas. Supposedly it hides two caves that can only be explored at low tide. We left early to make sure we had time to locate the spot. We cruised across the deep channel south of the mooring with our eyes peeled. The islands in front of us jutted up out of the ocean, their flat rock walls reaching high into the air above our heads. 
 
 ![dundas-overhang](/images/dundas-overhang.jpg)
+
+*
 
 There are two skiff moorings located just off the sharp wall that grant easy access to the caves. From the skiff, the shadowy wall made it difficult to see the entrances. We suited up and jumped in. From the water the caves were much more obvious. Initially, it was just a looming dark mouth on the side of the island, but after my eyes adjusted I was able to see the dim interior. The water inside was very shallow and we stood up to look around. 
 
@@ -52,7 +56,7 @@ Massive stalactites dripped water all around us, some reaching completely from f
 
 ![three-in-cave](/images/three-in-cave.JPG#vert)
 
-*Awestruck by the cave's natural beauty*
+*Awestruck by the beautiful interior*
 
 We ducked back into the water and swam a short distance over some beautiful coral to the other opening. The second cave was larger and had room to take off our fins and walk around. The walls inside were equally as impressive as the first, and another small natural skylight allowed light through. 
 
@@ -60,7 +64,7 @@ Tiny pools in the rock remained from the tide and, after some careful examinatio
 
 ![dorky-jules-cave](/images/dorky-jules-cave.JPG)
 
-*Jules exploring the cave*
+*I think Jules was excited*
 
 At the back of the cave was the most exclusive tiny beach I've ever seen, there was just enough room for one chair and a cooler. The caves also provided some great acoustics for my tone-deaf singing. Jules sounded alright, but I couldn't carry a tune if it was in my backpack. As we made our way back out to see the reef outside, two skiffs full of people arrived. Looks like we had good timing.
 
@@ -68,7 +72,7 @@ The coral heads just outside were almost as impressive as the caves. The colors 
 
 ![pretty-coral](/images/pretty-coral.JPG#vert)
 
-*The coral was honestly prettier than the cave*
+*I love to see healthy coral reef*
 
 Eventually we returned to the skiff and headed back to catch the sunset. On the way, we ventured around the backside of the smaller of the two Rocky Dundas islands and noticed an osprey perched high on the rocks. We moved in closer for a better look and noticed a huge nest beside it and a single chick peeking out.
 
@@ -150,7 +154,7 @@ We also stopped at an adventure store/fish market on the island and were tempora
 
 They charged us eighteen dollars a pound, but wanted double that for wahoo. In the states that's usually the opposite. Apparently the demand is the opposite down here. The guy inside did say he ranks grouper lower than wahoo and closer to tuna. Personally I think the tuna trumps them both, but it's just preference and all three can be fantastic.
 
-My dad also took our time on land to source a new charcoal filter for our desalinator. Staniels Cay yacht club is actually owned by the company Watermakers Inc. so finding the part was easier than you would think. I wouldn't expect anywhere else down here to have one in stock.
+My dad also took our time on land to source a new charcoal filter for our desalinator. Staniel Cay yacht club is actually owned by the company Watermakers Inc. so finding the part was easier than you would think. I wouldn't expect anywhere else down here to have one in stock.
 
 ![waiting-for-parts](/images/waiting-for-parts.jpg)
 
@@ -192,9 +196,9 @@ By the time we got back to our boat the workers had arrived on the island and wo
 
 We had one fish hit our lures and as soon as I began reeling, it was off. My dad did some research in hopes of finding some new techniques and discovered that we have the right baits, spot and time of year. Apparently it just wasn't our day. Luckily we have grouper for dinner to hold us over until we catch something.
 
-Disappointed in our luck we decided to head back in and anchor near the yacht club. We are currently waiting on the supply boat to arrive at Staniels Cay so we can finish provisioning before moving on. After asking around, it seems like our guess is as good as theirs. I think the locals have made their peace with the lack of consistency but it would be nice to know the schedule. From where we anchored we should at least be able to see it arrive.
+Disappointed in our luck we decided to head back in and anchor near the yacht club. We are currently waiting on the supply boat to arrive at Staniel Cay so we can finish provisioning before moving on. After asking around, it seems like our guess is as good as theirs. I think the locals have made their peace with the lack of consistency but it would be nice to know the schedule. From where we anchored we should at least be able to see it arrive.
 
-We ended up anchoring next to Thunderball Grotto. It is a similar swim-through cave as the Rocky Dundas but with a more renowned reputation. In 1965, the James Bond film crew traveled to Staniels Cay to film for the movie Thunderball. Pierce Brosnan heroically thwarts the villain's evil plans in an epic [underwater fight scene](https://www.youtube.com/watch?v=cuMM72G5k48?t=04m05s). There is even a picture of the cast on the wall at the Staniel Cay Yacht Club. 
+We ended up anchoring next to Thunderball Grotto. It is a similar swim-through cave as the Rocky Dundas but with a more renowned reputation. In 1965, the James Bond film crew traveled to Staniel Cay to film for the movie Thunderball. Pierce Brosnan heroically thwarts the villain's evil plans in an epic [underwater fight scene](https://www.youtube.com/watch?v=cuMM72G5k48&t=4m5s){:target="_blank"}. There is even a picture of the cast on the wall at the Staniel Cay Yacht Club. 
 
 ![thunderball-interior](/images/thunderball-interior.JPG#vert)
 
