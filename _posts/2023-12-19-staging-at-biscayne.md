@@ -16,7 +16,7 @@ The weather was beautiful today though. Again, we paddle boarded with the manate
 
 ![flying-eagle-ray](/images/flying-eagle-ray.jpg)
 
-*An eagle ray leaping out of the water; photo by the Sarasota Dolphin Research Project, [FL Keys News](https://www.flkeysnews.com/news/local/article145430644.html)*
+*An eagle ray leaping out of the water; photo by the Sarasota Dolphin Research Project, [FL Keys News](https://www.flkeysnews.com/news/local/article145430644.html){:target="_blank"}*
 
 Jules, my mom, and I finished our second puzzle today. It is the first wooden puzzle any of us have ever done; the first one we did was a joke in comparison. Not only was the second one twice as many pieces, but the colors were so similar that they printed letters on the back to help confirm where they fit. At first, it kind of felt like cheating to use the letters, but it became rapidly clear that their help was necessary. 
 
@@ -100,7 +100,7 @@ On the other end of the spectrum three species of seahorse call the national par
 
 Seagrass beds also play a vital role in reducing carbon dioxide emissions. The national park describes them as the lungs of the ocean because they provide huge amounts of oxygen for the water and atmosphere. The ecosystems harbored within Biscayne National Park are essential to Florida's commercial and tourist industries. Hopefully, something can be done to help preserve this habitat before it disappears.
 
-Check out the park here: [Key Biscayne National Park](https://home.nps.gov/bisc/learn/index.htm)
+Check out the park here: [Key Biscayne National Park](https://home.nps.gov/bisc/learn/index.htm){:target="_blank"}
 
 ![bw-birds](/images/bw-birds.jpg)
 
