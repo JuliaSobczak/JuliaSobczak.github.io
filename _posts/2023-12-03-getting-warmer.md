@@ -8,7 +8,7 @@ date: 2023-12-03
 ---
 The weather is beautiful today and everyone seems to be taking full advantage of it. Dozens of small pleasure boats loaded with people passed us, most heading out into the ocean. The dolphins surfed our wake over and over again obviously enjoying themselves on the nice day. 
 
-![dolphin-closeup](/images/dolphin-closeup.jpg)
+![dolphin-closeup](/images/dolphin-closeup.jpg#vert)
 
 *Julia making more dolphin friends*
 
@@ -52,7 +52,7 @@ Once he had the line tight, it didn't take much convincing to ease us out of the
 
 Today was the first time any of us have seen the ocean since we started our trip. It's been within reach nearly the whole time but at no point have we laid eyes on it. Fortunately, this anchorage is very close to Hobe Sound National Wildlife Refuge Beach. Of course we had to collect some shells and play in the sand. What is a trip to the beach without shells? 
 
-![hobe-beach](/images/hobe-beach.jpg)
+![hobe-beach](/images/hobe-beach.jpg#vert)
 
 *No warning for spinner sharks?*
 
@@ -66,7 +66,7 @@ Today is the first day we aren't traveling. Our urge to continue south got inter
 
 The nice part about not traveling today was that Jules and I were able to make some real breakfast. She and I put together some killer breakfast burritos which was a great change from the cereal and toast we have been eating thus far. It's just difficult to be down in the galley while traveling - definitely doesn't help with sea sickness. She and I both struggled a little bit with the small kitchen. Cooking burritos on a pancake griddle was definitely a challenge, but the end result was just as delicious.
 
-![breakfast-burritos](/images/breakfast-burritos.jpg)
+![breakfast-burritos](/images/breakfast-burritos.jpg#vert)
 
 *Trying not to wear the burritos*
 
@@ -94,7 +94,7 @@ Definitely won't be seeing any more spinner sharks today. At some point last nig
 
 Our plan was to move down to Lake Worth today, but instead we're staying put. Traveling in windy conditions is somewhat tedious, but definitely doable. The main concern is anchoring at our new destination. As we sit now, we are hooked up good and going nowhere so we decided to wait for some gentler weather. Currently, there isn't much of a window for us to make our crossing to the Bahamas so we are in no hurry. Keeping ourselves busy all day on a fifty foot boat proved less of a challenge than I thought. My dad continued working on the plumbing, I made pico de gallo, Jules worked on her project for The Watershed Center, and my mom, well she supervised. The projects on this boat are never ending, which can be awesome or overwhelming depending on how you look at it.
 
-![boot-boat](/images/boot-boat.jpg)
+![boot-boat](/images/boot-boat.jpg#vert)
 
 *Our chariot awaits*
 
