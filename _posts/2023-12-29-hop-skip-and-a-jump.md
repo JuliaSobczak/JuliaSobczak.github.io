@@ -18,7 +18,7 @@ On our way to the store, we passed the Dolphin House. Built by Ashley Saunders c
 
 ![dolphin-house-ext](/images/dolphin-house-ext.jpeg#vert)
 
-*The beautiful exterior of the Dolphin House; photo by owner, [Dolphin House Museum](https://dolphin-house-museum.business.site/)*
+*The beautiful exterior of the Dolphin House; photo by owner, [Dolphin House Museum](https://dolphin-house-museum.business.site/){:target="_blank"}*
 
 Ashley is a Bimini local and wrote the first ever **History of Bimini** books. He was a school teacher on the island for thirty years and said “we didn't have a history book, so I wrote one.” Mr. Saunders is a well-respected author, the President of the Bimini Historical Society, and a graduate of the University of Wisconsin at Madison. He also completed some post-graduate work at Harvard and earned diplomas in Tourism Education. 
 
@@ -186,7 +186,7 @@ The main perk to spending the night out on the bank is the stars. There isn't an
 
 <p class="subtitle">Jan 2, 2024</p>
 
-Once again we were up before the sun showed itself. I think the bank is one of the craziest places I've ever spent the night. The Great Barrier Reef is still at the top of the list though. Very shortly after pulling anchor we left the serenity of the Great Bahama Bank and ventured into the [Tongue of the Ocean](https://coastwatch.noaa.gov/cwn/news/2021-09-23/tongue-ocean.html), a basin of extremely deep water that separates Andros and New Providence.  
+Once again we were up before the sun showed itself. I think the bank is one of the craziest places I've ever spent the night. The Great Barrier Reef is still at the top of the list though. Very shortly after pulling anchor we left the serenity of the Great Bahama Bank and ventured into the [Tongue of the Ocean](https://coastwatch.noaa.gov/cwn/news/2021-09-23/tongue-ocean.html){:target="_blank"}, a basin of extremely deep water that separates Andros and New Providence.  
 
 We made our way through the Northwest Channel out into deeper water. So far, our cuts into the ocean have all been narrow, but the Northwest Channel is about half a mile wide. My dad has been told that this area is killer fishing so we rigged up the poles and got them in the water as soon as we made it through.
 
