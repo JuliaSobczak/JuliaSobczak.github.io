@@ -40,15 +40,13 @@ The morning sun was roasting us while fishing and I was ready to cool off. I gra
 
 *Overcoming my fear of heights*
 
-Once I was out, I became Casey the Bahama Barber and cleaned up my mom and Jules’s neckline. Not to toot my own horn but I think it actually looked pretty decent. They both wanted buzzed undercuts in hopes of staying a little cooler, and I cleaned up their necklines so hair wouldn’t get caught in their mask straps.
-
-Next my parents hopped in their lounge floaties and tied off to the back of the boat. Without their rope they would have been out to sea in minutes. We floated for a while behind the boat waiting for the current to ease up. 
+Once I was out, I became Casey the Bahama Barber and cleaned up my mom and Jules’s neckline. Not to toot my own horn but I think it actually looked pretty decent. They both wanted buzzed undercuts in hopes of staying a little cooler, and I cleaned up their necklines so hair wouldn’t get caught in their mask straps. Next my parents hopped in their lounge floaties and tied off to the back of the boat. Without their rope they would have been out to sea in minutes. We floated for a while behind the boat waiting for the current to ease up. 
 
 The snorkel we planned for today was to a set of islands known as Rocky Dundas. Supposedly it hides two caves that can only be explored at low tide. We left early to make sure we had time to locate the spot. We cruised across the deep channel south of the mooring with our eyes peeled. The islands in front of us jutted up out of the ocean, their flat rock walls reaching high into the air above our heads. 
 
 ![dundas-overhang](/images/dundas-overhang.jpg)
 
-*
+*At high tide the overhang is submerged*
 
 There are two skiff moorings located just off the sharp wall that grant easy access to the caves. From the skiff, the shadowy wall made it difficult to see the entrances. We suited up and jumped in. From the water the caves were much more obvious. Initially, it was just a looming dark mouth on the side of the island, but after my eyes adjusted I was able to see the dim interior. The water inside was very shallow and we stood up to look around. 
 
@@ -64,7 +62,7 @@ Tiny pools in the rock remained from the tide and, after some careful examinatio
 
 ![dorky-jules-cave](/images/dorky-jules-cave.JPG)
 
-*I think Jules was excited*
+*Jules was very excited*
 
 At the back of the cave was the most exclusive tiny beach I've ever seen, there was just enough room for one chair and a cooler. The caves also provided some great acoustics for my tone-deaf singing. Jules sounded alright, but I couldn't carry a tune if it was in my backpack. As we made our way back out to see the reef outside, two skiffs full of people arrived. Looks like we had good timing.
 
@@ -72,7 +70,7 @@ The coral heads just outside were almost as impressive as the caves. The colors 
 
 ![pretty-coral](/images/pretty-coral.JPG#vert)
 
-*I love to see healthy coral reef*
+*It's so nice to see healthy coral reef*
 
 Eventually we returned to the skiff and headed back to catch the sunset. On the way, we ventured around the backside of the smaller of the two Rocky Dundas islands and noticed an osprey perched high on the rocks. We moved in closer for a better look and noticed a huge nest beside it and a single chick peeking out.
 
@@ -82,7 +80,7 @@ We headed back to the *Altitude Adjustment* for the sunset. The water flattened 
 
 ![flat-sunset](/images/flat-sunset.jpg)
 
-*"I hope I see another one tomorrow" -my dad*
+*I hope I see another one tomorrow -Captain Jim*
 
 ---
 
@@ -96,13 +94,15 @@ The second we hit the water the fish surrounded us! A horde of sergeant majors g
 
 *insert underwater photo here*
 
+*
+
 Suddenly a skiff full of people joined us in the water and I had to avoid running into anyone. We all gathered around a green sea turtle that showed up, taking turns diving down to get videos and say hello. Eventually the current started picking up along the sides of the small island so, after battling our way back to the skiff, we called it good.
 
 My dad drove us over to the sunken airplane and Jules, my mom, and I rolled out of the boat to look. To be honest it wasn't anything special. Just a small crashed plane slowly being eaten away by the saltwater. The coral heads surrounding it were much more interesting if you ask me. There were a couple of large, pretty sponges growing inside the plane and I spotted a long-spine porcupinefish hovering at the edge of the reef, but the aquarium far surpassed the small plane. 
 
 ![plane-pic](/images/plane-pic.JPG)
 
-*A sunken plane sounds cool in theory*
+*Losing the battle against saltwater*
 
 Once we were satisfied we loaded up, went back to the *Altitude Adjustment*, and departed for Sampson Cay. I'm sad to say goodbye to the park but we have been out of fish for far too long. Sadly the winds are strong this morning and the ocean is predicted to be very rough. Traveling along the bank should have made it a much smoother trip, however the waves are surprisingly big. Luckily, our trip was short and the swells rocked Jules to sleep rather than to death.
 
@@ -111,6 +111,8 @@ My dad picked an anchorage that he hoped would be semi-private, but upon arrivin
 This anchorage was originally built up to be a marina, but in the early 2000’s it was purchased by a very wealthy man. He shut down the operation and made the island private for his friends and family. There are signs everywhere warning us to keep off, but we can anchor right beside it and they can't kick us out. 
 
 ![sampson-sunset](/images/sampson-sunset.jpg)
+
+*Still haven't see a green flash*
 
 ---
 
@@ -130,7 +132,7 @@ After concluding our investigation we continued to Staniel Cay. The town is basi
 
 ![staniels-colorful-houses](/images/staniels-colorful-houses.jpg)
 
-*You can find almost any color of house in the Bahamas*
+*Cute beach houses of Staniel Cay*
 
 On Staniel Cay there are two and a half grocery stores, and typically you have to go to all of them to complete your list. The two main ones are ‘the pink’ and ‘the blue’ stores. Supposedly the owner of the pink store is mother to the owner of the blue store. They are very close together and nothing on the shelves is priced. I'm thinking the locals might get a better deal on things than boaters passing through. 
 
@@ -140,7 +142,7 @@ The third option for supplies is a combination of a hardware and grocery store. 
 
 ![hardware-dock](/images/hardware-dock.jpg#vert)
 
-*Lots of skiffs tied up at the hardware dock looking for groceries*
+*Skiff parking at the grocery/hardware store*
 
 After stopping at the pink and blue stores we decided to get lunch at the yacht club. Fair warning: the prices are high and the portions are small. We were able to sit outside and have a great view over the water though. The patio is situated in the middle of the marina and multiple sharks swam circles under the dock. 
 
@@ -148,7 +150,7 @@ My parents say when the boats come in and butcher their fish there are dozens of
 
 ![thumb-wrestling](/images/thumb-wrestling.jpg)
 
-*Ill chance losing a thumb war over an actual thumb*
+*Losing a thumb war over an actual thumb*
 
 We also stopped at an adventure store/fish market on the island and were temporarily transported back to the U.S. The building was new and manicured for tourists, which felt very out of place here. The good news is that they had fresh grouper for sale and the price was surprisingly reasonable. 
 
@@ -166,7 +168,7 @@ In an attempt to relax we floated off the back deck to cool off, but the thick s
 
 ![sea-puppy](/images/sea-puppy.jpg)
 
-*Your friendly neighborhood nurse shark*
+*That's a big sea puppy*
 
 While shopping, Captain Chris of *Brown Eyed Girl* anchored beside us. We invited him over for happy hour and he didn't show up empty handed. He brought homemade bread, killer salami, and enough butter to clog an artery or two. It was fantastic. His brioche bread baked with thyme and lathered in butter was the perfect snack to absorb some of the alcohol we were putting down. He stuck around for the sunset and we all traded cruising stories from the trip. It was nice to have company for a change.
 
@@ -184,7 +186,7 @@ While Chris was over yesterday he asked if I would check some things under his b
 
 ![BEG-beaut-sunrise](/images/BEG-beaut-sunrise.jpg)
 
-*Brown-Eyed Girl basking in the sunrise*
+*The sunrise over Brown-Eyed Girl*
 
 The hole in question didn't seem clogged, but other ones definitely had some aquatic hitch-hikers built up. I gently chipped them away and cleared the holes. Next, he asked me to check out his drive shaft to see if it was rattling around. Now normally I avoid checking out other guys' shafts, but Chris is a nice guy and brought good bread so I made an exception. After inspecting the bearings I informed him of a slight jiggle on his left rudder, but nothing that seemed urgent. I'm not certain that the info I provided was helpful, but hopefully he's got an idea of what to do next.
 
@@ -192,7 +194,7 @@ By the time we got back to our boat the workers had arrived on the island and wo
 
 ![casey-jules-fishing](/images/casey-jules-fishing.jpg#vert)
 
-*If you caught fish all the time they'd call it "catching"*
+*If you caught fish all the time they would have named it "catching"*
 
 We had one fish hit our lures and as soon as I began reeling, it was off. My dad did some research in hopes of finding some new techniques and discovered that we have the right baits, spot and time of year. Apparently it just wasn't our day. Luckily we have grouper for dinner to hold us over until we catch something.
 
@@ -202,7 +204,7 @@ We ended up anchoring next to Thunderball Grotto. It is a similar swim-through c
 
 ![thunderball-interior](/images/thunderball-interior.JPG#vert)
 
-*Feeling cooler than James Bond*
+*Talk about a sweet movie set!*
 
 We loaded up in the skiff and went to check it out. The current surrounding the entrance was one of the strongest I've witnessed so far. My dad decided to stay in the boat in case we couldn't make the swim back. The rest of us geared up and braved the conditions. Entering the cave was fairly painless as the current rapidly swept us in. 
 
@@ -210,7 +212,7 @@ The stalactites and stalagmites were far less dramatic inside, but we were joine
 
 ![two-in-thunderball](/images/two-in-thunderball.JPG)
 
-*The writer and the editor in their natural habitat*
+*Feeling cooler than James Bond*
 
 Upon trying to leave we realized that we would have to work to get out. There is a rope inside to help pull yourself toward the entrance but it doesn't run all the way out. The three of us formed a line on the rope and got as close to the entrance as possible. Interested to see how strong it was, the girls sent me through first. Now I'm a pretty strong swimmer and had fins on to help, but it took about all I had to clear the overhang and escape.
 
@@ -220,13 +222,13 @@ Our final activity for the day was to go see the swimming pigs at Big Major Cay.
 
 ![og-swimming-pigs](/images/og-swimming-pigs.jpg)
 
-*No chance of mistaking these for any other swimming pigs*
+*Apparently there's knock-offs somewhere*
 
 It may sound cute and innocent, but some of the pigs are 600 lb monsters. There are even signs on the beach warning people to remain in their boats while visiting. We made a couple of circles and Jules and I scratched one's wiry back as it swam by, but trust me, snorkeling and fishing are much more entertaining than seeing pig bay at Big Major Cay. 
 
 ![back-scratch](/images/back-scratch.jpg)
 
-*He turned right around when he realized we didn't have any food*
+*Looks like a lot of bacon to me*
 
 Finally we returned home and prepared fish. My dad seasoned and grilled the grouper with some blackening and Española red chili powder while my mom constructed a coconut curry with veggies and saffron rice. We definitely eat well out here. 
 
@@ -238,7 +240,7 @@ Every once in a while we all need a lazy day. We used the morning to go ahead an
 
 ![blue-sea-white-sail](/images/blue-sea-white-sail.jpg)
 
-*Making phone calls to insurance companies is much more enjoyable out here*
+*Waiting on hold never looked so good*
 
 While we all worked on our chores, the supply boat finally arrived. It parked at the big government dock and the ship-mounted crane began unloading. The key here is to be patient. Just because the ship arrives doesn't mean the stores are stocked up. It takes some time to get it picked up from the dock, distributed to the correct stores, and placed on the shelf for sale. In Bimini, it's good practice to wait until the morning after the ship arrives to go shopping. Remember, down here everyone runs on island time so it helps to not be in a hurry.
 
@@ -246,7 +248,7 @@ After eating lunch and allowing ample time for the supplies to be divvied up, my
 
 ![tida-wave](/images/tida-wave.jpg)
 
-*Watch out for the tida wave*
+*Brace yourself for the tida wave*
 
 Originally the woman running the place told us it would arrive the day before, but now this guy says it will be here tomorrow. Who knows if there's even a ship coming for them at all? He was nice enough to inform us that today's ship was for the pink and blue stores. We hopped back in the skiff and drove around to check out the other stores.
 
@@ -254,7 +256,7 @@ My mom and I walked up the street to go shop while my dad stayed behind to watch
 
 ![staniel-mermaid](/images/staniel-mermaid.jpg)
 
-*A beautiful mural in downtown*
+*Princess Aurora mural on Staniels Cay*
 
 She and I then tried to go to the blue store but they were closed for some reason. Upon returning to the skiff things went south. The engine refused to start, and while we were shopping my dad snuck away and bought some cigarettes. Both my mom and I were instantly upset. He had been doing well, but it's called addiction for a reason. My mom berated him on the beach while he struggled to get the motor started and I also voiced my disappointment.
 
