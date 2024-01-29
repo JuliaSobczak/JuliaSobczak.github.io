@@ -1,9 +1,9 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-title: Sightseeing
+title: Central Exuma Highlights
 description: Twelfth blog post
-permalink: articles/sightseeing
+permalink: articles/central-exuma-highlights
 date: 2024-01-14
 ---
 This morning we said goodbye to Warderick Wells and departed our mooring ball. Fortunately, high tide happened to be around the same time. The channel that contains the moorings is narrow and full of boats so we need all of the extra water we can get. My dad gently eased us out right alongside the other boats. Too close for comfort is an understatement. We all waved at the people while trying to hide our nerves. Along the way the eagle rays swam under the boat but my dad was too focused to look. I'm just thankful I didn't have to navigate the minefield.
