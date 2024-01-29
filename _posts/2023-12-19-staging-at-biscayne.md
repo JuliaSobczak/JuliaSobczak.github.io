@@ -8,7 +8,7 @@ date: 2023-12-19
 ---
 Recently, Julia convinced me to start doing yoga. I was hesitant at first, but it has really been helping my neck and shoulders. I guess you can't knock it until you try it right? My new complication is finding somewhere on the boat to do it: the living room doesn't have space for me to fully extend my arms above my head, the bow has a weird curvature and receives all of the wind, and my stateroom only has room for the bed.
 
-![casey-yoga](/images/casey-yoga.jpg)
+![casey-yoga](/images/casey-yoga.jpg#vert)
 
 *My parents stateroom has slightly more room than mine*
 
@@ -42,7 +42,7 @@ I feel as though Key Biscayne is a very unique place to live, work, or own a bus
 
 Next, we proceeded to carry our haul two and a half miles back through the state park which included: a case of ginger beer, lots of cheese, milk, juice, and a Christmas dinner prime rib. I think it's safe to say we all got our exercise for the day. We swapped heavy bags of food from one hand to the other and frequently traded throughout the group to lessen the load. At least the path is a nice nature walk, there are so many more types of trees in Florida than in Colorado. 
 
-![banyan-tree](/images/banyan-tree.jpg)
+![banyan-tree](/images/banyan-tree.jpg#vert)
 
 *A well-established Banyan tree*
 
@@ -112,7 +112,7 @@ Check out the park here: [Key Biscayne National Park](https://home.nps.gov/bisc/
 
 I regret to inform you that the bugs have found us once again. Elliot Key is in Biscayne National Park and is part of the longest continuous mangrove forest left in Florida. The mangroves aid in beach building and maintenance, they form a natural breakwater for Florida and provide the insects with an ideal environment to thrive. After arriving on the beach yesterday, it was only seconds before we were swarmed. Needless to say we vacated the beach immediately, but the damage was already done. The no-see-ums don't bother my dad, Jules is lucky enough that her bites don't swell or itch, but my mom and I aren't as fortunate. 
 
-![roots-rising](/images/roots-rising.jpg)
+![roots-rising](/images/roots-rising.jpg#vert)
 
 *Exploring Elliot Key Beach, Biscayne National Park*
 
