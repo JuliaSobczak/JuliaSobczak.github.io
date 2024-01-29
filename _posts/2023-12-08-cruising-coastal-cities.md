@@ -8,7 +8,7 @@ date: 2023-12-08
 ---
 Upon waking up this morning blue sky was visible through our stateroom windows and small glints of sunlight danced through the hatch above our heads. Jules and I laid in bed debating on what to do today with our nice weather. Eventually we grew restless enough to emerge from below deck, only to find that we had been bamboozled. The sun had been showing through a small hole in the gray sky and disappeared as soon as we showed our faces. We also got a rude awakening from the wind as we stepped onto the unprotected bow.
 
-![casey on the bow](/images/casey-on-the-bow.jpg)
+![casey on the bow](/images/casey-on-the-bow.jpg#vert)
 
 *Windy mornings require backwards hats*
 
@@ -30,7 +30,7 @@ Every time I think the houses or boats can't get any bigger, they surprise me. W
 
 Today we stopped at the Pickle Rick fuel barge and took on fuel, turns out he had the cheapest diesel we could find at $3.99 a gallon. They have a pretty sweet set up out there! Using them to fuel seemed much easier than trying to squeeze into and tie up at a marina. Their barge anchors into the ground with huge poles so they're definitely not going anywhere when you tie up. Apparently, they have fueled yachts as large as 150 feet which take all 10,000 gallons of fuel that they hold…I bet it is a sight to see.
 
-![pickle-rick](/images/pickle-rick.jpg)
+![pickle-rick](/images/pickle-rick.jpg#vert)
 
 *Fueling up at Pickle Rick's barge*
 
@@ -90,13 +90,13 @@ Shortly after passing it, the ICW became a massive shipping channel so large tha
 
 If that wasn't enough to make us feel small, multiple freight ships stacked with containers neighbored the cruise ship pier. Huge steel cranes loomed over them like Imperial Walkers from Star Wars. The control houses were so far off the ground, just looking at them triggered my fear of heights.
 
-![star-wars-cranes](/images/star-wars-cranes.jpg)
+![star-wars-cranes](/images/star-wars-cranes.jpg#vert)
 
 *I hope the operators get paid well*
 
 Eventually, Fort Lauderdale gave way to Biscayne Bay. It was a breath of fresh air! The waterway widened tremendously and became noticeably clearer. Traffic got heavier when we entered the bay, but the 220 square miles gave everyone plenty of elbow room; at least until we all got squeezed back together under the bridges.
 
-![bridge-gatehouse](/images/bridge-gatehouse.jpg)
+![bridge-gatehouse](/images/bridge-gatehouse.jpg#vert)
 
 *Bridge tender control room in Fort Lauderdale* 
 
@@ -110,7 +110,7 @@ We plan to use the Cape Florida Channel to reach the ocean which I have been tol
 
 We mistimed our arrival at one of the drawbridges and ended up having to hold for half an hour. Not only did this burn unnecessary fuel, it also forced traffic to build up behind us. Eventually the bridge operator sounded the horn to open. My dad eased the boat under the gaping bridge and once again we entered a huge shipping channel. On our right, glass towers shot vertically into the clouds while on our left, mammoth ships awaited passengers and cargo. 
 
-![towering-buildings](/images/towering-buildings.jpg)
+![towering-buildings](/images/towering-buildings.jpg#vert)
 
 *Waterfront living in the city*
 
@@ -138,7 +138,7 @@ We enjoyed our time on the bow well into the evening. People watching was entert
 
 Now we wait. The crossing to Bimini is about fifty-five miles of open ocean. For us, that means there is no protection from bad weather and whatever conditions we do encounter will likely persist until we reach Bimini. We would like it to be a very nice, calm day - is that so much to ask? Apparently so. Our best chance at crossing was originally Monday the 18th, a week from today. However, when the weather is predicted that far out it is always subject to change. Yesterday, our beautiful and calm Monday changed to high winds and large swells.
 
-![windfinder](/images/windfinder.png)
+![windfinder](/images/windfinder.png#vert)
 
 *Ideally we want no wind and less than two foot waves*
 
@@ -164,7 +164,7 @@ At Lake Worth, we were fortunate enough to have a grocery store near our anchora
 
 There we can tie off our skiff without upsetting any home owners, but the grocery store is about two miles from the dock. After being cooped up on the boat for a few days the long walk didn't sound so bad. We hoofed it into town and had lunch before shopping. Carrying our groceries back was about as much fun as it sounds, we were all loaded down. 
 
-![groceries](/images/groceries.jpg)
+![groceries](/images/groceries.jpg#vert)
 
 *I swear it was uphill both ways*
 
@@ -174,7 +174,7 @@ When we left to go to town the tide was high and we managed to skate just over t
 
 Shortly before we arrived we decided to detour to where my parents had seen manatees in previous years. We meandered back into a calm cove and killed the engine, right on cue huge shapes became visible under the surface. We floated right above them patiently awaiting a greeting. Very slowly we watched as they surfaced for breath, only a tiny snout peeking above the water line. 
 
-![manatee-momma-baby](/images/manatee-momma-baby.jpg)
+![manatee-momma-baby](/images/manatee-momma-baby.jpg#vert)
 
 *Manatee babies are called calfs and will stay with mom for around two years*
 
