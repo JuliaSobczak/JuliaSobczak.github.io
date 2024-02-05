@@ -18,15 +18,19 @@ Instead of making a dent in our budget we opted to try and fill the dent in our 
 
 We pulled anchor and got the rods in the water immediately. This time we broke out some of the lures we bought in Florida. Up until now we haven't lost enough of them to break into the new ones, but it's time to change it up. What we have been using has a proven track record in previous years of producing fish, but lately it hasn't been working. My dad rigged up a couple of the new divers we bought in hopes that a different color or size may be the answer. 
 
-![rods-staniels](/images/rods-staniels.jpg)
+lures-pic
 
-*We're dying for some fresh fish*
+*An example of two squid lures (left) and two of our diving lures (right)*
 
 Our normal tactic is to pull one medium to large diver on our biggest rod and have it isolated on one side of the cockpit. The other two rods are then both deployed with a squid lure of varying size and color next to each other on the opposite side. The diver and larger squid are then let out to around the same distance behind the boat and the smaller squid is kept somewhat shorter in hopes of avoiding a tangle in the lines. Obviously that doesn't always keep them from making a mess, but it sure doesn't hurt. Now I may be disclosing classified fishing secrets here, but lately they don't seem so valuable. Do with them what you will. 
 
 Today we tried pulling two divers of varying size and color and a nice, brightly colored squid. Initially the hopes were high and the crew was in good spirits. However, after an hour or more of no action, the doubts began creeping in. We instinctively swapped around the duties of driving and watching poles in hopes of changing our luck. Sounds superstitious doesn't it? Well you would try it all too if you were in our shoes.
 
 Jules was struggling with the rolling waves again and layed down in hopes of escaping the nausea. I took over driving from my parents and they went to watch the rods. My dad also changed out one of the lures for something more coloful. The moment I sat down to drive I heard the drag rip from one of the rods and my mom screamed “FISH ON!!!” I had to compose myself for a moment to contain my excitement and pulled the boat back to an idle speed before running to assist.
+
+![rods-staniels](/images/rods-staniels.jpg)
+
+*We're absolutely dying for some fresh fish*
 
 The lure my dad had just changed out had been hit, but by the time I got within sight of the rod the fish was off. I think Poseidon is angry with our boat for a lackluster offering on Warderick Wells, but to be fair, we specifically asked for nice weather and healthy reef; not one of us even mentioned fishing. Still the last few instances of “fish on” have ended very abruptly. We continued fishing with a renewed sense of hope, but by the time we reached our inlet we remained empty-handed. Not even a barracuda to keep our spirits up. 
 
@@ -36,7 +40,7 @@ Similar to Staniel Cay, the anchorage was semi-crowded but the town is much more
 
 ![bp-laundry](/images/bp-laundry.jpg)
 
-*I was so excited for some fresh sheets*
+*I was so excited for some clean sheets*
 
 First, we went to drop off trash. My dad drove us to the government dock and I hopped out and took it to a trailer parked in the lot. Unlike Staniel Cay, Black Point asks for a donation rather than charging to dispose of any trash. They rely entirely on the honor system as the trailer has a lockbox mounted on it and no one is keeping watch. I dropped off our one bag and happily stuck two dollars in the slot.
 
@@ -46,7 +50,7 @@ The bakery is actually just a woman's house and she apparently sells out quickly
 
 ![weaving-palms](/images/weaving-palms.jpg#vert)
 
-*Many people on the island weave palm fronds in this way and sell them to Nassau*
+*Many people on the island weave palm fronds and sell them to manufacturers on Nassau*
 
 Next we went to a restaurant called Scorpios. My parents have enjoyed happy hour there a couple of times and have videos to prove it. The bar also sells rum and our stock is getting low, unfortunately it's about double the price of Bimini.
 
@@ -56,7 +60,7 @@ Like Staniel Cay there are three of them, but they are definitely smaller and mo
 
 ![bp-signs](/images/bp-signs.jpg#vert)
 
-*A list of local shops and attractions*
+*A directory of local shops and attractions*
 
 Of course there was still more to do. The motor on the skiff has been problematic the last couple of days. My dad checked the oil and discovered that it was overfilled. His theory is that the carburetor flooded with gas and overflowed into the oil. This creates a number of problems: the oil is much thinner than it should be, the engine is struggling to start, and having too much oil is worse than having too little. Time to change the oil.
 
@@ -109,6 +113,10 @@ It's also interesting to me that the iron shore, which I have described multiple
 
 Jules and I drifted along the wall right over the top of the smallest sea turtle I've ever seen. Unlike the majority of the others we have come across, he was a hawksbill sea turtle. Contrary to the green sea turtle, the edges of their shells are serrated and they have a much sharper and more pointed beak than other turtles as their name would suggest.
 
+(turtle comparison pics)
+
+*Hawksbill turtle (Left) Green turtle (Right)
+
 He kept us company right under our boards and eventually came up to take a breath. Upon breaking the surface he saw two huge looming shapes hovering above him and was understandably startled. He instantly ducked back into the water and paddled away rapidly.
 
 Some sections of the wall have sheared off and fallen into the ocean creating structure for fish and invertebrates to hide. Floating over those areas we saw multiple reef fish darting about, but the ripples on the surface made them tough to identify.
@@ -141,9 +149,7 @@ Eventually the wind strengthened to an uncomfortable level and we headed back to
 
 All of our activities had me famished. My dad marinated and grilled pork chops, Jules whipped together some instant Idahoan mashed potatoes, and I constructed a salad with our freshly procured vegetables. I would have never expected it, but Idahoan instant mashed potatoes can be killer. We doctor them up with butter, cheese, green chili, and garlic - there’s never any leftovers.
 
-Having good ingredients to add definitely helps, but I'm blown away at how great they are. I was a cook for a long time and made mashed potatoes literally every day for the restaurant but I'd stack our instant mash against theirs made with Yukon Gold potatoes any day of the week. I might even prefer ours because they have green chili in them. 
-
-The salad I put together was equally as tasty. I combined our romaine lettuce with green bell pepper, carrots, cucumber, white onion, tomatoes, and some delectable blue cheese. I think we have all been missing our veggies. 
+Having good ingredients to add definitely helps, but I'm blown away at how great they are. I was a cook for a long time and made mashed potatoes literally every day for the restaurant but I'd stack our instant mash against theirs made with Yukon Gold potatoes any day of the week. I might even prefer ours because they have green chili in them.  
 
 ---
 
@@ -158,11 +164,11 @@ The wind did intensify over night, but we rode out a much heftier blow in Hurric
 
 ![windy-jules](/images/windy-jules.jpg#vert)
 
-*Who needs a wind gauge when you have Jules' hair?*
+*Jules doing an impersonation of a weather vane*
 
 Slowly our anchorage is filling up, multiple boats that we saw in Black Point have come around the corner to join us in hopes of better protection. For this strong east wind I'm not sure that we could be in a much better spot.
 
-Being confined to the boat has presented us with an opportunity to tackle our mold problems. Being from Colorado, humidity has been fairly nonexistent for the majority of my life. I knew I was in for a surprise on this trip, but I didn't know to what extent. The day before yesterday I pulled my backpack out of our closet and discovered it was turning green. The bottom and front pocket had developed a literal carpet across it! 
+Being confined to the boat has presented us with an opportunity to tackle our mold problem. Being from Colorado, humidity has been fairly nonexistent for the majority of my life. I knew I was in for a surprise on this trip, but I didn't know to what extent. The day before yesterday I pulled my backpack out of our closet and discovered it was turning green. The bottom and front pocket had developed a literal carpet across it! 
 
 Immediately I had it in the sink scrubbing with vinegar and hot water. The rest of our clothes had dodged the bullet somehow, but Julia's shoes, ukulele case, and wallet weren't as lucky. She scrubbed them all with the same vinegar solution and left them out to dry. Nearly the entire time we have been on the boat my clothes have smelled somewhat musty, I assume it is just the price of admission.
 
@@ -170,17 +176,17 @@ The mold is one of those things that builds up really slowly and isn't super not
 
 ![cleaning-ceiling](/images/cleaning-ceiling.jpg)
 
-*Cleaning the ceiling requires some twisting and turning*
+*Jules cleaning the ceiling in our stateroom*
 
 The humidity is great for things like making my skin feel nice and soft and keeping my nails from being brittle, but it also rapidly decreases the shelf-life of cereal and chips, doesn't allow any of our towels to dry, ever, and bedsheets and blankets feel wet to the touch when lying down. On this subject, I may prefer Colorado, but they both have their drawbacks.
 
-After cleaning it was again time to play some cards. A week ago we began keeping score of our cribbage games and consistently playing with the same partner (Jules and I versus my mom and dad). After seven days the score is all square at six to six. We have played so much cribbage that we even tried it backwards. The normal game is essentially a race to the finish line, we instead tried to get there the slowest. It was hysterical, I think we may try and play reverse hearts next.
+After cleaning it was again time to play some cards. A week ago we began keeping score of our cribbage games and consistently playing with the same partner (Jules and I versus my mom and dad). After seven days the score is all square at six to six. We have played so much cribbage that we even tried it backwards. The normal game is essentially a race to the finish line, instead we tried to get there as slowly as possible. It was hysterical, I think we may try and play reverse hearts next.
 
 The cooler weather and gray skies prompted my mom to make spaghetti, one of my favorites. To be honest I just love Italian food, but spaghetti is definitely up there. She used a pound of elk Italian sausage and a pound of regular hamburger. After searing off the onions, carrots, garlic, and meat she added the tomatoes and melded together a magnificent sauce in the Instapot. My dad then sliced some bread and buttered it up with garlic salt before toasting it in the airfryer. Combine it all on top of some pasta and we had a meal that would make any Italian family jealous. 
 
-![jan21-sunset](/images/jan21-sunset.jpg)
+![jan22-sunset](/images/jan22-sunset.jpg)
 
-*Food and sunsets make people jealous*
+*Bad weather with a great view*
 
 ---
 
@@ -189,15 +195,17 @@ As of this morning we are in for at least three more days of wind over twenty kn
 
 ![20-knts-chart](/images/20-knts-chart.jpg)
 
-*20 knots is about half of the worst we've experienced so far*
+*20 knots is weak compared to the 35+ knots we endured in Hurricane Harbor*
 
 In an attempt to stay entertained I pulled up YouTube. In Colorado, watching videos was a somewhat regular part of my days off. I enjoyed relaxing after my long shifts at the brewery and drinking a beer. Here it is quite the contrary, minus the beer part. I started browsing some of the recent content from creators I used to tune into regularly and found myself bored. Maybe it's because I've taken such a break from it that I am no longer up to speed on things, or possibly because I have much better things to do down here than watch videos. Either way, I lost interest rapidly.
 
 My next activity was to do some yoga. I'm still not convinced that I'm doing any of it correctly, but supposedly practice makes perfect. Some days the instruction leads me to be calm and relaxed and others I end up covered in sweat and trembling. I never really know what I'm going to get, but that helps keep it interesting.
 
-Jules used part of the day to work on her project for The Watershed Center. It's an organization that she did some work for during a coding certificate program. She now has a part-time contract position that uses her GIS skills to help them plan future projects around floodplain resilience. She creates relative elevation models of certain areas that help The Watershed Center determine the likelihood and severity of future floods in Boulder, Colorado. It's not super lucrative, but at least one of us had some money coming in.
+Jules used part of the day to work on her project for The Watershed Center. It's an organization that she did some work for during a coding certificate program. She now has a part-time contract position that uses her GIS skills to help them plan future projects around floodplain resilience. She creates relative elevation models of certain areas that help The Watershed Center determine the likelihood and severity of future floods in Boulder, Colorado. It's not super lucrative, but at least one of us has some money coming in.
 
 (REM pic?) TBD
+
+*An example of a relative elevation model*
 
 While she brought in the bacon, my parents and I lowered the skiff and headed to the beach. The gap between the boat and the sand was like driving through a NASA wind tunnel, but when we arrived on the beach a nearby hill calmed the gusts to a gentle breeze. After being cooped up all day, we were all excited for a walk.
 
@@ -205,15 +213,15 @@ We trudged through the sparse brush behind the beach and up to the dirt road. Th
 
 The surf below us was unbelievable! Enormous waves grew into peaks as they neared the shore before exploding against the steep face below us. Eager for a better view we slinked back to the road and headed for some tall rocks to our left. 
 
+The road conveniently led us up a hill that almost entirely blocked the wind, but once we emerged on top the full force was unleashed. We had to brace into the gusts to keep our footing. The scale of the waves was hard to judge from above, but they looked tremendous. They were colliding with the wall below us so violently that the spray was coating my glasses. Unsurprisingly we didn't see any boats braving the storm.
+
 ![dudes-on-a-cliff](/images/dudes-on-a-cliff.jpg)
 
-The road conveniently led us up a hill that almost entirely blocked the wind, but once we emerged on top the full force was unleashed. We had to brace into the gusts to keep our footing. The scale of the waves was hard to judge from above, but they looked tremendous. They were colliding with the wall below us so violently that the spray was coating my glasses.Needless to say we didn't see any boats braving the storm.
+*So glad we weren't crossing today*
 
 I'm fairly confident that those were the largest seas I've ever witnessed in person. I am very happy to have been observing rather than experiencing the ferocity on display. The ocean is not usually known for being merciful, but Posiden definitely woke up on the wrong side of the bed this morning. After bearing witness to the wrath of the sea gods, we made our way back down to the beach.
 
 The three of us strolled to the end and back on the luxurious soft sand. I found another small starfish being tossed around in the surf and relocated him to a calmer spot. Getting off of the boat for a little while was well worth the effort, I never knew how much of a luxury taking a walk could be. Even if we did get blasted by the wind for most of it.
-
-![jan22-sunset](/images/jan22-sunset.jpg)
 
 ---
 
@@ -222,7 +230,7 @@ These windy days are all blurring together, it's starting to feel like “Ground
 
 ![windy-portal](/images/windy-portal.jpg)
 
-*Not much to do when it’s windy outside*
+*The view through our tiny stateroom portholes*
 
 After settling into an early morning food coma, we all lazed around well into the afternoon. The only person who managed to stay busy was Jules. She probably has about a dozen projects in progress at all times. She's always researching how to upgrade the blog's website, working on things for The Watershed Center, or planning our camping and food list for our music festival in June. I'm not sure she ever actually takes a break.
 
@@ -232,7 +240,7 @@ She and I hiked to the spot my parents and I had found the day before and again 
 
 ![jules-cliff](/images/jules-cliff.jpg)
 
-*In awe of the magnificent display of power*
+*In awe of the magnificent crashing seas*
 
 Eventually we turned back and headed for the beach. My parents met a couple from one of the neighboring boats in the anchorage. They told us they were both from Texas and, after purchasing their catamaran named *Lulu*, had sold their house to live onboard full-time.
 
