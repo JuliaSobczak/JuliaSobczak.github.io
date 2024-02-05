@@ -18,7 +18,7 @@ Instead of making a dent in our budget we opted to try and fill the dent in our 
 
 We pulled anchor and got the rods in the water immediately. This time we broke out some of the lures we bought in Florida. Up until now we haven't lost enough of them to break into the new ones, but it's time to change it up. What we have been using has a proven track record in previous years of producing fish, but lately it hasn't been working. My dad rigged up a couple of the new divers we bought in hopes that a different color or size may be the answer. 
 
-lures-pic
+![lures-horiz](/images/lures-horiz.jpg)
 
 *An example of two squid lures (left) and two of our diving lures (right)*
 
@@ -113,9 +113,9 @@ It's also interesting to me that the iron shore, which I have described multiple
 
 Jules and I drifted along the wall right over the top of the smallest sea turtle I've ever seen. Unlike the majority of the others we have come across, he was a hawksbill sea turtle. Contrary to the green sea turtle, the edges of their shells are serrated and they have a much sharper and more pointed beak than other turtles as their name would suggest.
 
-(turtle comparison pics)
+![hawksbill-turtle](/images/hawksbill-turtle.jpg#half) ![green-turtle](/images/green-turtle.jpg#half)
 
-*Hawksbill turtle (Left) Green turtle (Right)
+*Hawksbill turtle (Left) Green turtle (Right); photos by [SEETurtles.org](https://www.seeturtles.org/hawksbill-turtles) and [Jeff Milisen](https://milisenphotography.yolasite.com/turtles.php)*
 
 He kept us company right under our boards and eventually came up to take a breath. Upon breaking the surface he saw two huge looming shapes hovering above him and was understandably startled. He instantly ducked back into the water and paddled away rapidly.
 
@@ -203,9 +203,9 @@ My next activity was to do some yoga. I'm still not convinced that I'm doing any
 
 Jules used part of the day to work on her project for The Watershed Center. It's an organization that she did some work for during a coding certificate program. She now has a part-time contract position that uses her GIS skills to help them plan future projects around floodplain resilience. She creates relative elevation models of certain areas that help The Watershed Center determine the likelihood and severity of future floods in Boulder, Colorado. It's not super lucrative, but at least one of us has some money coming in.
 
-(REM pic?) TBD
+![rem-yukon-flats](/images/rem-yukon-flats.png)
 
-*An example of a relative elevation model*
+*An example of a relative elevation model (Beaver Creek, AK); photo from [Open Topography](https://opentopography.org/blog/new-package-automates-river-relative-elevation-model-rem-generation)*
 
 While she brought in the bacon, my parents and I lowered the skiff and headed to the beach. The gap between the boat and the sand was like driving through a NASA wind tunnel, but when we arrived on the beach a nearby hill calmed the gusts to a gentle breeze. After being cooped up all day, we were all excited for a walk.
 
