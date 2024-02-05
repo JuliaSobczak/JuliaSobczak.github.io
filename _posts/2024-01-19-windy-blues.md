@@ -10,31 +10,33 @@ After some debating we have decided not to get fuel at Staniel Cay. There are so
 
 ![goodbye-grotto](/images/goodbye-grotto.jpg)
 
-*Goodbye Thunderball Grotto*
+*Saying goodbye to Staniel Cay*
 
 Our main concern is the price: the marina on Staniel Cay charges $5.75 per gallon, so if we topped off it would cost about fifteen hundred dollars. The fuel in George Town will probably be the same price, if not more expensive, but at least we will know for sure if we need it or not. It would suck to top off here and then end up not needing it because we decide on a shorter route.
 
 Instead of making a dent in our budget we opted to try and fill the dent in our freezer. We haven't caught anything to eat since Bimini and morale surrounding dinners is declining. Despite having reassured ourselves that we have the right baits, techniques, and location, the fish continue to elude us. It is definitely not for lack of trying.
 
-We pulled anchor and got the rods in the water immediately after getting into some deeper water. This time we broke out some of the lures we bought in Florida. Up until now we haven't lost enough of them to break into the new ones, but it's time to change it up. What we have been using has a proven track record in previous years of producing fish, but lately it hasn't been working. My dad rigged up a couple of the new divers we bought in hopes that a different color or size may be the answer. 
+We pulled anchor and got the rods in the water immediately. This time we broke out some of the lures we bought in Florida. Up until now we haven't lost enough of them to break into the new ones, but it's time to change it up. What we have been using has a proven track record in previous years of producing fish, but lately it hasn't been working. My dad rigged up a couple of the new divers we bought in hopes that a different color or size may be the answer. 
 
 ![rods-staniels](/images/rods-staniels.jpg)
+
+*We're dying for some fresh fish*
 
 Our normal tactic is to pull one medium to large diver on our biggest rod and have it isolated on one side of the cockpit. The other two rods are then both deployed with a squid lure of varying size and color next to each other on the opposite side. The diver and larger squid are then let out to around the same distance behind the boat and the smaller squid is kept somewhat shorter in hopes of avoiding a tangle in the lines. Obviously that doesn't always keep them from making a mess, but it sure doesn't hurt. Now I may be disclosing classified fishing secrets here, but lately they don't seem so valuable. Do with them what you will. 
 
 Today we tried pulling two divers of varying size and color and a nice, brightly colored squid. Initially the hopes were high and the crew was in good spirits. However, after an hour or more of no action, the doubts began creeping in. We instinctively swapped around the duties of driving and watching poles in hopes of changing our luck. Sounds superstitious doesn't it? Well you would try it all too if you were in our shoes.
 
-Jules was struggling with the rolling waves again and layed down in hopes of escaping the nausea. I took over driving from my parents and they went to watch the rods. My dad also changed up one of the divers for one that runs more shallow. The moment I sat down to drive I heard the drag rip from one of the rods and my mom screamed “FISH ON!!!” I had to compose myself for a moment to contain my excitement and pulled the boat back to an idle speed before running to assist.
+Jules was struggling with the rolling waves again and layed down in hopes of escaping the nausea. I took over driving from my parents and they went to watch the rods. My dad also changed out one of the lures for something more coloful. The moment I sat down to drive I heard the drag rip from one of the rods and my mom screamed “FISH ON!!!” I had to compose myself for a moment to contain my excitement and pulled the boat back to an idle speed before running to assist.
 
 The lure my dad had just changed out had been hit, but by the time I got within sight of the rod the fish was off. I think Poseidon is angry with our boat for a lackluster offering on Warderick Wells, but to be fair, we specifically asked for nice weather and healthy reef; not one of us even mentioned fishing. Still the last few instances of “fish on” have ended very abruptly. We continued fishing with a renewed sense of hope, but by the time we reached our inlet we remained empty-handed. Not even a barracuda to keep our spirits up. 
 
-The destination for the night is the town of Black Point at the northern end of Great Guana Cay. My parents know a woman here who makes the best bread in the Bahamas so Jules and I are excited to try it. We pulled into the bay to the west of town and anchored.
+The destination for the night is the town of Black Point at the northern end of Great Guana Cay. My parents know a woman there who makes the best bread in the Bahamas so Jules and I are excited to try it. We pulled into the bay to the west of town and anchored.
 
-Similar to Staniel Cay, the anchorage was semi-crowded but the town was much more low-key. The main appeal is a laundromat that claims to be the best “cruiser friendly” laundromat in the Exumas. Those words were music to our ears as both Jules and I have some pretty rank laundry that could sorely use a wash. We stripped both of the beds, gathered all of the used towels, and lowered the skiff. I was so excited for some fresh sheets.
+Similar to Staniel Cay, the anchorage was semi-crowded but the town is much more low-key. The main appeal is a laundromat that claims to be the most “cruiser friendly” laundromat in the Exumas. Those words were music to our ears as both Jules and I have some pretty rank laundry that could sorely use a wash. We stripped both of the beds, gathered all of the used towels, and lowered the skiff.
 
 ![bp-laundry](/images/bp-laundry.jpg)
 
-*Clean laundry is a treasure on the boat*
+*I was so excited for some fresh sheets*
 
 First, we went to drop off trash. My dad drove us to the government dock and I hopped out and took it to a trailer parked in the lot. Unlike Staniel Cay, Black Point asks for a donation rather than charging to dispose of any trash. They rely entirely on the honor system as the trailer has a lockbox mounted on it and no one is keeping watch. I dropped off our one bag and happily stuck two dollars in the slot.
 
@@ -50,48 +52,46 @@ Next we went to a restaurant called Scorpios. My parents have enjoyed happy hour
 
 After making those two stops we still had about twenty minutes to burn as the bakery and bar are right next door to the laundromat. There are still a couple of items on the grocery list so we walked a short distance into town to check out the stores.
 
+Like Staniel Cay there are three of them, but they are definitely smaller and more expensive. After stopping at all of them, we bought one bag of rice and then went back to swap our laundry. Upon completing our errands, we headed back to the boat and waited for happy hour to start at four.
+
 ![bp-signs](/images/bp-signs.jpg#vert)
 
-*All of the stores in town are on this sign*
-
-Like Staniel Cay there are three of them, but they are definitely smaller and more expensive. After stopping at all of them, we bought one bag of rice and then went back to swap our laundry. Upon completing our errands, we headed back to the boat and waited for happy hour to start at four.
+*A list of local shops and attractions*
 
 Of course there was still more to do. The motor on the skiff has been problematic the last couple of days. My dad checked the oil and discovered that it was overfilled. His theory is that the carburetor flooded with gas and overflowed into the oil. This creates a number of problems: the oil is much thinner than it should be, the engine is struggling to start, and having too much oil is worse than having too little. Time to change the oil.
 
 Naturally, being on a boat adds about six extra layers of difficulty. First we raised the skiff out of the water with the crane and then gently balanced it on the rail of the cockpit. Precarious doesn't even cut it. Draining the oil is as simple as removing a bolt, but of course we had to catch and direct it into a container so we weren't polluting the ocean. My dad removed and replaced the filter and we refilled the oil reservoir. I think it went pretty smoothly all things considered.
 
+We lowered it back into the water and fired it up. It sounded horrible! My dad revved it a couple of times in hopes of it getting better to no avail. He then checked the oil level again and it didn't even show on the dipstick. Quickly he killed the power and we topped it off. The difference was night and day, he revved it again and the engine purred beautifully.
+
 ![aa-skiff](/images/aa-skiff.jpg)
 
-*It looks peaceful but don’t let that fool you*
-
-We lowered it back into the water and fired it up. It sounded horrible! My dad revved it a couple of times in hopes of it getting better to no avail. He then checked the oil level again and it didn't even show on the dipstick. Quickly he killed the power and we topped it off. The difference was night and day, he revved it again and the engine purred beautifully.
+*It looks peaceful, but it's hard work*
 
 After all of this we decided to try and squeeze in a snorkel before dark. My parents tried to take us to a spot that they had snorkeled before. However, when every bit of shoreline looks alike and there are little to no landmarks, it's tough to find. We rolled into the water and saw only sand. There was an occasional anemone clinging to the rocky wall along the shore and a few small pieces of coral, but otherwise it was uneventful.
 
+On the way back to the skiff, I noticed a huge barracuda patrolling the sand bed. The fish was covered in battle scars and had a couple of small fish darting around him. We kept an eye on him as he swam past but he wasn't worried about us at all. We may not have seen much, but I think we were all happy to have gotten in the water. Now it's time for happy hour.
+
 ![bp-pretty-water](/images/bp-pretty-water.jpg#vert)
 
-*At least we always get a pretty ride out of it*
-
-On the way back to the skiff, I noticed a huge barracuda patrolling the sand bed. The fish was covered in battle scars and had a couple of small fish darting around him. We kept an eye on him as he swam past but he wasn't worried about us at all. We may not have seen much, but I think we were all happy to have gotten in the water. Now it was time for happy hour.
+*The rocky coastline surrounding Black Point*
 
 We returned to the boat, rinsed off the saltwater, and put on dry clothes. Scorpios, like the laundromat, has its own dock for cruisers. The tide was pretty low when we pulled up, making it a huge step up to get out of the boat. There is a ladder to help people climb up, but it was engulfed in other parked skiffs.
 
 My dad managed to get over to it, and Jules, my mom, and I climbed out. Then he pulled around to the other side and we tied up our skiff, but the dock was sitting five feet over the water line with no ladder nearby. My dad jumped from the bow of the skiff and the three of us grabbed his shoulders and pulled him up onto the dock. I'm glad we didn't drop him, because we definitely had an audience of bar patrons watching at that point.
 
-![scorpios](/images/scorpios.jpg)
+![scorpios-sunset](/images/scorpios-sunset.jpg)
 
-*Local sitting as Scorpio's bar & grill*
+*Watching a beautiful sunset from Scorpio's Bar*
 
 We sat down at the bar and proceeded to drown our fishing sorrows in two-for-one rum punches and watch the sunset over the water. The drinks are served in small plastic cups, but the alcohol ratio makes up for the size. Supposedly it's a combination of pineapple, orange, lime, and rum, but after a drink or two you'll be asking: “WHERE'S THE JUICE?” We drank three rounds and were definitely under the influence. 
 
-![scorpios-sunset](/images/scorpios-sunset.jpg)
 
-*Watching a beautiful sunset from our table at Scorpio's*
 
 ---
 
 <p class="subtitle">Jan 20, 2024</p>
-I am happy to say that I woke up feeling better than I expected to. Not that any of us were severely drunk, but there's typically some tax to pay after drinking and I think I avoided it. Jules made an executive decision and took it upon herself to make some breakfast sandwiches for everyone. Our fresh bread combined with a nice runny yolk egg, bacon, and spicy green chili hit the spot.
+I am happy to say that I woke up feeling better than I expected to. Not that any of us were severely drunk, but there's typically some tax to pay after drinking and I think I avoided it. Jules made an executive decision and took it upon herself to make some breakfast sandwiches for everyone. Our fresh bread combined with a tasty runny yolk egg, bacon, and spicy green chili hit the spot.
 
 There is some nasty looking wind headed our way in the next day or two, so we moved a few minutes south to a more protected anchorage. The water in this area is plenty deep for us to snuggle up close to the shore and out of the wind and waves. Surprisingly, there was only one boat anchored here when we arrived. My parents said the last time they rode out a storm here boats were packed in tight.
 
@@ -99,11 +99,13 @@ This spot also gives us great access to a beautiful beach. The wind is predicted
 
 ![bp-beach](/images/bp-beach.jpg)
 
-*Beaches like this are why we're here*
+*One of our favorite beaches so far*
 
-Just south of the beach, the shoreline turns into an awesome wall of ironshore. The ocean has carved a deep channel where the waves crash against it causing a dramatic overhang. A cacophony of lapping waves drew our attention and we laid down on our boards to peer under the lip.
+Just south of the beach, the shoreline turns into an awesome wall of limestone. The ocean has carved a deep channel where the waves crash against it causing a dramatic overhang. A cacophony of lapping waves drew our attention and we laid down on our boards to peer under the lip.
 
-The constant erosion creates pockets and crevasses where the softer minerals dissolve, and the water flowing in and out makes some very unique sounds. The wide array of pitches and gurgles produced sounded alien in nature, like something out of a sci-fi movie. It's also interesting to me that the iron shore, which I have described multiple times as gnarly, and jagged, is also very fragile. The sharpest pieces are also the nearest to falling off. I reached over with my paddle and just touched some areas and the edges crumbled away into the water.
+The constant erosion creates pockets and crevasses where the softer minerals dissolve, and the water flowing in and out makes some very unique sounds. The wide array of pitches and gurgles produced sounded alien in nature, like something out of a sci-fi movie. 
+
+It's also interesting to me that the iron shore, which I have described multiple times as gnarly, and jagged, is also very fragile. The sharpest pieces are also the nearest to falling off. I reached over with my paddle and just touched some areas and the edges crumbled away into the water.
 
 Jules and I drifted along the wall right over the top of the smallest sea turtle I've ever seen. Unlike the majority of the others we have come across, he was a hawksbill sea turtle. Contrary to the green sea turtle, the edges of their shells are serrated and they have a much sharper and more pointed beak than other turtles as their name would suggest.
 
@@ -115,7 +117,7 @@ Jules and I made our way up to the beach where my parents were relaxing under th
 
 ![parents-umbrella](/images/parents-umbrella.jpg)
 
-*My parents know how to relax*
+*My parents sure know how to relax*
 
 Jules recently began a mission to craft using trash we find on the shore. She sifted through the plastic debris picking out pieces that match her idea. Her goal is to create a sort of crown from the materials and then wear it to our upcoming music festival. She hopes to spread awareness of trash in our oceans while simultaneously making a fashion statement.
 
@@ -125,21 +127,21 @@ I know it sounds a little far-fetched, but once she has her mind set on somethin
 
 *The beginning of a masterpiece? Or madness?*
 
-While she was busy sorting through her tiny treasures, I took a walk up the hill behind the beach. The sand weaved through an array of low lying scrub and small trees until I ended up on a crude dirt road at the top of a small rise. My feet have become increasingly tough while on this trip and now actually feel more comfortable with shoes off rather than on. I walked across the road carefully on bare feet to a patch of sand on the opposite side. From there I could just start to see the ocean on the other side of the island.
+While she was busy sorting through her tiny treasures, I took a walk up the hill behind the beach. The sand weaved through an array of low lying scrub and small trees until I ended up on a crude dirt road at the top of a small rise. My feet have become increasingly tough while on this trip and now actually feel more comfortable with shoes off rather than on. I walked across the road carefully on bare feet to a patch of sand on the opposite side. From there I could just start to see the ocean.
 
 Hoping for a better view, I continued walking along the sand through the spattering of dense plants. Slowly the boom of crashing waves came into earshot and my excitement heightened. As I drew nearer to the edge, my sandy path became sharp and jagged iron shore so I had to be careful with my footing, but I refused to be deterred. I clambered down a couple of steps and arrived on the edge of an immensely sheer cliff overlooking the ocean.
 
 ![big-waves-1](/images/big-waves-1.jpg)
 
-*Gorgeous waves crashing into the shore*
+*Huge waves ferociously beat against the shore*
 
-The waves rolled in and grew to a peak as the water became more shallow and then crashed hard against the rocky wall below me. I admired the view for a few minutes before turning back toward the beach. I made my way back across the road and down the sandy hill and met Jules wandering through the brush. Eager to show her what I had just witnessed, I called out to her to follow me. She and I returned to the cliffside and scrambled over the sharp rocks. Even having just seen it minutes before I stood again in awe at the gorgeous view.
+The waves rolled in and grew to a peak as the water became more shallow and then crashed hard against the rocky wall below me. I admired the view for a few minutes before turning back toward the beach. I made my way across the road and down the sandy hill and met Jules wandering through the brush. Eager to show her what I had just witnessed, I called out to her to follow me. She and I returned to the cliffside and scrambled over the sharp rocks. Even having just seen it minutes before I stood again in awe at the gorgeous view.
 
 Eventually the wind strengthened to an uncomfortable level and we headed back to the beach. My parents packed up their chairs and umbrella and we drove back to the *Altitude Adjustment*, arriving just in time to hoist the skiff back to the roof before the gusts whipped around us. Time for some dinner!
 
 All of our activities had me famished. My dad marinated and grilled pork chops, Jules whipped together some instant Idahoan mashed potatoes, and I constructed a salad with our freshly procured vegetables. I would have never expected it, but Idahoan instant mashed potatoes can be killer. We doctor them up with butter, cheese, green chili, and garlic - there’s never any leftovers.
 
-Having good ingredients to add definitely helps, but I'm blown away at how great they are. I was a cook for a long time and made mashed potatoes literally every day for the restaurant but I'd stack our instant mash against theirs made with Yukon gold potatoes any day of the week. I might even prefer ours because they have green chili in them. 
+Having good ingredients to add definitely helps, but I'm blown away at how great they are. I was a cook for a long time and made mashed potatoes literally every day for the restaurant but I'd stack our instant mash against theirs made with Yukon Gold potatoes any day of the week. I might even prefer ours because they have green chili in them. 
 
 The salad I put together was equally as tasty. I combined our romaine lettuce with green bell pepper, carrots, cucumber, white onion, tomatoes, and some delectable blue cheese. I think we have all been missing our veggies. 
 
