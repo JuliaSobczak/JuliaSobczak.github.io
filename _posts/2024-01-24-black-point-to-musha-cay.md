@@ -245,7 +245,7 @@ My dad found some information regarding a sandbar that is covered in sand dollar
 
 ![bw-beach](/images/bw-beach.jpg)
 
-*There really wasn't much to see here*
+*The whole area was pretty desolate*
 
 We walked around the area for a short time and after finding zero sand dollars decided to try our luck elsewhere. Just north of us we could see a huge field of shallow sand still covered in about two feet of water. We headed to check it out and nearly got stuck on the way. All of us had flashbacks to our theatrics in Hurricane Harbor and having to drag the skiff across the sandbar. 
 
