@@ -20,7 +20,7 @@ Coastal blowholes are formed when the rocky shoreline is eroded to form a sea ca
 
 ![blowhole-diagram](/images/blowhole-diagram.png)
 
-*A diagram of a geologic [blowhole](https://en.wikipedia.org/wiki/Blowhole_%28geology%29)*
+*A diagram of a geologic [blowhole](https://en.wikipedia.org/wiki/Blowhole_%28geology%29){:target="_blank"}*
 
 We lowered the skiff and headed into town. After dumping another bag of trash, we headed to inquire about more bread as our first loaf was nearly gone. My dad raved about this woman’s baking skills all the way from Florida; and I can now confirm, it’s killer bread! She told us that she hadn't made any coconut cinnamon raisin today, but to stop by tomorrow morning. 
 
