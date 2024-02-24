@@ -36,7 +36,7 @@ While my dad drove, Jules and I moved the poles into position and picked out som
 
 ![leaving-musha](/images/leaving-musha.jpg)
 
-*
+*Leaving Musha Cay*
 
 I took the first watch in the cockpit and slowly the morning ticked by. My mind wandered back to our last few times fishing; we didn't even get a bite. As my doubts began to race I started questioning our setup, did we choose the right baits? Did we let out too much line? Maybe not enough line? Are the baits fouled together?
 
@@ -56,7 +56,7 @@ At that point I had been reeling non stop and hadn't gained an inch. My arm cran
 
 The fish on my line had nearly swam to the front of the boat. The rod bent backwards toward my face and I began to worry if it could break from the awkward angle. My dad assured me it was fine and I bared down trying to turn the fish around. He looked toward the front of the boat and saw a big mahi come flying out of the water. The moment the words “that's a nice fish” came out of his mouth the line broke and the fight was over.
 
-![casey-jules-mahi](/images/casey-jules-mahi.jpg)
+![casey-jules-mahi](/images/casey-jules-mahi.jpg#vert)
 
 *Two out of three isn't bad*
 
@@ -72,15 +72,15 @@ Jules began reeling in one of the other rods to get it out of the way, my dad re
 
 ![cockpit-chaos](/images/cockpit-chaos.jpg)
 
-*
+*Absolute chaos in the cockpit*
 
 Once I had stopped the boat I ran back to help. I traded places with my dad as he brought the fish in close and he got ready with the gaff. It was a wahoo! I was scared to bring the fish too far out of the water as I did with our mahi-mahi near Cambridge, so I removed the rod from the holder to gain more control over the fish. It also allowed me to swing the tip closer to the boat to make the fish easier to gaff. Wahoo are long and slender fish which makes landing a shot all that much more difficult.
 
 My dad leaned out as I brought the fish in close. The first two attempts were a swing and a miss, but I managed to keep the fish from throwing the hook. Third time’s the charm: the gaff landed in the belly of the fish and my dad hoisted it aboard. It was definitely larger than any fish we have caught so far, but calling it a monster would be a stretch. It's the perfect size to eat if you ask me. There's certainly going to be less space in our freezer now.
 
-![wahoo](/images/wahoo.jpg)
+![wahoo](/images/wahoo.jpg#vert)
 
-*Jules has been begging for Wahoo*
+*Jules has been wanting wahoo since we left, her wish finally came true!*
 
 The fish was dispatched quickly by its wound and we got the rods back in the water in hopes of getting lucky one more time. By then we didn't have far to go before we turned into Elizabeth Harbor to anchor near George Town. We drug the lures until the last possible second but didn't end up adding to our haul. We reeled the rods in and my dad joined me in the cockpit to clean our catch. Recently, he was able to put a sharper edge on the filet knife and what a difference it made. He made quick work of the two mahi-mahi and I started rinsing and cleaning the meat to get it ready for packaging.
 
@@ -90,17 +90,17 @@ By this time our mouths were watering at the thought of our fresh catch. After w
 
 I went ahead and cut filets out of the skinned wahoo, rinsing it before handing it to my mom to package. My dad and I then got to work rinsing the crime scene out of the aft deck. He and I both snagged a scrub brush and went to town. Every time we thought we were almost done we would spot more blood, scales, and slime. If any of it is left behind it won't take long before the smell lets us know. Jules then took the liberty of slicing some sashimi out of the wahoo. Her hunger for the elusive fish had finally been satiated. She brought out Wasabi, soy sauce, and ginger and we made quick work of the fresh fish.
 
-![fillets-pic](/images/fillets-pic.jpg)
+![fillets-pic](/images/fillets-pic.jpg#vert)
 
-*
+*The product of a good day of fishing*
 
 Once we were satisfied and the fish had been fully taken care of it was time to go grocery shopping. George Town is by far the largest portion of civilization we have stopped at since Florida. We did spend a night parked at Nassau, but the next morning we were back on the move and never went ashore so this was the first city we had stepped in since Key Biscayne.
 
 I helped my dad lower the skiff and we loaded it up with a rolling cooler, backpacks, a gas can, and our trash. Our shoes also made an appearance for the first time since Blackpoint. The skiff ride across Elizabeth Harbor from the northeastern anchorage was a fairly long one; luckily the wind was calm and the waves were fairly minimal. We headed southwest across the harbor, past a large group of anchored boats, and passed under a tiny bridge into Lake Victoria. It's not a traditional lake but rather a small, well-protected bay with free docks to park at and run errands.
 
-![lake-victoria-bridge](/images/lake-victoria-bridge.jpg)
+![lake-victoria-bridge](/images/lake-victoria-bridge.jpg#vert)
 
-*
+*Skiffs have to pass under this bridge each time they want to dock at George Town*
 
 We pulled into the first dock on the left and joined a multitude of other skiffs. I hopped out, tied us up, and began unloading our bags. I carried our trash up a short hill and was directed by my parents to a truck parked in the lot. Similar to Blackpoint, it was all on the honor system. The front window of the truck was cracked just slightly and there was a piece of paper stuck inside with rates for disposal written on it. Large bags were five dollars, small were four, and they would even dispose of used oil for a small fee. I pitched our bag into the back and slipped four bucks in through the slot.
 
@@ -147,7 +147,7 @@ I figured the entire field would be packed with the upcoming weather and no nigh
 
 Seeing as how we are going to be here for a good chunk of time, I have been scrutinizing our charts and picking out things I would like to see in the area. Red Shanks happens to have a blue hole in very close proximity to it as well as some snorkel spots that seem promising. We lowered the skiff and headed to try and locate the blue hole. According to our map it is just outside the channel of water that people use to get to town with their skiffs. Overall I think it's only a minute or two away from the *Altitude Adjustment*.
 
-![looking-for-blue-hole](/images/looking-for-blue-hole.jpg)
+![looking-for-blue-hole](/images/looking-for-blue-hole.jpg#vert)
 
 *
 
@@ -199,7 +199,7 @@ Jules and I used the remaining sunlight to warm up on the bow and, after watchin
  
 For the first time in a long time, Jules and I broke out the big comforter this morning. We really enjoy sleeping with the big hatch over our heads open for the airflow, but this morning our nice gentle breeze got very chilly. So chilly in fact that I put on my long pajamas and didn't take them off until almost noon.
 
-![chilly-boats](/images/chilly-boats.jpg)
+![chilly-boats](/images/chilly-boats.jpg#vert)
 
 *
 
@@ -261,7 +261,7 @@ We turned around a corner at one point and the water became noticeably deeper be
 
 Eventually we returned to the boat and proceeded to squeeze every ounce of sunlight we could out of the day by lounging in the serene water. Again we were surprised at how much chillier the ocean is here than our previous stops. We have consistently moved south, so I assumed the water would gradually increase in temperature as we went. However with the Gulf Stream mixing warm and cool water as it runs north from the Gulf of Mexico, it’s hard to determine a consistent trend. 
 
-![red-shanks-floaty](/images/red-shanks-floaty.jpg)
+![red-shanks-floaty](/images/red-shanks-floaty.jpg#vert)
 
 *
 
@@ -269,7 +269,7 @@ Luckily the potent sunlight coupled with the absence of wind kept us plenty warm
 
 I sat down on a chair on the swim platform and, using a combination of sewing scissors and my face razor, she removed the equivalent of a small dog from my head. Her constant comments of “oh crap” and “looks like I missed some over there”  had me fearing the worst, but it actually ended up looking pretty good.
 
-![rooster-casey](/images/rooster-casey.jpg)
+![rooster-casey](/images/rooster-casey.jpg#vert)
 
 *
 
