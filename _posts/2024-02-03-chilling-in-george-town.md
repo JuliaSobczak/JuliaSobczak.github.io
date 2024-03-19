@@ -8,7 +8,7 @@ date: 2024-02-03
 ---
 This morning might have been even calmer than the last so Jules and I took off on the paddleboards. We followed a different route than the day before and were again greeted by a few tiny startled turtles as well as countless upside-down jellyfish.
 
-![clear-water-barracuda](/images/clear-water-barracuda.jpg)
+![clear-water-barracuda](/images/clear-water-barracuda.jpg#vert)
 
 *The water was so flat, we could see this big barracuda chilling under the boat*
 
@@ -30,13 +30,13 @@ Feeling slightly disappointed in the selection, we headed to try our luck at the
 
 The other store we found appeared to have more local traffic, but the prices were still high. Some things were actually more expensive. The store was small with narrow aisles and lots of people. The four of us squeezed through checking off some of the items on our list and trying not to plow anyone over. None of us are particularly large people and neither was anyone else in the store, but man those were some skinny walkways; it reminded me of shopping in Bimini.
 
-![tiny-grocery-aisle](/images/tiny-grocery-aisle.jpg)
+![tiny-grocery-aisle](/images/tiny-grocery-aisle.jpg#vert)
 
 After shopping on an empty stomach we set out in search of food. The restaurant my dad had in mind was on the other side of Lake Victoria so we walked around but discovered it was closed. What kind of lunch place is closed at 1 p.m. on a Saturday?
 
 We continued looking around town for a place to eat to no avail. We stopped at a small shack that had food advertised on the sign but only served drinks. Our final attempt at a meal was a place right next to the skiff dock, but their prices were too steep for our liking and we gave up and headed back to the boat.
 
-![swinging-pigs](/images/swingin-pigs.jpg)
+![swinging-pigs](/images/swingin-pigs.jpg#vert)
 
 The plan for our afternoon was to find a good place to snorkel. We picked out a spot on our charts that portrayed an abundance of coral and set off to find it. The weather was so nice we were able to skiff across the entirety of Elizabeth Harbor worry-free.
 
@@ -58,7 +58,7 @@ Eventually my parents grew tired and climbed back into the skiff while Jules and
 
 ![juv-yellowtaildamsel.jpg](/images/juv-yellowtaildamsel.jpg)
 
-*The neon blue dots scattered across their bodies shine like tiny stars; [Florent’s Guide to the Florida, Bahamas, and Caribbean Reefs] (https://reefguide.org/carib/pixhtml/yellowtaildamsel14.html)*
+*The neon blue dots scattered across their bodies shine like tiny stars; [Florent’s Guide to the Florida, Bahamas, and Caribbean Reefs](https://reefguide.org/carib/pixhtml/yellowtaildamsel14.html){:target="_blank"}*
 
 She and I continued following the wall slowly leaving the protection of the small rocks, suddenly the push and pull of the waves grew much stronger, it was like an underwater rollercoaster ride. I picked my head up out of the water and was briefly startled at the size of swell rushing towards us, but the reef grew so near the surface that it was providing a natural break-water for us and only a fraction of the potential power made it over.
 
@@ -130,7 +130,7 @@ The brunt of the west wind landed overnight and we were all happy to be well-sec
 
 We heard reports on the radio of other boats in the area experiencing winds over sixty knots. The biggest gust I saw personally was about thirty five so either they're exaggerating a little bit or we have some really great protection. I saw the strongest wind in the morning with my dad while he was listening to the radio in the pilothouse.
 
-![31knots-chartplotter](/images/31knots-chartplotter.jpg)
+![31knots-chartplotter](/images/31knots-chartplotter.jpg#vert)
 
 The clouds began spitting rain at us and gusts of wind battered against the outside of the boats. One of the sailing catamarans moored nearby apparently didn't have one of their sails properly stowed and when the powerful morning gusts hit them it came unfurled. The wind offered no mercy whatsoever as it shredded their forward sail in seconds. It flapped around and generated a sound similar to thunder rumbling and by the time the crew made it outside it was in tatters.
 
@@ -166,7 +166,7 @@ My dad supplied us with a hacksaw and his drill and we went to town. I was fearf
 
 We used the drill to open up a mouthpiece and then took turns embarrassing ourselves trying to blow the horn. Jules was closer to achieving the deep bellowing sounds than I was, but neither of us were great.
 
-![jules-conch](/images/jules-conch.jpg)
+![jules-conch](/images/jules-conch.jpg#vert)
 
 The remainder of the day felt so long and drawn out due to the lack of entertainment; I just had to keep reminding myself that my friends were at work and I am in the Bahamas. However it doesn't matter where you are if you're stuck with nothing to do. Hopefully my mom feels better tomorrow and the weather will allow us to vacate the premises of the boat and do something more interesting. 
 
