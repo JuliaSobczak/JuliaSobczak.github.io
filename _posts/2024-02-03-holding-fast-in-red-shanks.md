@@ -1,36 +1,38 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-title: Chilling in George Town
+title: Holding Fast in Red Shanks
 description: Sixteenth blog post
-permalink: articles/chilling-in-george-town/
+permalink: articles/holding-fast-in-red-shanks/
 date: 2024-02-03
 ---
 This morning might have been even calmer than the last so Jules and I took off on the paddleboards. We followed a different route than the day before and were again greeted by a few tiny startled turtles as well as countless upside-down jellyfish.
 
 ![clear-water-barracuda](/images/clear-water-barracuda.jpg#vert)
 
-*The water was so flat, we could see this big barracuda chilling under the boat*
+*This barracuda was lurking under the boat*
 
-We took our sweet time cruising along the shoreline and found a couple of treasures to bring back. Apparently the recent wind has blown some things from people boats and stranded them on the iron shore. The first was a neon green pool noodle we spotted floating against the rocks. I paddled over to it and secured it to the front of my board. Our other find was a styrofoam float for a crab pot attached to a length of yellow rope tangles in the iron shore. It took a little bit of convincing to break it free of the rocks but after a short struggle I freed it and handed it to Jules to tie to her board. You never know what you might find out here.
+We took our sweet time cruising along the shoreline and found a couple of treasures to bring back. Apparently the recent wind has blown some things from people boats and stranded them on the iron shore. The first was a neon green pool noodle we spotted floating against the rocks. I paddled over to it and secured it to the front of my board. Our other find was a styrofoam float for a crab pot attached to a length of yellow rope tangled in the iron shore. It took a little bit of convincing to break it out of the jagged rocks but after a short struggle I freed it and handed it to Jules to tie to her board. You never know what you might find out here.
 
 The rest of the paddle was beautiful but not nearly as eventful as the day before. She and I soon returned to the boat where my parents were waiting. The cruiser net had informed them of a farmers market which warranted a trip into town. My dad also remembered a restaurant from their first trip that served a good, fairly priced burger so we figured we would stop for lunch as well.
 
 We gathered up some cash and tote bags and headed out in the skiff. This time I drove. The motor on the skiff is much more powerful than the one on my small fishing boat, but otherwise it is the same concept. I twisted the throttle and we took off.
 
-Red Shanks grants us easy access to a back route into town that is only passable in the skiff due to the depth of the water. I drove us past the blue hole we investigated a day or two ago and under a large bridge. 
-
-I steered us through the center arch and then took a right turn across a large shallow sand bar and headed toward town. We drove through a field of moored boats and arrived in front of the small tunnel under the road. Once through, we parked at the dinghy dock, tied up, dropped off our trash, and then went to find the farmers market.
+Red Shanks grants us easy access to a back route into town that is only passable in the skiff due to the depth of the water. I drove us past the blue hole we investigated a day or two ago and toward a large bridge, through the center arch and then took a right turn across a huge shallow sand bar and headed toward town. We drove through a field of moored boats and arrived in front of the small tunnel under the road. Once through, we parked at the dinghy dock, tied up, dropped off our trash, and then went to find the farmers market.
 
 ![rs-underpass](/images/rs-underpass.jpg)
 
+*The familiar passage into town*
+
 We walked a short way through town and eventually stumbled across a couple of stalls. I think we may have been a little late to the party as there were only two stalls. Jules picked out a bottle of hot sauce (because we can never have enough hot sauce) and my mom purchased a bag of arugula.
 
-Feeling slightly disappointed in the selection, we headed to try our luck at the grocery store. We decided to try a different one than the last time in hopes that we could find some better prices. The store we went to on our first visit  is located right next to the skiff dock and we were worried they may upcharge because of the convenience for cruiser traffic.
+Feeling slightly disappointed in the selection, we headed to try our luck at the grocery store. We decided to try a different one than the last time in hopes that we could find some better prices. The store we went to on our first visit  is located right next to the skiff dock and we were worried they may upcharge because of the convenience for cruisers.
 
-The other store we found appeared to have more local traffic, but the prices were still high. Some things were actually more expensive. The store was small with narrow aisles and lots of people. The four of us squeezed through checking off some of the items on our list and trying not to plow anyone over. None of us are particularly large people and neither was anyone else in the store, but man those were some skinny walkways; it reminded me of shopping in Bimini.
+The other store we found appeared to have more local traffic, but the prices were still high. Some things were actually more expensive. The store was small with narrow aisles and lots of people. The four of us squeezed through checking off some of the items on our list and trying not to plow anyone over. None of us are particularly large people and neither was anyone else in the store, but man those were some skinny walkways.
 
 ![tiny-grocery-aisle](/images/tiny-grocery-aisle.jpg#vert)
+
+*It reminded me of shopping in Bimini*
 
 After shopping on an empty stomach we set out in search of food. The restaurant my dad had in mind was on the other side of Lake Victoria so we walked around but discovered it was closed. What kind of lunch place is closed at 1 p.m. on a Saturday?
 
@@ -38,15 +40,17 @@ We continued looking around town for a place to eat to no avail. We stopped at a
 
 ![swinging-pigs](/images/swingin-pigs.jpg#vert)
 
+*Their burger was $22 and didn't come with frys*
+
 The plan for our afternoon was to find a good place to snorkel. We picked out a spot on our charts that portrayed an abundance of coral and set off to find it. The weather was so nice we were able to skiff across the entirety of Elizabeth Harbor worry-free.
 
-My dad drove us in the direction of the area we had picked out on the map and spotted another skiff exploring the area. The harbor may have been nice and calm, but the ocean beyond was throwing some pretty intimidating waves against the rocks.
+My dad drove us in the direction of the area we had picked out on the map and spotted another skiff exploring. We headed towards them in hopes that they knew what they were doing. The harbor may have been nice and calm, but the ocean beyond was throwing some pretty intimidating waves against the rocky barrier.
 
 The other skiff tied off at a mooring ball just inside some small islands and two people jumped in. We watched as swell after swell rolled in bouncing their skiff around like a bathtub toy and slowly talked ourselves out of joining them. My dad then turned us around to see if we could find somewhere calmer. 
 
 We pulled behind a small rock, dropped the anchor, and jumped in. The water was fairly shallow and the large rolling swells had stirred up the fine sand reducing the visibility. We swam toward the rock and found a spattering of small coral heads to explore.
 
-Unfortunately, much like our last snorkel, it seemed to be struggling. We swam a couple hundred yards and back but didn’t find much worth looking at. It  fills me with sorrow to see the reef in this condition and I long for something to be done before it’s past the point of no return.
+Unfortunately, much like our last snorkel, the coral seemed to be struggling. We swam a couple hundred yards and back but didn’t find much worth looking at. It  fills me with sorrow to see the reef in this condition and I long for something to be done before it’s past the point of no return.
 
 Discouraged by our snorkel we gathered our courage and headed to brave the larger waves. The other skiff had departed the mooring ball while we were in the water and we pulled up and tied on. We wasted no time before getting back in the water and this time I was much more enthusiastic about the spot.
 
@@ -60,7 +64,7 @@ Eventually my parents grew tired and climbed back into the skiff while Jules and
 
 *The neon blue dots scattered across their bodies shine like tiny stars; [Florent’s Guide to the Florida, Bahamas, and Caribbean Reefs](https://reefguide.org/carib/pixhtml/yellowtaildamsel14.html){:target="_blank"}*
 
-She and I continued following the wall slowly leaving the protection of the small rocks, suddenly the push and pull of the waves grew much stronger, it was like an underwater rollercoaster ride. I picked my head up out of the water and was briefly startled at the size of swell rushing towards us, but the reef grew so near the surface that it was providing a natural break-water for us and only a fraction of the potential power made it over.
+She and I continued following the wall slowly leaving the protection of the small rocks, suddenly the push and pull of the waves grew much stronger like an underwater rollercoaster ride. I picked my head up out of the water and was briefly startled at the size of swell rushing towards us, but the reef grew so near the surface that it was providing a natural break-water for us and only a fraction of the potential power made it over.
 
 It was awesome to witness the waves growing and crashing from below the surface too. I dove down and rolled over to look up at the surface. The patterns created by the white frothy caps were entrancing to say the least. I haven’t ever had the opportunity to witness that spectacle before and took a few minutes to observe before we headed back to the skiff.
 
@@ -68,7 +72,7 @@ We headed across Elizabeth Harbor to the *Altitude Adjustment* and relaxed in th
 
 ![feb3-sunset](/images/feb3-sunset.jpg)
 
-*obligatory sunset pic*
+*I'll never tire of these sunsets*
 
 ---
 
@@ -82,11 +86,11 @@ After lunch it was time to get off the boat. The next few days may not grant us 
 
 We left in the skiff to do some exploring and sightseeing. There wasn’t any destination in mind, just an urge to do something else. The small waves crashing against the bow of the skiff proceeded to spit water at us despite my dad’s best attempts. At this point I think we have all accepted the fact that, unless it is dead calm, you're going to get splashed while riding in the skiff. It’s an unspoken rule to wear something that can get wet.
 
-The main goal of our brief adventure was to try and locate a new beach that we could explore. Sadly the only sand we were able to see was in peoples backyards. I jokingly suggested that we land the skiff anyway and cross our fingers that the owners aren’t home, but the rest of the group didn’t think I was as funny as I thought I was.
+The main goal of our brief adventure was to try and locate a new beach that we could explore. Sadly the only sand we were able to see was in peoples backyards. I jokingly suggested that we land the skiff anyway and cross our fingers that the owners aren’t home, but the rest of the group didn’t think I was all that funny.
 
-We cruised past a boat yard with some derelict looking boats propped up on blocks and what appeared to be a waste dump at one end of the property. There was a sign advertising marine repairs alongside one that read: “No Cash, No Splash”.
+We cruised past a boat yard with some derelict looking boats propped up on blocks and what appeared to be a waste dump at one end of the property. There was a sign advertising marine repairs alongside one that read: “No Cash, No Splash”. I suppose they'll just keep your boat if you don't have the money.
 
-There was also a sunken sailboat deteriorating in the saltwater a short distance offshore. Considering the popularity of the area, I’m surprised that it’s the only one we have seen around here. My dad drove us through a shallow cut in hopes of spotting some rays or turtles but they were nowhere to be found. Once we emerged on the far side the waves rolling through Elizabeth Harbor intensified and we decided to abandon our search and return to the familiar beach we had explored the last few days. It may not be new and interesting, but some sand is better than no sand.
+There was also a sunken sailboat deteriorating in the saltwater a short distance offshore. Considering the popularity of the area, I’m surprised that it’s the only one we have seen around here. My dad then drove us through a shallow cut in hopes of spotting some rays or turtles but they were nowhere to be found. Once we emerged on the far side the waves rolling through Elizabeth Harbor intensified and we decided to abandon our search and return to the familiar beach we had explored the last few days. It may not be new and interesting, but some sand is better than no sand.
 
 Parking on the beach in the rolling swells gave me flashbacks to Hawksbill Cay where we nearly sank the skiff. The previous experience however prepared us to handle the situation better and we got parked with minimal hassle anchoring the skiff further out in the water as opposed to trying to lug it up onto the beach. Jules and I went one way while my parents went the other. It’s great to get a little space between us every once in a while to prevent us from slaughtering one another.
 
@@ -97,6 +101,8 @@ There have been a few other people on the beach alongside us each time we have g
 The wind continued to escalate and after some time we jumped back into the skiff and returned to the *Altitude Adjustment*. The lack of activities today was a great reprieve for my aching shoulder and the dreadful wind in our future should allow me ample time to let it rest. Fingers crossed the sore throbbing pain becomes a thing of the past very soon.     
 
 ![feb4-sunset](/images/feb4-sunset.jpg)
+
+*The encroaching clouds over Red Shanks*
 
 ---
 
@@ -112,7 +118,7 @@ We have plenty of meat for the time being but some of our favorites are starting
 
 My shoulder repeatedly throbbed off and on throughout the afternoon and eventually my mom had heard enough of my wining. She went down to her stateroom and after some digging she emerged with some Bengay. I had never used it before and the tube she brought me had an expiration date of 2015, but it worked its magic all the same. I have used a few variations of icy-hot, but this stuff is the real deal. My mom said the smell reminded her of an old man, but I’ve definitely smelled worse. I can say without a doubt that Bengay will now be a staple in my medicine cabinet.
 
-I applied the miracle cream thoroughly and returned to the bow with Jules. The sun was just strong enough to relieve the chill from the ever strengthening breeze, but once it disappeared behind the encroaching clouds we didn’t last long. She and I gathered up our things and promptly donned warmer clothes.
+I applied the miracle cream thoroughly and returned to the bow with Jules. The sun was just strong enough to relieve the chill from the ever strengthening breeze, but once it disappeared behind the clouds we didn’t last long. She and I gathered up our things and promptly donned warmer clothes.
 
 Next it was time to try and serve my mom a loss at hearts. I’ve been thinking about it and I think Jules, my dad, and I have all lost a few times, but my mom has been the silent killer. She has been smart not to brag thus far, but we finally wised up. Sadly, no matter how hard you try to target a specific person it’s impossible to predict every move and Jules ended up the loser instead. Sorry Jules.
 
@@ -121,6 +127,8 @@ After having our best laid plans foiled, it was time for dinner. Tonight we chan
 After dinner it was time for, you guessed it, more cards. I snagged the cribbage board and Jules and I proceeded to get slaughtered back-to-back. My parents have been running away in our friendly competition and it’s beginning to get less friendly. The current score is 19-12 and each time we come out victorious my parents turn around and put us in our place. There is obviously some form of strategy involved, but at some point you have to wonder where our card luck disappeared to.     
 
 ![feb5-sunset](/images/feb5-sunset.jpg)
+
+*The sun couldn't manage to break through*
 
 ---
 
@@ -132,11 +140,15 @@ We heard reports on the radio of other boats in the area experiencing winds over
 
 ![31knots-chartplotter](/images/31knots-chartplotter.jpg#vert)
 
-The clouds began spitting rain at us and gusts of wind battered against the outside of the boats. One of the sailing catamarans moored nearby apparently didn't have one of their sails properly stowed and when the powerful morning gusts hit them it came unfurled. The wind offered no mercy whatsoever as it shredded their forward sail in seconds. It flapped around and generated a sound similar to thunder rumbling and by the time the crew made it outside it was in tatters.
+*Nearly a 32 knot gust (bottom right)*
+
+The clouds began spitting rain at us and gusts of wind battered against the outside of the boat. One of the sailing catamarans moored nearby apparently didn't have one of their sails properly stowed and when the powerful morning blow hit them it came unfurled. The wind offered no mercy whatsoever as it shredded their forward sail in seconds. It flapped around and generated a sound similar to thunder rumbling and by the time the crew made it outside it was in tatters.
 
 Generally when the sails are stowed they are wrapped up tight by design to prevent that from happening. I'm not sure if their equipment failed or if they made a mistake but I guarantee they'll be double checking their sails every time strong wind is predicted from here on out. That sail is probably in the eight to ten thousand dollar range and I'm sure it'll be fun to try and replace it all the way down here.
 
 ![stripped-flag](/images/stripped-flag.jpg)
+
+*If you look closely you can see the remnants of their tattered sail flapping in the thirty knot gusts*
 
 Strangely enough the weather was nearly enjoyable an hour later and continued to swap between horrendous and pleasant throughout the day. My mom has started feeling sick in the last day or two. I suppose it’s good timing as we will be confined to the boat and she won’t be missing anything exciting. Jules used our time stuck inside to attack our bathroom. She used so much vinegar that the fumes permeated through the boat but every surface was sparking when she was done.
 
@@ -152,22 +164,30 @@ I utilized the slow morning to take care of one of my favorite activities: taxes
 
 ![redshanks-mooringballs](/images/redshanks-mooringballs.jpg)
 
+*Happy to be well protected through this storm*
+
 Jules was bored enough to break out her Nintendo Switch and play some Zelda. You know it's a slow day when the Project Queen is out of things to work on. Today marked the first ever loss for my mom in hearts. She of course claims that it's only because she is sick and wasn't functioning at maximum capacity as she usually is. Excuses aside, the three of us will always take the win. 
 
 ---
 
 <p class="subtitle">Feb 8, 2024</p>
 
-Alright, it has been four days now since we have gotten off of the *Altitude Adjustment*. The four of us are bored to tears. The sun was out for the majority of the day but with the strong winds and my mom being sick it was hard to talk ourselves into doing something. Jules has been fantasizing about chopping off the top of our conch shell for quite some time now to make a horn and today we finally pulled the trigger.
+Alright, it has been four days now since we have gotten off of the *Altitude Adjustment*. Bored to tears is an understatement. The sun was out for the majority of the day but with the strong winds and my mom being sick it was hard to talk ourselves into doing something. Jules has been fantasizing about chopping off the top of our conch shell for quite some time now to make a horn and today we finally pulled the trigger.
 
 My dad supplied us with a hacksaw and his drill and we went to town. I was fearful to lop off too much so we started small and worked our way inward until we saw the opening of the chamber. Sawing through the thick, dense calcium carbonate was more of a hassle than we anticipated. When you think about it we were basically trying to cut through a rock.
 
 ![jules-casey-conch-horn](/images/jules-casey-conch-horn.jpg)
 
+*It's far more difficult than I anticipated*
+
 We used the drill to open up a mouthpiece and then took turns embarrassing ourselves trying to blow the horn. Jules was closer to achieving the deep bellowing sounds than I was, but neither of us were great.
 
 ![jules-conch](/images/jules-conch.jpg#vert)
 
+*Practice makes perfect*
+
 The remainder of the day felt so long and drawn out due to the lack of entertainment; I just had to keep reminding myself that my friends were at work and I am in the Bahamas. However it doesn't matter where you are if you're stuck with nothing to do. Hopefully my mom feels better tomorrow and the weather will allow us to vacate the premises of the boat and do something more interesting. 
 
 ![feb8-sunset](/images/feb8-sunset.jpg)
+
+*Our sun finally returned*
