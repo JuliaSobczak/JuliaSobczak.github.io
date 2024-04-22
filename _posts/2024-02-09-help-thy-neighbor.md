@@ -36,7 +36,7 @@ To complete our final errands we divided and conquered. My dad went to the hardw
 ---
 
 
-<p class="subtitle">Fed 10, 2024</p> 
+<p class="subtitle">Feb 10, 2024</p> 
 
 While going through the newly found morning routine of listening to the cruiser net a familiar voice chimed in. It was Captain Chris of Brown Eyed Girl. He arrived in Georgetown yesterday. We also heard that there was a free concert that the cruisers had put together. Apparently there are quite a few musicians spread around the multitude of boats. 
 
@@ -88,7 +88,7 @@ Chris hauled in the anchor and we guided him into the cove. I then used his boat
 ---
 
 
-<p class="subtitle">Fed 11, 2024</p> 
+<p class="subtitle">Feb 11, 2024</p> 
  
 After having a couple of Chris’ rum punches yesterday I think Jules and I were both in need of a real breakfast. Not only did bacon and eggs just sound way too good, but having a piece of bread to absorb some alcohol was a must. After some slight debating I suggested some fully-loaded avocado toast. 
 
@@ -116,7 +116,7 @@ Soon after my dad returned and we headed home to watch our yearly dose of footba
 ---
 
 
-<p class="subtitle">Fed 12, 2024</p> 
+<p class="subtitle">Feb 12, 2024</p> 
 
 Sailboaters tend to prefer different conditions for travel than we do. Where we look for very calm beautiful days with small waves they are searching for a sweet spot in the wind. Most sailors we have talked to aim for wind speeds in the mid to low teens. That of course means that they travel with whatever waves are present at that time. 
 
@@ -182,7 +182,7 @@ George and Carmen thanked us all up and down before sitting down to relax after 
 ---
 
 
-<p class="subtitle">Fed 13, 2024</p> 
+<p class="subtitle">Feb 13, 2024</p> 
  
 My hopes of a nice relaxing early morning paddleboard were dashed by the wind once again. The six knot prediction from Windfinder was inaccurate; I'm guessing it was closer to ten or twelve. We have officially decided to say goodbye to George Town tomorrow morning so my parents took one last trip into town. 
 
