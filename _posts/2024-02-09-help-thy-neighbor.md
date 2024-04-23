@@ -180,7 +180,7 @@ After a minute or two, he managed to free the rope from his prop and get reorien
 
 My dad and John both tugged on the front of the sailboat and began navigating it around the visible rocks guarding the entrance to Red Shanks. Thankfully there was plenty of room to make a nice wide turn around them because *Snow Problem* did just about everything but tow straight. George even hopped in his skiff and tried to reduce the swing by attaching himself to the stern of the boat. All he ended up doing was going for a wild ride and he got yanked forcefully from one side to the other while scrambling to try and offset the sway. 
 
-(towing video???) D
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oIIytAoxDLQ?si=PyKvnDovWBSj93Jh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 
 I'm sure the whole scene looked absolutely ridiculous. The rope attached to John's skiff was longer than ours to prevent us from smacking together. That in turn meant that when the sailboat swung hard toward our side the rope attached to the other skiff nearly decapitated us. Jules was put in charge of catching the line as it came in our direction and holding it off us. She did great. 
 
