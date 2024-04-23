@@ -172,7 +172,7 @@ Luckily the engine and propeller on their boat worked fine so we just needed to 
 
 ![dad towing finger](/images/dadtowingfinger.jpg#vert) 
 
-*Who thought this was a good idea?**
+*Who thought this was a good idea?*
 
 At the same time, Captain John of Mojo secured a second line to his skiff from the opposite side of the sailboat. He and his wife started letting rope out behind them and promptly got it fouled around their prop. Luckily it was a fairly easy fix, but the wind and current in the middle of the harbor pushed him around the nose of the sailboat and into us. In his defense, it was a lot to try and keep track of while also maneuvering his skiff in the elements.
 
