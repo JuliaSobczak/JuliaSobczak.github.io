@@ -18,15 +18,21 @@ Eventually the safety of Lake Victoria came into view and the torment subsided. 
 
 ![all the skiffs pic](/images/alltheskiffs.jpg) 
 
+*Cruiser traffic jam*
+
 After tying off we headed to the Exuma Tourism Office. Our hope was to find a map of the area with some points of interest on it, but sadly we ended up with a brochure filled with advertisements. Maybe there just isn't all that much to do around here. Feeling semi-discouraged, we headed to the grocery store. They had apparently just received some supplies as the vegetables looked beautiful and fresh. We also snagged two more big bags of chicken to help supplement our remaining frozen items.
 
-Next it was time for some lunch. We headed out and ended up at the Sandpiper Cafe. Right outside Jules and I met a young local artist named Emmanual who was selling some custom prints and paintings. He explained to us that he had lived on a few of the Bahamian islands and this was his favorite. It was super refreshing to talk to someone in our age group for a change. There was an awesome mural on the wall behind him that he had created for the cafe using spray paint and he told Jules and I that he had done several around the island.
+Next it was time for some lunch. We headed out and ended up at the Sandpiper Cafe. Right outside Jules and I met a young local artist named Emmanual who was selling some custom prints and paintings. He explained to us that he had lived on a few of the Bahamian islands and this was his favorite. It was super refreshing to talk to someone in our age group for a change. There was an awesome mural on the wall behind him that he had created for the cafe and he told Jules and I that he had done several around the island.
 
 ![Sandpiper cafe pic](/images/sandpipercafemural.jpg)
 
+*He did eveything but the logo with spraypaint*
+
 Eager for a new project, Jules offered to try and create a map for him that would guide people around to see his work. He was very interested and wanted to hear all about how she had gotten into making maps. They traded some information and we purchased one of his prints before going inside to have lunch.
 
-![Emmanuel’s print](/images/Emanuelprint.jpg)
+![Emmanuel’s print](/images/Emanuelprint.jpg#vert)
+
+*Jules is always networking* 
 
 The cafe had the normal conch and fish items, but I was more interested in the tikka masala. I am a huge fan of Indian cuisine and didn't realize how much I was missing it until I saw it on the menu. It wasn't the best I have ever tried, but for an Indian dish on a Bahamian Island it was killer. I even finished my mom's portion. 
 
@@ -42,13 +48,17 @@ While going through the new-found morning routine of listening to the cruiser ne
 
 My mom was still feeling under the weather when she woke up so Jules, my dad, and I went into town for some more groceries. This time Jules drove. It was a little touch and go to start, but her confidence is slowly growing. She just needs some more practice and she'll be a pro in no time. It's a big difference from driving the big boat; she's never operated an engine with a tiller rather than a wheel for steering. 
 
-![julesdrivingskiff](/images/julesdrivingskiff.jpg) 
+![julesdrivingskiff](/images/julesdrivingskiff.jpg#vert) 
+
+*I think we were all a little nervous*
 
 The general rule is turn the arm in the opposite direction of where you want to go. It takes some getting used to for sure. Once we made it to Lake Victoria my dad took over to park and then we headed for the farmers market. It was somewhat lackluster the first time we went and we hoped that arriving closer to when it started would yield better results. Sadly that was not the case.
 
 There were again two stalls of people, but this time there were some fresh eggs available. I opened the carton to check the eggs and found that one of them was huge. I commented to the seller that I'd like to see the chicken that egg came out of and he absolutely cracked up laughing. We bought three dozen before heading to the grocery store to try and find the remaining items on our list. 
 
 ![dad shopping](/images/dadshopping.jpg#vert) 
+
+*Scrounging for vegetables*
 
 It's been an interesting transition from shopping in the U.S. We have adopted an “if you see it and want it, buy it” mindset because you don't know if you'll ever see it again. If I operated that way in Colorado, it would drain my bank account rapidly. After making three stops in total, we crossed off four of the six items on our list. 
 
@@ -64,11 +74,15 @@ Now we had to locate Hurricane Hole Number One and the band which was playing on
 
 ![george town concert](/images/georgetownconcert.jpg) 
 
+*We didn't even try squeezing onto the beach*
+
 There was a large group rafted together and we asked to join. In total, I think there were eight skiffs tied to one mooring ball and not a single one of us was the owner. There was a huge crowd gathered on the beach and on the far side we could see a houseboat parked with a band squeezed onto the roof. There was someone playing a keyboard, one trombone player, and about half a dozen guitars. 
 
-We relaxed in the skiff with our drinks and listened to them play all manner of island-themed music, particularly Jimmy Buffet. For a few minutes there I felt like a cheeseburger in paradise. It couldn't have been much nicer in that little cove, the sun beat down to the point where I had to get in the water to cool off. 
+We relaxed in the skiff with our drinks and listened to them play all manner of island-themed music, particularly Jimmy Buffet. I expected nothing less. It couldn't have been much nicer in that little cove, the sun beat down to the point where I had to get in the water to cool off. 
 
 ![caseyjules at concert](/images/caseyjulesatconcert.jpg) 
+
+*Feeling like a cheeseburger in paradise*
 
 While we listened I saw Chris pull in and we invited him to join our cluster. There was a very nice couple from Seattle, Mark and Stacey, that we met as well and after the concert Chris invited the two of them and us back to his boat for happy hour. We formed a disorderly line and followed him back to the *Brown Eyed Girl* just a few minutes away. 
 
@@ -76,11 +90,15 @@ Once we got tied up and climbed aboard the first thing I noticed was how nice th
 
 Chris went down into the galley and in no time had mixed up some rum punches. He gave fair warning that they were dangerous and, after two, I can confirm the validity of that statement. We all went to the roof to hang out and chat, swapping stories about our trip so far and reminiscing about covid times. 
 
-![Casey on BEG](/images/caseyonBEG.jpg) 
+![Casey on BEG](/images/caseyonBEG.jpg#vert) 
+
+*We really like the wood decks*
 
 Eventually the sun crept low on the horizon and Mark and Stacey took off back to their boat. Rather than endure the rough ride across the harbor, Chris offered to tow our skiff across with his boat. He was hoping for some assistance navigating to Red Shanks and hooking up to a mooring ball.
 
 ![towingskiffsBEG](/images/towingskiffsBEG.jpg) 
+
+*Racing to get hooked up before dark*
 
 Chris hauled in the anchor and we guided him into the cove. I used his boat hook to grab the mooring ball and in no time had him secured. I can imagine it is much more difficult to get hooked up without any help. Finally we headed back to our boat and invited him over for some elk burgers and fries. 
 
@@ -100,13 +118,17 @@ While waiting for happy hour to roll around we got set up to watch the superbowl
 
 We all hopped into the skiff with our drinks and some snacks my mom made. Being moored in Red Shanks left us only about five minutes away from Jack and Jackie's condo. Jules again got to practice her driving skills in the skiff and is getting better all the time. Once we arrived in front of the condo, Jack came out and directed us into a narrow cut with a small dock inside to get parked. He then led us across the yard to a cute beach house. 
 
-![J&J condo](/images/J&Jcondo.jpg) 
+![J&J condo](/images/J&Jcondo.jpg)
+
+*Finally, some elbow room*
 
 We sat on the deck outside looking over the water and told them about our trip so far while they explained what it was like to live in George Town. They apparently have no need for a car and use bikes to go everywhere; sounds good to me. I went inside and used their bathroom at one point and it is hard to put into words how amazing it was to use a full-sized toilet. It had been far too long. 
 
 Jack was gracious enough to offer Jules and I some Yuengling beer which we happily accepted. We went through the couple of cases we bought in Florida very quickly. He even brought us a six pack when we started getting ready to leave. I see why my parents like these two so much. Jack then asked my dad for a ride to another one of their friends boats and he happily took the two of them towards town and dropped them off. 
 
 ![group pic](/images/grouppic.jpg) 
+
+*Great friends = Great times*
 
 Jules, my mom, and I waited at their condo while he gave them a ride and were greeted by a very sunburnt island cat. Initially he was wary of us, but after some gentle coaxing we gave him some scratches and made friends. Jules and I have been missing our animals badly. 
 
@@ -130,13 +152,15 @@ In what has become typical fashion the wind was stronger than predicted this mor
 
 ![gloomybeachpic](/images/gloomybeachpic.jpg) 
 
+*The clouds didn't last long and it got HOT*
+
 It is located on Crab Cay which she said she walks to from their condo all the time. Crab Cay is an island like many others in the Bahamas that began development into a town or resort but failed. This of course means that a group or individual owns the island and, in this case, don't allow trespassing. Jackie told us she has never had anyone approach or say anything to her about needing to leave so we went ahead and rolled the dice ourselves. If someone shows up and tells us to leave I suppose we will do just that. 
 
 The beach was rather small with sand that resembled mud in the way it sank beneath our feet. Jules broke out the frisbee we found earlier in the trip and we all tossed it around for a short time before getting overheated. My mom strolled to one end of the beach and back while the rest of us waded into the water. Jules immediately made friends with the tiny fish that gathered around her ankles. She hypothesized that they were feeding on something in the sand that was suspended as we walked.
 
 ![Julesfishfeet](/images/julesfishfeet.jpg) 
 
-*Gently disturbing the sand near these minnows encouraged them to stay close*
+*Everytime she moved more tiny fish appeared*
 
 After finding a couple of small shells and collecting another full bag of plastic, we vacated the beach and explored our way back to the boat. My dad drove us through some shallow channels of water nestled between small spits of land and eventually we appeared on the far side of the Red Shanks mooring field. Shortly after we got back to the boat, a group of people in a skiff recognized my dad and stopped to talk. 
 
@@ -146,7 +170,9 @@ They were hoping to find some help to tow them the short distance and get them s
 
 Luckily the engine and propeller on their boat worked fine so we just needed to steer. It was much easier said than done. My dad grabbed a yolk setup that we could attach to both sides of our skiff creating an even connection point. After securing it to the eyelets on either side of the stern, Captain George of *Snow Problem* handed us a rope that he had tied to his bow. We clipped on and began letting it out behind us. 
 
-![dad towing finger](/images/dadtowingfinger.jpg) 
+![dad towing finger](/images/dadtowingfinger.jpg#vert) 
+
+*Who thought this was a good idea?**
 
 At the same time, Captain John of Mojo secured a second line to his skiff from the opposite side of the sailboat. He and his wife started letting rope out behind them and promptly got it fouled around their prop. Luckily it was a fairly easy fix, but the wind and current in the middle of the harbor pushed him around the nose of the sailboat and into us. In his defense, it was a lot to try and keep track of while also maneuvering his skiff in the elements.
 
@@ -160,6 +186,8 @@ I'm sure the whole scene looked absolutely ridiculous. The rope attached to John
 
 ![Jules no decapitation](/images/julesnodecapitation.jpg) 
 
+*Keeping a watchful eye on the other rope*
+
 The entire time we were pulling, the sailboat was oscillating drastically. It would sway to one side, stop, and then sway back nearly one hundred and eighty degrees in the opposite direction. It was literal chaos. At one point, Carmen gave the boat some throttle and, coupled with John pulling hard on his side, we ended up getting into a rather precarious situation. Due to the angle of the rope tied to our skiff, my dad was unable to make a turn to get us back in front of *Snow Problem*. After about a minute of fighting, we ended up behind the sailboat and began getting towed backwards. 
 
 Initially it didn’t seem like too bad of a problem. However, the back wall of the skiff where the motor is lower than the bow and sides to allow the prop to be submerged. This means that it is the easiest place for water to begin filling the boat. The forward momentum of *Snow Problem* coupled with the opposing waves caused a moment of sheer panic as water cascaded into the bottom of our skiff. I immediately went to the front to try and reduce the weight in the stern and we all screamed in unison to let George know we had a serious problem. 
@@ -172,13 +200,17 @@ Slowly but surely we tugged the sailboat toward a mooring and, once it was in po
 
 The momentum of *Snow Problem* coupled with the wind dragging it away from the ball caused me to have to hold the entire weight of the sailboat for some time before we could get the rope tied off. That definitely didn't do any favors for my recovering shoulder, but I held strong regardless. At least now I can brag that I held an entire sailboat in place with my barehands.
 
-![Casey holding the boat](/images/caseyholdingtheboat.jpg) 
+![Casey holding the boat](/images/caseyholdingtheboat.jpg#vert) 
+
+*Don't worry guys, I got it*
 
 The second George had the rope secured to the cleat, I think everyone involved took a massive deep breath. Not only was the stressful part over and done with but now we could all stop shouting bloody murder at one another in an attempt to communicate. I'm worried we may all lose our voices. 
 
 George and Carmen thanked us up and down before sitting down to relax after what I am sure was an extremely taxing day. I can't imagine the emotional roller coaster ride they endured. After completing our good-deed-of-the-day we returned to the *Altitude Adjustment* for dinner. Hopefully we will have good boating karma from here on out. 
 
-![Sunset glow silhouette](/images/sunsetglowsilhouette.jpg) 
+![Sunset glow silhouette](/images/sunsetglowsilhouette.jpg#vert) 
+
+*Hard to beat a killer afterglow*
 
 
 ---
@@ -194,7 +226,9 @@ It might just be my imagination, but I swear the gusts escalated right as we tur
 
 The sun beat down, and despite the constant gusts of wind, created a very hot day. It wasn't long after my parents returned that the floaties were in the water. Luckily the water temperature had come up a few degrees in the last day or two and we were able to relax rather than shiver. 
 
-![casey pool noodle jump](/images/caseynoodlejump.jpg)
+![casey pool noodle jump](/images/caseynoodlejump.jpg#vert)
+
+*Talk about a very near miss*
 
 I grabbed the new pool noodle we found and jumped in to give it a test drive. It was actually big enough to support me, which is more than I can say for the one we already had. While we were relaxing, John from Mojo cruised by to go help George on *Snow Problem* try and move some very tight bolts. They needed to remove the shaft that held their rudder in order to take some measurements for a replacement. Again, it was easier said than done. 
 
@@ -204,6 +238,8 @@ Next the four of us headed to happy hour with Mark and Stacy on their boat *One 
 
 Initially I was a little nervous to get on the board at night in the ocean, but the wind had all but ceased to exist and the water was absolutely glass. Jules accompanied me on the rescue mission and we took off into the inky black night equipped with a tiny flashlight and her phone light. After about ten seconds, we both realized how amazing it actually was. 
 
-![Jules night paddleboard](/images/julesnightpaddleboard.jpg) 
+![Jules night paddleboard](/images/julesnightpaddleboard.jpg#vert) 
+
+*I wonder whats lurking below the surface*
 
 It was so still we could see the stars reflecting on the water. We both stared up in awe at the cloudless sky and basked in the wonderful silence. The only audible sounds other than an occasional voice were our paddles gently breaking the water's surface. I felt like we were on a stealth mission. I never even pulled out the flashlight. We took our time both going and coming to soak in the new-found activity. I honestly can't wait for another still night like that to do it again. Just try not to let your imagination wander too far while floating on the dark waters. 
